@@ -1,32 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,FMTV
-https://v8.ciclano.io:1443/dostres/_definst_/dostres/chunklist_w760166144.m3u8
-
-#EXTINF:-1, TeleCanal 12
-https://cdn4.hostlagarto.com:8081/telecanal12/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, PuntaCanal
-https://cdn4.hostlagarto.com:8081/puntacanatv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, ATV Dominicana
-https://cdn4.hostlagarto.com:8081/atvdominicana/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BELLAVISION
-https://cdn4.hostlagarto.com:8081/Bellavision8hd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, TELECARIBE
-https://cdn4.hostlagarto.com:8081/Telecaribehd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, CANAL18
-https://cdn4.hostlagarto.com:8081/canal18hd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, WMSTV
-https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/chunks.m3u8?nimblesessionid=69134146
-
-#EXTINF:-1, TELEVISON DEL ESTE
-https://cm.hostlagarto.com:4445/ESTV/estv.myStream/chunks.m3u8?nimblesessionid=69136374
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO",Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
@@ -188,6 +161,34 @@ https://5ca3e84a76d30.streamlock.net/sqcs/videosqcs/playlist.m3u8?wmsAuthSign=c2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J6jnsBS.png" group-title="MEXICO",Tele Yucatan
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjAgODo0NTo1NSBQTSZoYXNoX3ZhbHVlPW1JZHZGbHAwb1BIRkFML0RmWUV6SVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9
+
+#EXTINF:-1 group-title="MOVIES",FMTV
+https://v8.ciclano.io:1443/dostres/_definst_/dostres/chunklist_w760166144.m3u8
+
+#EXTINF:-1 group-title="MOVIES",TeleCanal 12
+https://cdn4.hostlagarto.com:8081/telecanal12/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MOVIES",PuntaCanal
+https://cdn4.hostlagarto.com:8081/puntacanatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MOVIES",ATV Dominicana
+https://cdn4.hostlagarto.com:8081/atvdominicana/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MOVIES",BELLAVISION
+https://cdn4.hostlagarto.com:8081/Bellavision8hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MOVIES",TELECARIBE
+https://cdn4.hostlagarto.com:8081/Telecaribehd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MOVIES",CANAL18
+https://cdn4.hostlagarto.com:8081/canal18hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MOVIES",WMSTV
+https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/chunks.m3u8?nimblesessionid=69134146
+
+#EXTINF:-1 group-title="MOVIES",TELEVISON DEL ESTE
+https://cm.hostlagarto.com:4445/ESTV/estv.myStream/chunks.m3u8?nimblesessionid=69136374
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I3cRfMS.png" group-title="SPAIN",+24 Eventos 1
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
