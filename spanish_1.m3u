@@ -162,8 +162,11 @@ https://5ca3e84a76d30.streamlock.net/sqcs/videosqcs/playlist.m3u8?wmsAuthSign=c2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J6jnsBS.png" group-title="MEXICO",Tele Yucatan
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjAgODo0NTo1NSBQTSZoYXNoX3ZhbHVlPW1JZHZGbHAwb1BIRkFML0RmWUV6SVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9
 
-#EXTINF:-1 group-title="MOVIES",FMTV
+#EXTINF:-1 group-title="MOVIES",FMTV MOVIES2
 https://v8.ciclano.io:1443/dostres/_definst_/dostres/chunklist_w760166144.m3u8
+
+#EXTINF:-1 group-title="MOVIES",FMTV MOVIES1
+https://5c21f7ec1999d.streamlock.net/8028/8028/chunklist_w1150773467.m3u8
 
 #EXTINF:-1 group-title="MOVIES",TeleCanal 12
 https://cdn4.hostlagarto.com:8081/telecanal12/tracks-v1a1/mono.m3u8
