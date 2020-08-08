@@ -55,7 +55,7 @@ https://srvstream01.televisioneducativa.gob.mx/hls/telesecundaria.m3u8
 https://srvstream01.televisioneducativa.gob.mx/hls/telesecundariamas.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zA61jld.png" group-title="MEXICO",CB TV Morelia
-https://5ca3e84a76d30.streamlock.net/cbtv/videocbtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjAgODoyMTo0OSBQTSZoYXNoX3ZhbHVlPW9peHBsc0Ewdk1DYnZQbmpJNVlmcVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9
+https://5ca3e84a76d30.streamlock.net/cbtv/videocbtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjAgMTI6MTY6MDggQU0maGFzaF92YWx1ZT1pcFFEZjNRcTNUN3dJdjFwa1VsT0tnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO",Milenio TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
@@ -191,6 +191,21 @@ https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/chunks.m3u8?nim
 
 #EXTINF:-1 group-title="MOVIES",TELEVISON DEL ESTE
 https://cm.hostlagarto.com:4445/ESTV/estv.myStream/chunks.m3u8?nimblesessionid=69136374
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E2Mpuoz.png" group-title="MOVIES",HM TV 33
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kV5t7Dg.png" group-title="MOVIES",Frecuencia Musical (Opt-1)
+https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kV5t7Dg.png" group-title="MOVIES",Frecuencia Musical (Opt-2)
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="MOVIES",MTV
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="MOVIES",Orbit Cable
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I3cRfMS.png" group-title="SPAIN",+24 Eventos 1
