@@ -1,39 +1,46 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="I46.1.29020.zap2it.com" tvg-name="46.1 WKLEDT" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true",EPG | PBS | KET
+#EXTINF:-1 tvg-id="I46.1.29020.zap2it.com" tvg-name="46.1 WKLEDT" tvg-type="live" group-title="KIDS_TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true",EPG | PBS | KET
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="I46.4.30551.zap2it.com" tvg-name="46.4 WKLEDT4" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true",EPG | PBS Kids | KET
+#EXTINF:-1 tvg-id="I46.4.30551.zap2it.com" tvg-name="46.4 WKLEDT4" tvg-type="live" group-title="KIDS_TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true",EPG | PBS Kids | KET
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Entertainment",PBS | WPSU
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="KIDS_TV",PBS | WPSU
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="Canadian TV",tvo KIDS
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="KIDS_TV",tvo KIDS
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
-#EXTINF:-1, tvg-logo="http://mediad.publicbroadcasting.net/p/krwg/files/styles/x_large/public/201703/kids_0.jpg" group-title="Cartoons",PBS Kids Channel
-https://live-cdn.pbskids.org/out/u/est.m3u8
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca673e0d0bd6c2689c94ce3/featuredImage.jpg" group-title="KIDS_TV",Nick
+https://stitcher.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca6748a37b88b269472dad9/featuredImage.jpg" group-title="KIDS_TV",Nick Jr.
+https://stitcher.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1, tvg-logo="https://www.stream2watch.ws/images/streams/18/stm/14618509235191.png",Cartoon Network
-https://nl2.streamlive.to/freeabr/9m54z44v84k7qqc/rtmp/9m54z44v84k7qqc/chunks.m3u8?nimblesessionid=2687927&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOS8yMDIwIDM6MzA6MjAgUE0maGFzaF92YWx1ZT1oR0hRaGZJbk45Vjlnc2Qxa3gyekxnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMyZpcD0xODkuMTM1LjEzNy40NQ==
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="KIDS_TV",After School Cartoons
+http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1, tvg-logo="https://www.stream2watch.ws/images/streams/62/stm/14592559977104.jpg",PBS
-https://bks40001.gttstreamtv.com/bpk-token/kaceaeei5aaaaaaaaec1pxdaaaaaaaaaaaaetavguznsdzyg/0000674/PBS-audio_120052_eng=120000-video=540000.m3u8
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5be4c6311843b56328bce619/featuredImage.jpg" group-title="KIDS_TV",Anime All Ages
+https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1, type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/Boomerang.png", Boomerang
-http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL324/PROFILE03.m3u8?lg=g6
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/9e3a8364-6268-caa1-53ee-fccdbca198aa-Hero%20Optional%201560x878.jpg" group-title="KIDS_TV",Anime All Day
+http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1, tvg-logo="https://www.stream2watch.ws/images/streams/29/stm/14617747472399.jpg",Disnet CHannel opt1
-https://fathomless-cliffs-85079.herokuapp.com/http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel-avc1_600000=8.m3u8
-#EXTINF:0,tvg-logo="https://www.stream2watch.ws/images/streams/29/stm/14617747472399.jpg",Disnet CHannel opt2
-https://fathomless-cliffs-85079.herokuapp.com/http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel-mp4a_96000_rus=5.m3u8
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ad8d54be738977e2c310940/featuredImage.jpg" group-title="KIDS_TV",Kids
+https://stitcher.pluto.tv/stitch/hls/channel/5ad8d54be738977e2c310940/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1, type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/DisneyChannel.png", DisneyJr.
-http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL308/PROFILE03.m3u8?lg=g6
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c5c2e228002db3c3e0b1c6f/featuredImage.jpg" group-title="KIDS_TV",Kids Learning
+https://stitcher.pluto.tv/stitch/hls/channel/5c5c2e228002db3c3e0b1c6f/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1, type="stream", DisneyXD
-http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL322/PROFILE03.m3u8?lg=g6
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/410c79a3-193d-ed36-bce8-5f86d9b4996a-KidsTV_featured.jpg" group-title="KIDS_TV",Kids TV
+http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF-1 tvg-id="" tvg-name="" tvg-logo="http//pluto.tv.s3.amazonaws.com/channels/5ad9b648e738977e2c312131/featuredImage.jpg" group-title="KIDS_TV",Pluto TV Kids
+https://stitcher.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cd1495bd9e0ec55c4ecbf52/featuredImage.jpg" group-title="KIDS_TV",Pluto TV Kids Jr.
+https://stitcher.pluto.tv/stitch/hls/channel/5cd1495bd9e0ec55c4ecbf52/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
 #EXTINF:-1 tvg-chno="5001" tvg-id="2020 Live" tvg-name="2020 Live" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/e155b2ff-61dc-44c2-9d2a-26b0f69ebc5b-small3x1_stirr_0120_epg_2020LIVE_1920x1080.png?1579110210736" group-title="STIRR Tv",2020 Live
 https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
