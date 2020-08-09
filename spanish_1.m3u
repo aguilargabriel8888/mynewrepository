@@ -207,6 +207,17 @@ http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="MOVIES",Orbit Cable
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w248344991.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VuNcifM.png" group-title="MOVIES",GH Television
+http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E2Mpuoz.png" group-title="MOVIES",HM TV 33
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.claro.com.do/portal/do/gc/canales/1492716663156-Imagen.png" group-title="MOVIES",Nexxo 20
+http://ss6.domint.net:2106/nxo_str/nexxotv/chunklist_w286018438.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YhMZXUp.png" group-title="MOVIES",Romana TV 42
+http://tv.romanatv42.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I3cRfMS.png" group-title="SPAIN",+24 Eventos 1
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
@@ -436,35 +447,8 @@ http://video.telesafor.com/hls/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OF1enW6.png" group-title="SPAIN",Televigo
 http://5.189.181.203:1935/gcm4/gcm4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kyGGGWY.jpg" group-title="SPAIN",Televisio Badalona
-http://liveingesta118.cdnmedia.tv//badalonatvlive/smil:live.smil/playlist.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ibai29C.png" group-title="SPAIN",Televisio Bergueda
-http://liveingesta118.cdnmedia.tv//berguedatvlive/smil:live.smil/playlist.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qFRo10t.png" group-title="SPAIN",Televisio Costa Brava
-http://liveingesta118.cdnmedia.tv//costabravatvlive/smil:live.smil/playlist.m3u8?fluxustv.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khRXhT1.png" group-title="SPAIN",Televisio Girona
 http://ventdelnord.tv:8080/girona/directe.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nGuGVTO.png" group-title="SPAIN",Television Aranda
-https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w9LqkSW.png" group-title="SPAIN",Tenerife 2030
-http://livestream.iter.es:9876/tdt/tdt.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vMM5tOs.png" group-title="SPAIN",Teve 4
-https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DeN1MoY.png" group-title="SPAIN",Toros TV (Opt-1)
-http://85.244.70.140:7000/play/a014
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DeN1MoY.png" group-title="SPAIN",Toros TV (Opt-2)
-http://45.92.69.76:8000/play/a041
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WPbfuSE.png" group-title="SPAIN",Travel TV
-http://194.179.53.124:1935/live/traveltv/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H7sclL7.png" group-title="SPAIN",Trebujena TV
 http://212.104.160.156:1935/live/trebujenatv2/master.m3u8
@@ -472,41 +456,11 @@ http://212.104.160.156:1935/live/trebujenatv2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3N90uxs.png" group-title="SPAIN",Trece TV
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m2b1ozC.png" group-title="SPAIN",TV Benavente
-https://59b782181fb20.streamlock.net:455/gcm5/gcm5/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YCiTqGj.png" group-title="SPAIN",TV Ferrol
-https://directo.tvferrol.es/tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A4idkRI.png" group-title="SPAIN",TV Hellin
-http://hellin-hls-live.flumotion.com/hellin/hellin-live_source/playlist.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VbTVnz4.png" group-title="SPAIN",TV Mediterraneo
-http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UCG124Q.png" group-title="SPAIN",TV Melilla
-http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/live_source/playlist.m3u8?fluxustv.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HAbq91X.png" group-title="SPAIN",TV Municipal Cordoba (Opt-1)
 http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HAbq91X.png" group-title="SPAIN",TV Municipal Cordoba (Opt-2)
 http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/knQuLQf.png" group-title="SPAIN",TV3 (Opt-1)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/knQuLQf.png" group-title="SPAIN",TV3 (Opt-2)
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/master_DVR.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/knQuLQf.png" group-title="SPAIN",TV3 Cameres
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:beauties_web/master_DVR.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gnXek91.png" group-title="SPAIN",TV3 CAT
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:tv3cat_web/master_DVR.m3u8
-
-#EXTINF:-1 tvg-logo="https://noticias.adventista.es/wp-content/uploads/sites/8/2014/05/Captura-de-pantalla-2014-05-28-a-las-14.22.231.png" group-title="SPAIN",TV4 La Vall
-https://common01.todostreaming.es/live/tarson-livestream.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BuqsgOD.png" group-title="SPAIN",tvA
 http://5.39.65.105/hls/tvaxa.m3u8
@@ -556,53 +510,8 @@ https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w83wr1S.png" group-title="SPAIN",Urola Telebista (Opt-2)
 https://5940924978228.streamlock.net/j_Directo1/smil:j_Directo1.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon-150x150.png" group-title="SPAIN",Vega Baja TV
-http://185.29.68.24/tvb.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hPG6ooK.png" group-title="SPAIN",Vision 6
 https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
-
-#EXTINF:-1 tvg-logo="http://aux.iconspalace.com/uploads/1524912180.png" group-title="LABEL",~ Andorra TV ~
-http://www.lengua.com/anthems/Andorra.mp3
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="ANDORRA",RTVA (Opt-1)
-http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="ANDORRA",RTVA (Opt-2)
-http://videos.rtva.ad:1935/live/web/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rDow9Y7.png" group-title="LABEL",~ 24/7 YouTube en Español ~
-https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="24/7 YOUTUBE ESPAÑOL",DW (DE)
-https://www.youtube.com/watch?v=6B8n7o699uM
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="24/7 YOUTUBE ESPAÑOL",Milenio (MX)
-https://www.youtube.com/watch?v=I8JjPst6mz4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A0ySElR.png" group-title="24/7 YOUTUBE ESPAÑOL",NTN24 (VE)
-https://www.youtube.com/watch?v=ZLWzGxwBAB0
- 
-#EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="24/7 YOUTUBE ESPAÑOL",RT (RU) (Opt-1)
-https://www.youtube.com/watch?v=mOcEqTR1Hn4
- 
-#EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="24/7 YOUTUBE ESPAÑOL",RT (RU) (Opt-2)
-https://www.youtube.com/watch?v=9DXGrOU5wKQ
-
-#EXTINF:-1 tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" group-title="LABEL",~ Latin America TV ~
-http://50.7.56.2:8016
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4YoW2Pt.png" group-title="LATIN AMERICA",AMC
-http://181.198.153.175:5005/play/a07q/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DQSHHTS.png" group-title="LATIN AMERICA",America Teve
-http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7PUTPqg.png" group-title="LATIN AMERICA",Azteca America
-https://v-pi.mybtv.net/event/8.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="LATIN AMERICA",Cartelera Hollywood (Dual)
-http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="LATIN AMERICA",CGTN Español (Opt-1)
 http://livees.cgtn.com/1000e/prog_index.m3u8
@@ -610,41 +519,14 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="LATIN AMERICA",CGTN Español (Opt-2)
 http://livefr.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yjqyXZo.png" group-title="LATIN AMERICA",Discovery Science
-http://181.198.153.175:5003/play/a08d/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="LATIN AMERICA",DW Español
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fDJpIpn.png" group-title="LATIN AMERICA",ESPN (Opt-1)
-http://181.198.153.175:5004/play/a075/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nrYLBkN.png" group-title="LATIN AMERICA",ESPN 2 (Opt-1)
-http://181.198.153.175:5004/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kV5t7Dg.png" group-title="LATIN AMERICA",Frecuencia Musical (Opt-1)
 https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kV5t7Dg.png" group-title="LATIN AMERICA",Frecuencia Musical (Opt-2)
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QZY7wVj.png" group-title="LATIN AMERICA",Fox Premium Family
-http://181.198.153.175:5005/play/a07s/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aqogYb3.png" group-title="LATIN AMERICA",Fox Sports 1
-http://181.198.153.175:5004/play/a077/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aqogYb3.png" group-title="LATIN AMERICA",Fox Sports 2
-http://181.198.153.175:5003/play/a08h/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aqogYb3.png" group-title="LATIN AMERICA",Fox Sports 3
-http://181.198.153.175:5007/play/a0a6/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YNPq3RW.png" group-title="LATIN AMERICA",Gol TV
-http://181.198.153.175:5002/play/a044/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="LATIN AMERICA",HispanTV
-https://5a61de8ed719d.streamlock.net/live/smil:live.smil/chunklist_w1441489711_b394100_slen.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDt8pzL.png" group-title="LATIN AMERICA",La Mega Mundial
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
@@ -653,7 +535,7 @@ http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7SjPZSp.png" group-title="LATIN AMERICA",Locomotion TV
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+http://www.toonxtv.net/hls/loco_ch/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://melodychannel.tv/images/logomeloddy.png" group-title="LATIN AMERICA",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
@@ -663,9 +545,6 @@ http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="LATIN AMERICA",RT Español
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZdQpY9Q.png" group-title="LATIN AMERICA",TCM
-http://181.198.153.175:5003/play/a091/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyPHgEH.png" group-title="LATIN AMERICA",Telemusica
 http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
@@ -679,29 +558,14 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EUujsZU.png" group-title="CHILE",FM Hot Movies (Opt-1)
 http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EUujsZU.png" group-title="CHILE",FM Hot Movies (Opt-2)
-http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b800000_slesp.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zSRGlam.png" group-title="DOMINICAN REPUBLIC",Acento TV
 http://acentotv01.streamprolive.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OKsv5Xd.png" group-title="DOMINICAN REPUBLIC",Ame 47
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.bellavision8.com/bellavision_logo%20(1).png" group-title="DOMINICAN REPUBLIC",Bellavision 8
-http://ss1.domint.net:2128/bev_str/bella/chunklist_w332864853.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/5NCuyez.png" group-title="DOMINICAN REPUBLIC",Bonao TV Canal 12
-http://ss1.domint.net:2226/btv_str/bonao/chunklist_w482371085.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uIrrAaR.png" group-title="DOMINICAN REPUBLIC",Buena TV Canal 14
-https://cdn.hostlagarto.com:4445/buenatv/buenatv.myStream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PY4Nzef.png" group-title="DOMINICAN REPUBLIC",Canal 4 RD
 http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8QlWnpQ.jpg" group-title="DOMINICAN REPUBLIC",Canal 25 Santiago
-https://ss1.domint.net:3108/c25_str/canal25/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bzICwYY.png" group-title="DOMINICAN REPUBLIC",Canal del Sol 65
 http://canaldelsol01.streamprolive.com/hls/live.m3u8
@@ -712,21 +576,6 @@ http://ss6.domint.net:2012/tes_str/teleelsalvador/chunklist_w718025904.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UpBJnty.png" group-title="DOMINICAN REPUBLIC",Cinevision 19
 http://cinevision01.streamprolive.com/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72pioLp.png" group-title="DOMINICAN REPUBLIC",Color Vision 9
-https://ss5.domint.net:3018/cvh_str/colorvisionhd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZPbU5er.png" group-title="DOMINICAN REPUBLIC",Digital 15
-http://api.new.livestream.com/accounts/27456795/events/8268514/live.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nnmAyXT.png" group-title="DOMINICAN REPUBLIC",Digital Vision 63
-http://ss1.domint.net:2106/dv6_str/digitalvision/chunklist_w635489753.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9HnBtC9.png" group-title="DOMINICAN REPUBLIC",Faro Vision
-http://184.173.181.2:1935/8060/8060/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://fuego40.com/wp-content/uploads/2018/11/cropped-FUEGO-LOGO-TIPO.png" group-title="DOMINICAN REPUBLIC",Fuego TV
-http://184.173.181.2:1935/8020/8020/playlist.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VuNcifM.png" group-title="DOMINICAN REPUBLIC",GH Television
 http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?fluxustv.m3u8
 
@@ -736,20 +585,11 @@ http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZmYKQxN.png" group-title="DOMINICAN REPUBLIC",Info TDN
 http://108.175.14.125:1935/tdn/tdn/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pp6O7SB.png" group-title="DOMINICAN REPUBLIC",Linieros TV 36
-http://cm.hostlagarto.com:8081/LinierosTV/linieros.myStream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.lunatv.do/stream/imagen/logo-stream.png" group-title="DOMINICAN REPUBLIC",Luna TV
-http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXE2CL7.png" group-title="DOMINICAN REPUBLIC",Mango TV
 http://mangotv01.streamprolive.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="DOMINICAN REPUBLIC",Microvision 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KVbDO5T.png" group-title="DOMINICAN REPUBLIC",Naranja TV
-http://ciez45.live.cloud.influxis.com/ciez45/_definst_/NaranjaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.claro.com.do/portal/do/gc/canales/1492716663156-Imagen.png" group-title="DOMINICAN REPUBLIC",Nexxo 20
 http://ss6.domint.net:2106/nxo_str/nexxotv/chunklist_w286018438.m3u8
@@ -758,10 +598,7 @@ http://ss6.domint.net:2106/nxo_str/nexxotv/chunklist_w286018438.m3u8
 http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="DOMINICAN REPUBLIC",Orbit Cable
-http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AENttMt.png" group-title="DOMINICAN REPUBLIC",Oui TV Canal 3
-http://ss8.domint.net:2102/oui_str/ouitv/chunklist_w603070266.m3u8?fluxustv.m3u8
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w248344991.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-E3xRbzP2DiA/T4VacAhY0ZI/AAAAAAAAFoE/2sHE_KAXqvg/s400/peravia_vision_logo.png" group-title="DOMINICAN REPUBLIC",Peravia Vision 8
 http://ss6.domint.net:2002/pvv_str/peravia/chunklist_w715033938.m3u8
@@ -769,26 +606,17 @@ http://ss6.domint.net:2002/pvv_str/peravia/chunklist_w715033938.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auAB6jh.png" group-title="DOMINICAN REPUBLIC",Puñal TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="DOMINICAN REPUBLIC",Ready TV
-http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhMZXUp.png" group-title="DOMINICAN REPUBLIC",Romana TV 42
 http://tv.romanatv42.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nx7sVqb.png" group-title="DOMINICAN REPUBLIC",Super TV 55
 https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SXc301z.png" group-title="DOMINICAN REPUBLIC",Teleantillas 2
-http://ss1.domint.net:2126/ta2_str/teleantillas/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wYklHWy.png" group-title="DOMINICAN REPUBLIC",Telecanal 28
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iIZikHS.png" group-title="DOMINICAN REPUBLIC",Telecentro 13
 http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3L2r63a.png" group-title="DOMINICAN REPUBLIC",Telecontacto 57
-https://cdn.hostlagarto.com:4445/telecontacto/telecontacto.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUndmKG.png" group-title="DOMINICAN REPUBLIC",Telefuturo 23
 http://ss8.domint.net:2118/tf_str/futu/chunklist_w1249734061.m3u8
@@ -816,12 +644,6 @@ http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="DOMINICAN REPUBLIC",Telenord 12 (Opt-2)
 http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FsJesCO.png" group-title="DOMINICAN REPUBLIC",Telenovisa 43
-http://74.108.36.101:1935/telenovisa43/telenovisa43/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo.png" group-title="DOMINICAN REPUBLIC",Teleradio America 45
-http://ss1.domint.net:2310/tra_str/canal45/chunklist_w1884577868.m3u8
 
 #EXTINF:-1 tvg-logo="http://telesistema11.com.do/themes/telesistemas/assets/img/logo-telesistemas.png" group-title="DOMINICAN REPUBLIC",Telesistema 11
 http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8
