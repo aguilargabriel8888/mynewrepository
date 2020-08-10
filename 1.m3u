@@ -12,6 +12,12 @@ https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",tvo KIDS
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",CBBC
+https://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",CBBC opt2
+https://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca673e0d0bd6c2689c94ce3/featuredImage.jpg" group-title="KIDS_TV",Nick
 https://stitcher.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
@@ -113,6 +119,53 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CSI
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC TWO
+https://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC TWO opt 2
+https://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Laugh Out Loud
+https://bozztv.com/36bay4/Laughs/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Laugh Out Loud opt 2
+https://bozztv.com/36bay4/Laughs/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Smile of a Child
+https://bozztv.com/36bay2/gin/giniko_smilechild_900kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Crazy Inventions
+https://bozztv.com/36bay4/Crazy_Inventions/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Top Gear
+https://bozztv.com/36bay4/ginikotest/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Nat Geo Wild
+https://bozztv.com/36bay4/animalshere/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",4K CHannel
+https://bozztv.com/36bay4/gin/gin-4kchann/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Eye
+https://bozztv.com/36bay4/bikini/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Fitness
+https://bozztv.com/36bay4/BikiniFitness/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CMC TV
+https://bozztv.com/36bay2/giniko_cmctv/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Funny Animals
+https://bozztv.com/36bay4/funnyanimals/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Comedy
+https://bozztv.com/36bay4/marius_comedy/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CA Music
+https://bozztv.com/36bay2/gin/giniko_camusic_1200kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Model Inc
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",HD Fashion
+https://bozztv.com/36bay2/gin/giniko_hdfashion_900kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",J TV
+https://bozztv.com/36bay2/giniko_jasmintv/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", CARS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
