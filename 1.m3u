@@ -75,14 +75,32 @@ https://stitcher.pluto.tv/stitch/hls/channel/5cd1495bd9e0ec55c4ecbf52/master.m3u
 #EXTINF:-1 tvg-id="" group-title="SPORTS",CBS Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
+#EXTINF:-1 tvg-id="" group-title="SPORTS",beIN Sports US
+https://ul.cdn946.net:8443/hls/yu3w26c9imgo814.m3u8?s=mVVEmNJjMYsILlbnbSZaCQ&e=1597289314
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS",MLB
+https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20200811_1597157620144/3000K/3000_slide.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS",FOX SPORT 1
+https://ul.cdn946.net:8443/hls/ftypoplj0tr0hw.m3u8?s=XaJS23RD1_GGVq7PIzaKxg&e=1597291129
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS",FOX SPORT 2
+https://cdn2.sports24.win/fs2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS",ESPN
+https://cdn2.sports24.win/espn.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS",ESPN2
+https://cdn2.sports24.win/espn2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS",FOX Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
 #EXTINF:-1 tvg-id="" group-title="SPORTS",NFL Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS",WINTER
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d9f8ae00270560009b81891/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS",FOX Sports
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS",PLUTO SPORT 2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
@@ -169,6 +187,9 @@ https://bozztv.com/36bay2/giniko_jasmintv/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", CARS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", DISCOVERY
+https://content-ausw4.uplynk.com/channel/19334c6a5c614c46b2f198f15c179163/h.m3u8?tc=1&exp=1597270383&rn=1133127067&ct=c&cid=19334c6a5c614c46b2f198f15c179163&ts=1597270083&endts=1597270443&ad.pingf=5&pp2ip=0&ad.cping=1&ad=fw&rays=cdefghiba&ad.customer_id=&ad.nw=&ad.prof=&ad.csid=&ad.vip=18.218.24.5&ad.kv=_fw_vcid2%2C%3Abd0367067f5a11eaacfe0e7a3adfd3ad%2C_fw_enable_lat_fc%2C1&ap.use=0&sig=6faa044043526be6c156bda7a41ff2123b6f60220aad660c04f2cf8cb8867206&pbs=198cba23310840d2b4edcb7d7f22397e
 
 #EXTINF:-1 tvg-chno="5001" tvg-id="2020 Live" tvg-name="2020 Live" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/e155b2ff-61dc-44c2-9d2a-26b0f69ebc5b-small3x1_stirr_0120_epg_2020LIVE_1920x1080.png?1579110210736" group-title="STIRR Tv",2020 Live
 https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
