@@ -75,22 +75,22 @@ https://stitcher.pluto.tv/stitch/hls/channel/5cd1495bd9e0ec55c4ecbf52/master.m3u
 #EXTINF:-1 tvg-id="" group-title="SPORTS",CBS Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS",beIN Sports US
-https://ul.cdn946.net:8443/hls/yu3w26c9imgo814.m3u8?s=mVVEmNJjMYsILlbnbSZaCQ&e=1597289314
+# Comment#EXTINF:-1 tvg-id="" group-title="SPORTS",beIN Sports US
+#commenthttps://ul.cdn946.net:8443/hls/yu3w26c9imgo814.m3u8?s=mVVEmNJjMYsILlbnbSZaCQ&e=1597289314
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS",MLB
 https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20200811_1597157620144/3000K/3000_slide.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS",FOX SPORT 1
-https://ul.cdn946.net:8443/hls/ftypoplj0tr0hw.m3u8?s=XaJS23RD1_GGVq7PIzaKxg&e=1597291129
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",FOX SPORT 1
+#commenthttps://ul.cdn946.net:8443/hls/ftypoplj0tr0hw.m3u8?s=XaJS23RD1_GGVq7PIzaKxg&e=1597291129
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS",FOX SPORT 2
-https://cdn2.sports24.win/fs2.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",FOX SPORT 2
+#commenthttps://ul.cdn946.net:8443/hls/wemwrqrpx3m.m3u8?s=FYo5SC70IuXFo0iIa1Y4OQ&e=1597301692
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS",ESPN
-https://cdn2.sports24.win/espn.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORTS",ESPN2
-https://cdn2.sports24.win/espn2.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",ESPN
+#commenthttps://cdn2.sports24.win/espn.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",ESPN2
+#commenthttps://cdn2.sports24.win/espn2.m3u8?s=mVVEmNJjMYsILlbnbSZaCQ&e=1597289314
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS",FOX Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
