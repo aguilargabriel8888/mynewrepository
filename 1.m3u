@@ -66,7 +66,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5c5c2e228002db3c3e0b1c6f/master.m3u
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/410c79a3-193d-ed36-bce8-5f86d9b4996a-KidsTV_featured.jpg" group-title="KIDS_TV",Kids TV
 http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF-1 tvg-id="" tvg-name="" tvg-logo="http//pluto.tv.s3.amazonaws.com/channels/5ad9b648e738977e2c312131/featuredImage.jpg" group-title="KIDS_TV",Pluto TV Kids 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http//pluto.tv.s3.amazonaws.com/channels/5ad9b648e738977e2c312131/featuredImage.jpg" group-title="KIDS_TV",Pluto TV Kids 1
 https://stitcher.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cd1495bd9e0ec55c4ecbf52/featuredImage.jpg" group-title="KIDS_TV",Pluto TV Kids Jr.
@@ -137,6 +137,19 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004
 #EXTINF:-1 tvg-id="" group-title="SPORTS",PLUTO SPOTLIGTH
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
+#EXTINF:-1 tvg-chno="5072" tvg-id="STIRR | sports" tvg-name="STIRR | sports" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/a43594d1-364b-4e0c-8647-0d117973a641-small3x1_stirr_1219_epg_stirrsports_1920x1080.png?1576019645577" group-title="SPORTS",STIRR | sports
+https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
+#EXTINF:-1 tvg-chno="5073" tvg-id="Stadium " tvg-name="Stadium " tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/b4e26296-be68-4e3d-beda-04e81f4d34ee-small3x1_stirr_1219_epg_stadium_1920x1080.png?1576018965230" group-title="SPORTS",STIRR | Stadium 
+https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
+#EXTINF:-1 tvg-chno="5074" tvg-id="The T" tvg-name="The T" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/887ab420-6923-4600-b1ed-3cba74db10fd-small3x1_STIRR_Logo_0320_TheT_1920x1080_EPG.png?1584562044540" group-title="SPORT",STIRR | The T
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
+#EXTINF:-1 tvg-chno="5075" tvg-id="SportsGrid" tvg-name="SportsGrid" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/b4765251-26e4-48e8-a5ad-f96d8a1eec77-small3x1_STIRR_Logo_0320_SportsGrid_1920x1080_EPG.png?1584561904816" group-title="SPORTS",STIRR | SportsGrid
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1 tvg-chno="5076" tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/8b115727-b06f-4259-8a9f-1163d81b955d-small3x1_STIRR_Logo_0320_WorldPokerTour_1920x1080_EPG.png?1584652964461" group-title="SPORTS",STIRR | World Poker Tour
+https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
+#EXTINF:-1 tvg-chno="5077" tvg-id="Combat Go" tvg-name="Combat Go" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/849f3b26-39dd-4f9d-b902-96006dfd5517-small3x1_stirr_1219_epg_combatgo_1920x1080.png?1576010585863" group-title="SPORTS",STIRR | Combat Go
+https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CSI
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
@@ -195,6 +208,9 @@ https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
 #este funciona quitando cosas del anterior
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", CARS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
+
+#EXTINF:-1 tvg-chno="5079" tvg-id="Choppertown" tvg-name="Choppertown" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/7b1c655c-1037-4372-884f-97b8921ac8d2-small3x1_STIRR_Logo_0320_Choppertown_1920x1080_EPG.png?1584566957241" group-title="ENTERTAIMENT",STIRR | Choppertown
+https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
 
 #funciona
 #commenthttps://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-#commentea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-#commentfade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
