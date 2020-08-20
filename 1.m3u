@@ -141,7 +141,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37
 https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
 #EXTINF:-1 tvg-chno="5073" tvg-id="Stadium " tvg-name="Stadium " tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/b4e26296-be68-4e3d-beda-04e81f4d34ee-small3x1_stirr_1219_epg_stadium_1920x1080.png?1576018965230" group-title="SPORTS",STIRR | Stadium 
 https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
-#EXTINF:-1 tvg-chno="5074" tvg-id="The T" tvg-name="The T" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/887ab420-6923-4600-b1ed-3cba74db10fd-small3x1_STIRR_Logo_0320_TheT_1920x1080_EPG.png?1584562044540" group-title="SPORT",STIRR | The T
+#EXTINF:-1 tvg-chno="5074" tvg-id="The T" tvg-name="The T" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/887ab420-6923-4600-b1ed-3cba74db10fd-small3x1_STIRR_Logo_0320_TheT_1920x1080_EPG.png?1584562044540" group-title="SPORTS",STIRR | The T
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
 #EXTINF:-1 tvg-chno="5075" tvg-id="SportsGrid" tvg-name="SportsGrid" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/b4765251-26e4-48e8-a5ad-f96d8a1eec77-small3x1_STIRR_Logo_0320_SportsGrid_1920x1080_EPG.png?1584561904816" group-title="SPORTS",STIRR | SportsGrid
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
@@ -864,7 +864,7 @@ http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c363ac9e41be30cb6054c7c/featuredImage.jpg" group-title="24/7 PLUTO TV",Yu-Gi-Oh! 5D’s
 https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/496583/0546ed4c7cfbac8588fa2fc415af4ea6cfe1ccc6.png" group-title="LABEL",~ 24/7 PLUTO TV GERMANY ~
+#comment#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/496583/0546ed4c7cfbac8588fa2fc415af4ea6cfe1ccc6.png" group-title="LABEL",~ 24/7 PLUTO TV GERMANY ~
 #commenthttp://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5be1be871843b56328bc3ef1/featuredImage.jpg" group-title="24/7 PLUTO TV (DE)",Action Sports
