@@ -623,11 +623,11 @@ http://tutvonline.is-by.us:1935/live/nexxotv/playlist.m3u8
 #commenthttp://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
 http://ss6.domint.net:2052/otv_str/tv10/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="MOVIES",Orbit Cable opt_1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="DOMINICAN REPUBLIC",Orbit Cable
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="MOVIES",Orbit Cable opt_2
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w248344991.m3u8
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="MOVIES",Orbit Cable opt_2
+#commenthttps://ss3.domint.net:3134/otv_str/orbittv/chunklist_w248344991.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-E3xRbzP2DiA/T4VacAhY0ZI/AAAAAAAAFoE/2sHE_KAXqvg/s400/peravia_vision_logo.png" group-title="DOMINICAN REPUBLIC",Peravia Vision 8
 #commenthttp://ss6.domint.net:2002/pvv_str/peravia/chunklist_w715033938.m3u8
