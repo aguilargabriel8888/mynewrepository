@@ -163,19 +163,18 @@ https://5ca3e84a76d30.streamlock.net/sqcs/videosqcs/playlist.m3u8?wmsAuthSign=c2
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjAgODo0NTo1NSBQTSZoYXNoX3ZhbHVlPW1JZHZGbHAwb1BIRkFML0RmWUV6SVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9
 
 #EXTINF:-1 group-title="MOVIES",FMTV MOVIES2
-https://v8.ciclano.io:1443/dostres/_definst_/dostres/chunklist_w760166144.m3u8
+#commenthttps://v8.ciclano.io:1443/dostres/_definst_/dostres/chunklist_w760166144.m3u8
+https://v8.ciclano.io:1443/dostres/_definst_/dostres/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",FMTV MOVIES1
-https://5c21f7ec1999d.streamlock.net/8028/8028/chunklist_w1150773467.m3u8
+#commenthttps://5c21f7ec1999d.streamlock.net/8028/8028/chunklist_w1150773467.m3u8
+https://5c21f7ec1999d.streamlock.net/8028/8028/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",TeleCanal 12
 https://cdn4.hostlagarto.com:8081/telecanal12/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MOVIES",PuntaCanal
 https://cdn4.hostlagarto.com:8081/puntacanatv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="MOVIES",ATV Dominicana
-https://cdn4.hostlagarto.com:8081/atvdominicana/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MOVIES",BELLAVISION
 https://cdn4.hostlagarto.com:8081/Bellavision8hd/tracks-v1a1/mono.m3u8
@@ -187,16 +186,18 @@ https://cdn4.hostlagarto.com:8081/Telecaribehd/tracks-v1a1/mono.m3u8
 https://cdn4.hostlagarto.com:8081/canal18hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MOVIES",WMSTV
-https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/chunks.m3u8?nimblesessionid=69134146
+https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/chunks.m3u8?
 
 #EXTINF:-1 group-title="MOVIES",TELEVISON DEL ESTE
-https://cm.hostlagarto.com:4445/ESTV/estv.myStream/chunks.m3u8?nimblesessionid=69136374
+https://cm.hostlagarto.com:4445/ESTV/estv.myStream/chunks.m3u8? 
+#commentnimblesessionid=69136374
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2Mpuoz.png" group-title="MOVIES",HM TV 33
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kV5t7Dg.png" group-title="MOVIES",Frecuencia Musical (Opt-1)
-https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
+#commenthttps://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
+https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kV5t7Dg.png" group-title="MOVIES",Frecuencia Musical (Opt-2)
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
@@ -204,14 +205,15 @@ http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="MOVIES",MTV
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="MOVIES",Orbit Cable
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="MOVIES",Orbit Cable opt_1
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="MOVIES",Orbit Cable opt_2
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w248344991.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VuNcifM.png" group-title="MOVIES",GH Television
-http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E2Mpuoz.png" group-title="MOVIES",HM TV 33
-http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
+#comment http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?fluxustv.m3u8
+https://ss6.domint.net:3046/gh_str/tv10/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.claro.com.do/portal/do/gc/canales/1492716663156-Imagen.png" group-title="MOVIES",Nexxo 20
 http://ss6.domint.net:2106/nxo_str/nexxotv/chunklist_w286018438.m3u8
@@ -531,6 +533,10 @@ http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDt8pzL.png" group-title="LATIN AMERICA",La Mega Mundial
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 
+#EXTINF:-1 group-title="LATIN AMERICA",ATV
+#Commenthttps://cdn4.hostlagarto.com:8081/atvdominicana/tracks-v1a1/mono.m3u8
+https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk4MjMzMzQ0LCJzZXNzaW9uIjoiMTg5LjEzNS41MS42NyIsIndoaXRlbGlzdCI6WyIxODkuMTM1LjUxLjY3Il19LCJzaWduYXR1cmUiOiJiMDI5ODhhNDVlYWI4ZGY1NTI2MTc0MzMyYWE1MTRhOWM3MDExN2U1In0=
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/woRgqEh.png" group-title="LATIN AMERICA",Latido Music
 https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
 
@@ -555,8 +561,8 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n5AjNup.png" group-title="LATIN AMERICA",Zee Mundo
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EUujsZU.png" group-title="CHILE",FM Hot Movies (Opt-1)
-http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
+#Comment#EXTINF:-1 tvg-logo="https://i.imgur.com/EUujsZU.png" group-title="CHILE",FM Hot Movies (Opt-1)
+Commenthttp://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zSRGlam.png" group-title="DOMINICAN REPUBLIC",Acento TV
 http://acentotv01.streamprolive.com/hls/live.m3u8
@@ -591,17 +597,26 @@ http://mangotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="DOMINICAN REPUBLIC",Microvision 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.claro.com.do/portal/do/gc/canales/1492716663156-Imagen.png" group-title="DOMINICAN REPUBLIC",Nexxo 20
+#EXTINF:-1 tvg-logo="http://www.claro.com.do/portal/do/gc/canales/1492716663156-Imagen.png" group-title="DOMINICAN REPUBLIC",Nexxo 20 opt 1
 http://ss6.domint.net:2106/nxo_str/nexxotv/chunklist_w286018438.m3u8
+#commenthttp://ss6.domint.net:2106/nxo_str/nexxotv/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.claro.com.do/portal/do/gc/canales/1492716663156-Imagen.png" group-title="DOMINICAN REPUBLIC",Nexxo 20 opt 2
+http://tutvonline.is-by.us:1935/live/nexxotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lv0mnMF.png" group-title="DOMINICAN REPUBLIC",Onda TV 10
-http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+#commenthttp://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+http://ss6.domint.net:2052/otv_str/tv10/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="DOMINICAN REPUBLIC",Orbit Cable
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="MOVIES",Orbit Cable opt_1
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="MOVIES",Orbit Cable opt_2
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w248344991.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-E3xRbzP2DiA/T4VacAhY0ZI/AAAAAAAAFoE/2sHE_KAXqvg/s400/peravia_vision_logo.png" group-title="DOMINICAN REPUBLIC",Peravia Vision 8
-http://ss6.domint.net:2002/pvv_str/peravia/chunklist_w715033938.m3u8
+#commenthttp://ss6.domint.net:2002/pvv_str/peravia/chunklist_w715033938.m3u8
+http://ss6.domint.net:2002/pvv_str/peravia/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auAB6jh.png" group-title="DOMINICAN REPUBLIC",Puñal TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
@@ -622,7 +637,8 @@ http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
 http://ss8.domint.net:2118/tf_str/futu/chunklist_w1249734061.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2bj6efg.png" group-title="DOMINICAN REPUBLIC",Telekaribe
-http://ss1.domint.net:2208/tka_str/telekaribe/chunklist_w37205285.m3u8
+#comment http://ss1.domint.net:2208/tka_str/telekaribe/chunklist_w37205285.m3u8
+https://cdn4.hostlagarto.com:8081/Telecaribehd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://santiagotv36.com/wp-content/uploads/2014/09/Logo-web1.png" group-title="DOMINICAN REPUBLIC",Telemilenio Canal 50
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
@@ -667,10 +683,12 @@ https://ss6.domint.net:3104/tvp_str/tvplata/master.m3u8
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CcGzKEz.png" group-title="DOMINICAN REPUBLIC",Vallevision TV
-http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+#commenthttp://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+http://190.103.183.24:1935/Vallevision/ValleHD/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TyVUlYx.png" group-title="DOMINICAN REPUBLIC",Vision 3000
 http://ss1.domint.net:2202/v3_str/v3000/chunklist_w223748530.m3u8
+#commenthttp://ss1.domint.net:2202/v3_str/v3000/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5bBhi3Q.png" group-title="DOMINICAN REPUBLIC",Yuna Vision 10
 http://ss1.domint.net:2300/yv_str/yuna/chunklist_w1312196465.m3u8
@@ -771,7 +789,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009
 #EXTINF:-1 tvg-id="" group-title="Pluto TV Mexico",Series retro
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 tvg-id="" group-title="Pluto TV Mexico",Series Lstinas
+#EXTINF:-1 tvg-id="" group-title="Pluto TV Mexico",Series Latinas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
 #EXTINF:-1 tvg-id="" group-title="Pluto TV Mexico",Novelas
