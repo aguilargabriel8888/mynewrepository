@@ -157,8 +157,35 @@ https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
 #EXTINF:-1 tvg-chno="5077" tvg-id="Combat Go" tvg-name="Combat Go" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/849f3b26-39dd-4f9d-b902-96006dfd5517-small3x1_stirr_1219_epg_combatgo_1920x1080.png?1576010585863" group-title="SPORTS",STIRR | Combat Go
 https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC
+https://cdn2.sports24.win/abc.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="CW",ABC
+https://bozztv.com/fencoder01/teleup-wlyh/index.m3u8
+
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS
+#commenthttps://ottproxy.yuppcdn.net/live/ustvnow/60/hd/hls/live/2004009/whphdmsl1/whphdmsl1/playlist.m3u8?hdnts=st=1598227242~exp=1598248842~acl=!*/#comment*!/payload/yupptvott_5_2325782_48a4510a-4a26-985c-cecc-de2fd4d0b64d_US_18.218.24.5_ustvnow_3_channel_60_-1/#comment*~data=yupptvott_5_2325782_48a4510a-4a26-985c-cecc-#commentde2fd4d0b64d_US_18.218.24.5_ustvnow_3_channel_60_-1~hmac=e5e479b2d16a7c1e17d0dbec1bddc66c17f4a91bdf7877ece0058abebaffd710
+
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CSI
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
+
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX
+#commenthttps://ustvnowmsl.akamaized.net/hls/live/2004241/wpmtmsl1/wpmtmsl1/playlist.m3u8?hdnts=st=1598227242~exp=1598248842~acl=!*/*!/payload/#commentyupptvott_5_2325782_48a4510a-4a26-985c-cecc-de2fd4d0b64d_US_18.218.24.5_ustvnow_3_channel_60_-1/#comment*~data=yupptvott_5_2325782_48a4510a-4a26-985c-cecc-#commentde2fd4d0b64d_US_18.218.24.5_ustvnow_3_channel_60_-1~hmac=e5e479b2d16a7c1e17d0dbec1bddc66c17f4a91bdf7877ece0058abebaffd710
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="ENTERTAIMENT",CBS (WFOR) (Opt-1)
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="ENTERTAIMENT",CBS News (Opt-1)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="ENTERTAIMENT",NBC (WTVJ) (Opt-1)
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="ENTERTAIMENT",NBC (WTVJ) (Opt-2)
+http://190.80.3.28/NBC/NBC.isml/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="ENTERTAIMENT",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC TWO
 https://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/index.m3u8
