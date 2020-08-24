@@ -157,10 +157,10 @@ https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
 #EXTINF:-1 tvg-chno="5077" tvg-id="Combat Go" tvg-name="Combat Go" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/849f3b26-39dd-4f9d-b902-96006dfd5517-small3x1_stirr_1219_epg_combatgo_1920x1080.png?1576010585863" group-title="SPORTS",STIRR | Combat Go
 https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC
-https://cdn2.sports24.win/abc.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC
+#commenthttps://cdn2.sports24.win/abc.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="CW",ABC
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CW
 https://bozztv.com/fencoder01/teleup-wlyh/index.m3u8
 
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS
