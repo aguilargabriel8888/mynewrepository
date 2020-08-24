@@ -27,6 +27,9 @@ https://cdn4.hostlagarto.com:8081/canal18hd/tracks-v1a1/mono.m3u8
 #commenthttps://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/chunks.m3u8?
 https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES",TVMAS CHILE
+https://593b04c4c5670.streamlock.net/8008/8008/master.m3u8
+
 #EXTINF:-1 group-title="MOVIES",TELEVISON DEL ESTE
 #commenthttps://cm.hostlagarto.com:4445/ESTV/estv.myStream/chunks.m3u8? 
 #commentnimblesessionid=69136374
@@ -67,6 +70,9 @@ http://tv.romanatv42.com/hls/live.m3u8
 #commenthttp://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/auAB6jh.png" group-title="MOVIES",ACS NETWORK
+https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO",Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
@@ -86,7 +92,8 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sistemamichoacano.tv/templates/ja_teline_v/favicon.ico" group-title="MEXICO",SMRYT Michoacan
-https://5e307acc9a171.streamlock.net:1936/michoacan_1/michoacan_1/chunklist_w868717161.m3u8
+#commenthttps://5e307acc9a171.streamlock.net:1936/michoacan_1/michoacan_1/chunklist_w868717161.m3u8
+https://5e307acc9a171.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sistemamichoacano.tv/templates/ja_teline_v/favicon.ico" group-title="MEXICO",SMRYT Michoacan -opcion 2-
 https://5e307acc9a171.streamlock.net:1936/michoacan_1/michoacan_1/playlist.m3u8
@@ -171,6 +178,21 @@ http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LxbZ1x9.png" group-title="MEXICO",Telemax Hermosillo
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LxbZ1x9.png" group-title="MEXICO",Telemax Hermosillo opcion 2
+https://5e307acc9a171.streamlock.net:1936/transmision_1/transmision_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LxbZ1x9.png" group-title="MEXICO",TVP Culiacan
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LxbZ1x9.png" group-title="MEXICO",TVP Mazatlan
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LxbZ1x9.png" group-title="MEXICO",TVP Ciudad Obregon
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LxbZ1x9.png" group-title="MEXICO",TVP Los Mochis
+https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0gL3FIN.png" group-title="MEXICO",Teleritmo
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
@@ -542,6 +564,9 @@ http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDt8pzL.png" group-title="LATIN AMERICA",La Mega Mundial
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kDt8pzL.png" group-title="LATIN AMERICA",THE RETRO CHANNEL
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
 #EXTINF:-1 group-title="LATIN AMERICA",ATV
 #Commenthttps://cdn4.hostlagarto.com:8081/atvdominicana/tracks-v1a1/mono.m3u8
 https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk4MjMzMzQ0LCJzZXNzaW9uIjoiMTg5LjEzNS41MS42NyIsIndoaXRlbGlzdCI6WyIxODkuMTM1LjUxLjY3Il19LCJzaWduYXR1cmUiOiJiMDI5ODhhNDVlYWI4ZGY1NTI2MTc0MzMyYWE1MTRhOWM3MDExN2U1In0=
@@ -714,64 +739,64 @@ http://ss1.domint.net:2202/v3_str/v3000/chunklist_w223748530.m3u8
 #http://ss1.domint.net:2300/yv_str/yuna/chunklist_w1312196465.m3u8
 http://ss1.domint.net:2300/yv_str/yuna/master.m3u8
 
-#EXTINF:-1 group-title="PLUTO TV US -LATINO-",Cine estelar
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",Cine estelar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 group-title="PLUTO TV US -LATINO-",cine
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",cine
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 group-title="PLUTO TV US -LATINO-",cine accion
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",cine accion
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 group-title="PLUTO TV US -LATINO-",cine terror
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",cine terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 group-title="PLUTO TV US -LATINO-",peliculas primetime
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",peliculas primetime
 https://nuestravision-plutolive-vo.akamaized.net/m/hlslive/nuestra/2/nuestra.m3u8?profID=969&n=2&ctype=0&chname=nuestra&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40
 
-#EXTINF:-1 group-title="PLUTO TV US -LATINO-",the walking dead
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",the walking dead
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 group-title="PLUTO TV US -LATINO-",Telenovelas clasicas
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",Telenovelas clasicas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 group-title="PLUTO TV US -LATINO-",Novelas romance
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",Novelas romance
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 group-title="PLUTO TV US -LATINO-",Novelas Drama
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",Novelas Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 group-title="PLUTO TV US -LATINO-",Novelas thriller
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",Novelas thriller
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 group-title="PLUTO TV US -LATINO-",Novelas Narcos
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",Novelas Narcos
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66900909b4410007e74a50/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 group-title="PLUTO TV US -LATINO-",Spike Aventura
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",Spike Aventura
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 group-title="PLUTO TV US -LATINO-",Realities
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",Realities
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 group-title="PLUTO TV US -LATINO-",Cocina
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",Cocina
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 group-title="PLUTO TV US -LATINO-",mundo
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",mundo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 group-title="PLUTO TV US -LATINO-",Naturaleza
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",Naturaleza
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 group-title="PLUTO TV US -LATINO-",MTV latino
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",MTV latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 group-title="PLUTO TV US -LATINO-",Comedy central Latino
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",Comedy central Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 group-title="PLUTO TV US -LATINO-",combate world
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",combate world
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 group-title="PLUTO TV US -LATINO-",Lucha libre AAA
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",Lucha libre AAA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
 #EXTINF:-1 tvg-id="" group-title="Pluto TV Mexico",Cine Accion
