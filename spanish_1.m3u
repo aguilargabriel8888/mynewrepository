@@ -73,6 +73,21 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auAB6jh.png" group-title="MOVIES",ACS NETWORK
 https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
 
+#EXTINF:-1 group-title="MOVIES",REC ONLINE
+https://595b85410a151.streamlock.net/8214/8214/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES",TELESISTEMAS
+https://ss3.domint.net:3114/t11_str/telesistema/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES",RECTV ONLINE
+https://master.tucableip.com/reconline/live/video.m3u8
+
+#EXTINF:-1 group-title="MOVIES",RETRO PLUS TV
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES",DW ESPAÑOL
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO",Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
@@ -196,6 +211,9 @@ https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0gL3FIN.png" group-title="MEXICO",Teleritmo
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 group-title="MEXICO",NTV Mexico
+https://59802217c6db4.streamlock.net/ntv/videontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D55iTpX.png" group-title="MEXICO",15TV Sabinas (Opt-1)
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
