@@ -1102,6 +1102,45 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d00e8adaab96b5635b2a005/featuredImage.jpg" group-title="24/7 PLUTO TV (DE)",Adveture_tv_ba
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d00e8adaab96b5635b2a005/featuredImage.jpg" group-title="24/7 PLUTO TV (DE)",Adveture_tv_bia
+http://cdn.adultiptv.net/bigass.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d00e8adaab96b5635b2a005/featuredImage.jpg" group-title="24/7 PLUTO TV (DE)",Adveture_tv_biti
+http://cdn.adultiptv.net/bigtits.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d00e8adaab96b5635b2a005/featuredImage.jpg" group-title="24/7 PLUTO TV (DE)",Adveture_tv_bidi
+http://cdn.adultiptv.net/bigdick.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d00e8adaab96b5635b2a005/featuredImage.jpg" group-title="24/7 PLUTO TV (DE)",Adveture_tv_int
+http://cdn.adultiptv.net/interracial.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d00e8adaab96b5635b2a005/featuredImage.jpg" group-title="24/7 PLUTO TV (DE)",Adveture_tv_bl
+http://cdn.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d00e8adaab96b5635b2a005/featuredImage.jpg" group-title="24/7 PLUTO TV (DE)",Adveture_tv_har
+http://cdn.adultiptv.net/hardcore.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d00e8adaab96b5635b2a005/featuredImage.jpg" group-title="24/7 PLUTO TV (DE)",Adveture_tv_rou
+http://cdn.adultiptv.net/rough.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d00e8adaab96b5635b2a005/featuredImage.jpg" group-title="24/7 PLUTO TV (DE)",Adveture_tv_gan
+http://cdn.adultiptv.net/gangbang.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d00e8adaab96b5635b2a005/featuredImage.jpg" group-title="24/7 PLUTO TV (DE)",Adveture_tv_fe
+http://cdn.adultiptv.net/fetish.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d00e8adaab96b5635b2a005/featuredImage.jpg" group-title="24/7 PLUTO TV (DE)",Adveture_tv_cu
+http://cdn.adultiptv.net/cuckold.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d00e8adaab96b5635b2a005/featuredImage.jpg" group-title="24/7 PLUTO TV (DE)",Adveture_tv_Mi
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d00e8adaab96b5635b2a005/featuredImage.jpg" group-title="24/7 PLUTO TV (DE)",Adveture_tv_Mi_J
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d00e8adaab96b5635b2a005/featuredImage.jpg" group-title="24/7 PLUTO TV (DE)",Adveture_tv_J
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cb5d043a461406ffe3fb2de/featuredImage.jpg" group-title="24/7 PLUTO TV (DE)",Telenovela ZDF
 https://stitcher.pluto.tv/stitch/hls/channel/5cb5d043a461406ffe3fb2de/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
