@@ -77,45 +77,8 @@ http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="KIDS_TV",3ABN KIDS TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
-#EXTINF:-1 group-title="KIDS_TV",Hoopla
-https://live-content.xumo.com/186/content/XM076RNMWPF1P6/22157268/master.m3u8
-#commenthttps://live-content.xumo.com/186/content/XM076RNMWPF1P6/22157268/4.m3u8
-
 #EXTINF:-1 group-title="KIDS_TV",Pocket
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-pocket-watch/CDN/master.m3u8
-
-#EXTINF:-1 group-title="KIDS_TV",Toon goggles
-https://live-content.xumo.com/198/content/XM0R2F3JNNBI09/21265360/master.m3u8
-
-#EXTINF:-1 group-title="KIDS_TV",cool school
-https://live-content.xumo.com/277/content/XM0W8EP2776IWW/19402061/master.m3u8
-
-#EXTINF:-1 group-title="KIDS_TV",Kabillion
-https://live-content.xumo.com/287/content/XM0JFQP05PPVSW/21799112/master.m3u8
-
-#EXTINF:-1 group-title="KIDS_TV",Xumo|free kids tv
-https://live-content.xumo.com/1104/content/XM0O39DFU264ZT/21584241/master.m3u8
-
-#EXTINF:-1 group-title="KIDS_TV",Puddle Jumper
-https://live-content.xumo.com/241/content/XM0XPD3SSMIYGA/18334756/master.m3u8
-
-#EXTINF:-1 group-title="KIDS_TV",Zoo Moo
-https://live-content.xumo.com/265/content/XM0MDNP2OP902D/20885772/remuxed-XUMO-11403/master.m3u8
-
-#EXTINF:-1 group-title="KIDS_TV",Mr Bean and friends
-https://live-content.xumo.com/240/content/XM0XWR65N9KPTD/18334569/master.m3u8
-
-#EXTINF:-1 group-title="KIDS_TV",Ameba
-https://live-content.xumo.com/213/content/XM08RDZDSBUCZI/18014780/remuxed-XUMO-11403/master.m3u8
-
-#EXTINF:-1 group-title="KIDS_TV",Kartoon channel
-https://live-content.xumo.com/267/content/XM04G7VWOIZ94A/21762046/master.m3u8
-
-#EXTINF:-1 group-title="KIDS_TV",Uzoo
-https://live-content.xumo.com/267/content/XM04G7VWOIZ94A/21762046/master.m3u8
-
-#EXTINF:-1 group-title="KIDS_TV",Battery pop
-https://live-content.xumo.com/202/content/XM0GP7399H1JGS/21709810/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS",CBS Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
@@ -202,35 +165,34 @@ https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
 #EXTINF:-1 tvg-chno="5077" tvg-id="Combat Go" tvg-name="Combat Go" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/849f3b26-39dd-4f9d-b902-96006dfd5517-small3x1_stirr_1219_epg_combatgo_1920x1080.png?1576010585863" group-title="SPORTS",STIRR | Combat Go
 https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS",Sports bein xtra
-https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORTS",fubo sport
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",Sports bein xtra
+#commenthttps://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",fubo sport
+#commenthttps://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS",FTF
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-elevensports/CDN/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORTS",ACCDN
-https://live-content.xumo.com/251/content/XM0U6I7UM45CR2/20942243/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORTS",NITRO CIRCUS
-https://live-content.xumo.com/284/content/XM0NUMEWRVF2PL/19501775/master.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",ACCDN
+#commenthttps://live-content.xumo.com/251/content/XM0U6I7UM45CR2/20942243/master.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",NITRO CIRCUS
+#commenthttps://live-content.xumo.com/284/content/XM0NUMEWRVF2PL/19501775/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS",Players
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORTS",USGA
-https://live-content.xumo.com/1829/content/XM0WAW7SM2QHES/21910517/master.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",USGA
+#commenthttps://live-content.xumo.com/1829/content/XM0WAW7SM2QHES/21910517/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS",Stadium
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORTS",Football daily
-https://live-content.xumo.com/249/content/XM0WPNA7PAIIAR/18785950/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORTS",Adventure sport network
-https://live-content.xumo.com/214/content/XM0B1X9MHVEAX9/18411764/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORTS",Fox Deporte
-https://live-content.xumo.com/189/content/XM0R17CMSHRJOA/22230955/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORTS",USA Today sports wired
-https://live-content.xumo.com/210/content/XM0DL423YIFEUH/22220345/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORTS",field and stream
-https://live-content.xumo.com/72/content/XM0H550PUCHS6D/3201321/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORTS",waypointTv
-https://live-content.xumo.com/908/content/XM0BAKINIM77SL/21438643/master.m3u8
-
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",Football daily
+#commenthttps://live-content.xumo.com/249/content/XM0WPNA7PAIIAR/18785950/master.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",Adventure sport network
+#commenthttps://live-content.xumo.com/214/content/XM0B1X9MHVEAX9/18411764/master.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",Fox Deporte
+#commenthttps://live-content.xumo.com/189/content/XM0R17CMSHRJOA/22230955/master.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",USA Today sports wired
+#commenthttps://live-content.xumo.com/210/content/XM0DL423YIFEUH/22220345/master.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",field and stream
+#commenthttps://live-content.xumo.com/72/content/XM0H550PUCHS6D/3201321/master.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",waypointTv
+#commenthttps://live-content.xumo.com/908/content/XM0BAKINIM77SL/21438643/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-country="US" tvg-url="" group-title="SPORTS",Bek Sports East
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
@@ -242,31 +204,6 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 #commenthttps://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" tvg-country="US" tvg-url="" group-title="SPORTS",Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-
-#EXTINF:-1 group-title="COMEDY_TV",Gags
-https://live-content.xumo.com/146/content/XM0UOZ7IDVSW4U/19410447/master.m3u8
-
-#EXTINF:-1 group-title="COMEDY_TV",Just for Laghs
-https://live-content.xumo.com/117/content/XM0BAJMK3KBANH/18339311/master.m3u8
-
-#EXTINF:-1 group-title="COMEDY_TV",Funny or Die
-https://live-content.xumo.com/130/content/XM0O39KL6HXKS5/21877552/master.m3u8
-
-#EXTINF:-1 group-title="COMEDY_TV",Above Average
-https://live-content.xumo.com/201/content/XM013GWRRANKY4/18084578/master.m3u8
-
-#EXTINF:-1 group-title="COMEDY_TV",College Humor
-https://live-content.xumo.com/223/content/XM0K81GKSBQ0BM/18310809/master.m3u8
-
-#EXTINF:-1 group-title="COMEDY_TV",Comedy dynamics
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/master.m3u8
-
-#EXTINF:-1 group-title="COMEDY_TV",Its showtime at the apollo
-https://live-content.xumo.com/1836/content/XM0YV9ZW3NILGZ/21862602/master.m3u8
-#EXTINF:-1 group-title="COMEDY_TV",The pet collective
-https://live-content.xumo.com/115/content/XM018FF95LOYQU/21594512/master.m3u8
-#EXTINF:-1 group-title="COMEDY_TV",fail Army
-https://live-content.xumo.com/56/content/XM014QAJZVL2RE/22138487/master.m3u8
 
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC
 #commenthttps://cdn2.sports24.win/abc.m3u8
@@ -394,54 +331,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", DISCOVERY 2
 #commenthttps://content-ausw4.uplynk.com/channel/19334c6a5c614c46b2f198f15c179163/h.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-#commentd50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-#commentb879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-
-#EXTINF:-1 group-title="TV AND MOVIES",Free family tv
-https://live-content.xumo.com/288/content/XM06ZCRLQCO5UE/20856399/remuxed-XUMO-11403/5.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",Xumo movies
-https://live-content.xumo.com/1084/content/XM0A75W94M7KB3/22028604/master.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",Xumo Comedy
-https://live-content.xumo.com/1839/content/XM0O213D1B5QRL/21697830/master.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",Xumo Action
-https://live-content.xumo.com/260/content/XM0DYMW63NFE4G/19447299/master.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",Xumo Her Movies
-https://live-content.xumo.com/1849/content/XM0VL0XG1LYCZZ/21845356/master.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",Cine life
-https://magnolia-xumo-us.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-xumo/CDN/master.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",Horror
-https://live-content.xumo.com/1849/content/XM0WYAP5PW3PE7/21849272/master.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",Sci fi fantasy
-https://live-content.xumo.com/1849/content/XM0GCVQMX03CBA/21835964/master.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",Filmerise
-https://live-content.xumo.com/260/content/XM001AZHZ5IU68/21026162/master.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",FilmHub
-https://zlive-content.xumo.com/234/content/XM0MTORA8FHQ6L/21876696/master.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",Gravitas
-https://live-content.xumo.com/247/content/XM02Y0VQD392X2/21959268/master.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",DOCURAMA
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",The Asylum
-https://live-content.xumo.com/275/content/XM09DKOZ6UH35S/19324086/master.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",Dove Channel
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",shoutfactory tv
-https://shoutfactorytv-xumo.amagi.tv/ssai/amagi_hls_data_xumo1212A-shoutfactory/CDN/master.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",Pongalo Novela Club
-https://live-content.xumo.com/164/content/XM0XD0ZY4EY7GD/5941260/remuxed-XUMO-11403/master.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",PBS digital studios
-https://live-content.xumo.com/110/content/XM0LGE5IN7P2LW/19225521/master.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",Love nature
-https://live-content.xumo.com/1852/content/XM0EH4RLGN5SVG/21783763/master.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",Popular scienci
-https://live-content.xumo.com/80/content/XM00NF3DGYPHY6/3201794/master.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",CNET
-https://live-content.xumo.com/43/content/XM04MDVC5RMVGO/22231065/master.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",Wired
-https://live-content.xumo.com/32/content/XM01N73ON2TS3Z/20917306/master.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",Global got talent
-https://live-content.xumo.com/164/content/XM0QCJSCGGF28X/21135319/6.m3u8
-#EXTINF:-1 group-title="TV AND MOVIES",YG entetaiment special
-https://live-content.xumo.com/1825/content/XM08YTH08T1LE0/21963431/master.m3u8
-
 
 #EXTINF:-1 tvg-chno="5001" tvg-id="2020 Live" tvg-name="2020 Live" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/e155b2ff-61dc-44c2-9d2a-26b0f69ebc5b-small3x1_stirr_0120_epg_2020LIVE_1920x1080.png?1579110210736" group-title="STIRR Tv",2020 Live
 https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
