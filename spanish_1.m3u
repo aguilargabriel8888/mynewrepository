@@ -51,45 +51,47 @@ https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kV5t7Dg.png" group-title="MOVIES",Frecuencia Musical (Opt-2)
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="MOVIES",MTV
-http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="MOVIES",Orbit Cable opt_1
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="MOVIES",Orbit Cable opt_2
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w248344991.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VuNcifM.png" group-title="MOVIES",GH Television
-#comment http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?fluxustv.m3u8
-https://ss6.domint.net:3046/gh_str/tv10/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.claro.com.do/portal/do/gc/canales/1492716663156-Imagen.png" group-title="MOVIES",Nexxo 20
 #commenthttp://ss6.domint.net:2106/nxo_str/nexxotv/chunklist_w286018438.m3u8
 http://tutvonline.is-by.us:1935/live/nexxotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YhMZXUp.png" group-title="MOVIES",Romana TV 42
-http://tv.romanatv42.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auAB6jh.png" group-title="MOVIES",Puñal TV
 #commenthttp://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES",RECTV ONLINE
+https://master.tucableip.com/reconline/live/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VuNcifM.png" group-title="MOVIES",GH Television
+#comment http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?fluxustv.m3u8
+https://ss6.domint.net:3046/gh_str/tv10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YhMZXUp.png" group-title="MOVIES",Romana TV 42
+http://tv.romanatv42.com/hls/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auAB6jh.png" group-title="MOVIES",ACS NETWORK
 https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES",REC ONLINE
-https://595b85410a151.streamlock.net/8214/8214/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",TELESISTEMAS
 https://ss3.domint.net:3114/t11_str/telesistema/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES",RECTV ONLINE
-https://master.tucableip.com/reconline/live/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="MOVIES",MTV
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 group-title="MOVIES",RETRO PLUS TV
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES",REC ONLINE
+https://595b85410a151.streamlock.net/8214/8214/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="MOVIES",WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",DW ESPAÑOL
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
@@ -97,14 +99,11 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #commenthttp://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 #comment#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="MOVIES",3ABN Latino
 #commenthttp://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/4ydVVIA.png" tvg-country="US" tvg-url="" group-#commenttitle="MOVIES",3ABN Latino
+#CommentEXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/4ydVVIA.png" tvg-country="US" tvg-url="" group-#commenttitle="MOVIES",3ABN Latino
 #commenthttps://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 #comment#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="MOVIES",Telemundo 44
 #commenthttps://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="MOVIES",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",Pongalo Novela Club
-https://live-content.xumo.com/164/content/XM0XD0ZY4EY7GD/5941260/remuxed-XUMO-11403/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO",Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
