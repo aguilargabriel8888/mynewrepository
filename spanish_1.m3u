@@ -18,26 +18,26 @@ https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?
 #commenthttps://5c21f7ec1999d.streamlock.net/8028/8028/playlist.m3u8
 https://stmv.panel.mivideo.pro/infinitatvpremium/infinitatvpremium/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120347945_1297171293952591_3894287610140699862_o.png?_nc_cat=106&_nc_sid=730e14&_nc_ohc=6ho9Bk0CPtgAX9626jD&_nc_ht=scontent-lga3-1.xx&oh=bbfe8f9bf9039e9fc35b43990f58c73a&oe=5F99C430" , FMTV 1 | HD
+#EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120347945_1297171293952591_3894287610140699862_o.png?_nc_cat=106&_nc_sid=730e14&_nc_ohc=6ho9Bk0CPtgAX9626jD&_nc_ht=scontent-lga3-1.xx&oh=bbfe8f9bf9039e9fc35b43990f58c73a&oe=5F99C430" , FMTV 1 | HD
 https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120232897_1297171577285896_4035463377711958235_o.png?_nc_cat=104&_nc_sid=730e14&_nc_ohc=wOU9xuxETqwAX-OEyWK&_nc_ht=scontent-lga3-1.xx&oh=f5ac628d95bca4ed2b81b0ba60c7d676&oe=5F9A1D5D" ,FMTV 2 | MOVIES
+#EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120232897_1297171577285896_4035463377711958235_o.png?_nc_cat=104&_nc_sid=730e14&_nc_ohc=wOU9xuxETqwAX-OEyWK&_nc_ht=scontent-lga3-1.xx&oh=f5ac628d95bca4ed2b81b0ba60c7d676&oe=5F9A1D5D" ,FMTV 2 | MOVIES
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120367370_1297171710619216_7291325377485598755_o.jpg?_nc_cat=102&_nc_sid=730e14&_nc_ohc=EkneyVTDcr4AX__UzQe&_nc_oc=AQn-RAwTIr8-lWb3Zr8Tz2hHTSh3eTUzOxDNXHIz3lZ2RdedVRSV7KlmVHz276d1cOoGdz8IY0WdmZXec9VS3-3F&_nc_ht=scontent-lga3-1.xx&oh=1d833632febec8ce7fae981e8806c022&oe=5F9ADFEB" ,FMTV 3 | SUPER CINE
+#EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120367370_1297171710619216_7291325377485598755_o.jpg?_nc_cat=102&_nc_sid=730e14&_nc_ohc=EkneyVTDcr4AX__UzQe&_nc_oc=AQn-RAwTIr8-lWb3Zr8Tz2hHTSh3eTUzOxDNXHIz3lZ2RdedVRSV7KlmVHz276d1cOoGdz8IY0WdmZXec9VS3-3F&_nc_ht=scontent-lga3-1.xx&oh=1d833632febec8ce7fae981e8806c022&oe=5F9ADFEB" ,FMTV 3 | SUPER CINE
 https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120334725_1297171960619191_873367734371225358_o.jpg?_nc_cat=103&_nc_sid=730e14&_nc_ohc=c_q4GZxvq-UAX9apGIE&_nc_ht=scontent-lga3-1.xx&oh=be4e098e38ed36c83c11ec074ab5a271&oe=5F992CBA" ,INFINITA TV | PREMIUM
+#EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120334725_1297171960619191_873367734371225358_o.jpg?_nc_cat=103&_nc_sid=730e14&_nc_ohc=c_q4GZxvq-UAX9apGIE&_nc_ht=scontent-lga3-1.xx&oh=be4e098e38ed36c83c11ec074ab5a271&oe=5F992CBA" ,INFINITA TV | PREMIUM
 https://stmv.panel.mivideo.pro/infinitatvpremium/infinitatvpremium/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120271269_1297172067285847_5769836842532815075_n.png?_nc_cat=111&_nc_sid=730e14&_nc_ohc=CDVDQ63ZLtIAX9kbP57&_nc_ht=scontent-lga3-1.xx&oh=2b6582483b444b27ae3ead422204a6cd&oe=5F994749" ,AC VISION | AZOGUES ECUADOR
+#EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120271269_1297172067285847_5769836842532815075_n.png?_nc_cat=111&_nc_sid=730e14&_nc_ohc=CDVDQ63ZLtIAX9kbP57&_nc_ht=scontent-lga3-1.xx&oh=2b6582483b444b27ae3ead422204a6cd&oe=5F994749" ,AC VISION | AZOGUES ECUADOR
 https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120350843_1297172230619164_2201389698076440122_o.png?_nc_cat=103&_nc_sid=730e14&_nc_ohc=ciwjAcRcFxwAX8jxSzP&_nc_ht=scontent-lga3-1.xx&oh=ba7709b72105b1f54cadb4c44463a016&oe=5F998F1C" ,DIMENSION TV | CHILE
+#EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120350843_1297172230619164_2201389698076440122_o.png?_nc_cat=103&_nc_sid=730e14&_nc_ohc=ciwjAcRcFxwAX8jxSzP&_nc_ht=scontent-lga3-1.xx&oh=ba7709b72105b1f54cadb4c44463a016&oe=5F998F1C" ,DIMENSION TV | CHILE
 https://stmv.panel.mivideo.pro/sebamix/sebamix/playlist.m3u8
 
 
