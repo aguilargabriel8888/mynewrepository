@@ -79,13 +79,6 @@ https://cm.hostlagarto.com:4445/ESTV/estv.myStream/playlist.m3u8
 #commenthttp://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kV5t7Dg.png" group-title="MOVIES",Frecuencia Musical (Opt-1)
-#commenthttps://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
-https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kV5t7Dg.png" group-title="MOVIES",Frecuencia Musical (Opt-2)
-http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="MOVIES",Orbit Cable opt_1
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
@@ -163,7 +156,8 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://www.sistemamichoacano.tv/templates/ja_teline_v/favicon.ico" group-title="MEXICO",SMRYT Michoacan
 #commenthttps://5e307acc9a171.streamlock.net:1936/michoacan_1/michoacan_1/chunklist_w868717161.m3u8
-https://5e307acc9a171.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
+#commenthttps://5e307acc9a171.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
+https://5e307acc9a171.streamlock.net:1936/noticias/noticias/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sistemamichoacano.tv/templates/ja_teline_v/favicon.ico" group-title="MEXICO",SMRYT Michoacan -opcion 2-
 https://5e307acc9a171.streamlock.net:1936/michoacan_1/michoacan_1/playlist.m3u8
