@@ -867,6 +867,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539b
 #EXTINF:-1 group-title="PLUTO TV US|LATINO",Lucha libre AAA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",Nick Latino
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
+
+
+#EXTINF:-1 group-title="PLUTO TV US|LATINO",Nick Jr. Latino
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
+
 #EXTINF:-1 tvg-id="" group-title="Pluto TV Mexico",Cine Accion
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
@@ -1007,3 +1014,4 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007
 
 #EXTINF:-1 tvg-id="" group-title="Pluto TV Mexico",NICK CLASICO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
+
