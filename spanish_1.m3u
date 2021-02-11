@@ -13,10 +13,11 @@ https://cdn-luis-8044-1.ciclano.io:1443/luis-8044-1/luis-8044-1/playlist.m3u8
 #commenthttps://v8.ciclano.io:1443/dostres/_definst_/dostres/playlist.m3u8
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?
 
-#EXTINF:-1 group-title="MOVIES",FMTV MOVIES1
+#EXTINF:-1 group-title="MOVIES",FMTV MUNDO
 #commenthttps://5c21f7ec1999d.streamlock.net/8028/8028/chunklist_w1150773467.m3u8
 #commenthttps://5c21f7ec1999d.streamlock.net/8028/8028/playlist.m3u8
-https://stmv.panel.mivideo.pro/infinitatvpremium/infinitatvpremium/playlist.m3u8
+#https://stmv.panel.mivideo.pro/infinitatvpremium/infinitatvpremium/playlist.m3u8
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120347945_1297171293952591_3894287610140699862_o.png?_nc_cat=106&_nc_sid=730e14&_nc_ohc=6ho9Bk0CPtgAX9626jD&_nc_ht=scontent-lga3-1.xx&oh=bbfe8f9bf9039e9fc35b43990f58c73a&oe=5F99C430" , FMTV 1 | HD
 https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
@@ -46,7 +47,7 @@ https://stmv.panel.mivideo.pro/sebamix/sebamix/playlist.m3u8
 https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
 
 
-#EXTINF:-1 group-title="MOVIES",PuntaCanal
+#EXTINF:-1 group-title="MOVIES",PuntaCana Tv
 #commenthttps://cdn4.hostlagarto.com:8081/puntacanatv/tracks-v1a1/mono.m3u8
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
 
@@ -104,11 +105,24 @@ https://ss6.domint.net:3046/gh_str/tv10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhMZXUp.png" group-title="MOVIES",Romana TV 42
 http://tv.romanatv42.com/hls/live.m3u8
 
+#EXTINF:-1 tvg-id="116087" tvg-name="Cine Club" tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png" group-title="MOVIES", Cine Club
+https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="127494" tvg-name="Boomerang" tvg-logo="https://lh3.googleusercontent.com/-GVKVCBZ1ryg/YBsb5fRaNOI/AAAAAAAA_qk/6puCkYZaRUkrhUHzzMnHGL2CUMO94ij2ACK8BGAsYHg/s0/2021-02-03.png" group-title="MOVIES", Boomerang
+http://8.9.4.128:8080/hls/boomerangtv.m3u8
+
+#EXTINF:-1 tvg-id="103350" tvg-name="Solo Stand Up" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png" group-title="MOVIES", Solo Stand Up
+https://paneltv.online:1936/8116/8116/playlist.m3u8
+
+#EXTINF:-1 tvg-id="80097" tvg-name="Maxima Movie" tvg-logo="https://static-media.streema.com/media/cache/9c/75/9c75606d3a6daafb02d1342c012ba436.jpg" group-title="MOVIES", Maxima Movie
+http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auAB6jh.png" group-title="MOVIES",ACS NETWORK
 https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES",TELESISTEMAS
-https://ss3.domint.net:3114/t11_str/telesistema/playlist.m3u8
+#commenthttps://ss3.domint.net:3114/t11_str/telesistema/playlist.m3u8
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="MOVIES",MTV
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
@@ -124,8 +138,37 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="MOVIES",WOW! TV opt_2
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="75709" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MOVIES", Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="110962" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MOVIES", Retro Plus TV Señal 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="116640" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MOVIES", Retro Plus TV Señal 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="110679" tvg-name="El Chavo TV" tvg-logo="https://lh3.googleusercontent.com/-5eP6g5sX97U/X0lgCjh-dmI/AAAAAAAA5CQ/VWuz7CEH4Lswd2SPPB9U9RjbmbtMcuP4wCK8BGAsYHg/s0/2020-08-28.png" group-title="MOVIES", El Chavo TV
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8
+#EXTINF:-1 tvg-id="110680" tvg-name="Cloud Server Kids" tvg-logo="https://lh3.googleusercontent.com/-FO_MlzlWSL0/XtV_Ce2TltI/AAAAAAAA1XE/7jcBrfL19qwjBOJ4knqOiXQZCni99OwWACK8BGAsYHg/s0/2020-06-01.png" group-title="MOVIES", Cloud Server Kids
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
+
 #EXTINF:-1 group-title="MOVIES",DW ESPAÑOL
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1 tvg-id="109756" tvg-name="Sol TV" tvg-logo="https://lh3.googleusercontent.com/-ylaKrXQpRhc/XzxoSsdrC7I/AAAAAAAA4og/c-5bcL314FgeLmDsQMJHGBVQzuuLrE_oACK8BGAsYHg/s0/2020-08-18.png" group-title="MOVIES", Sol TV
+https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES",TELE MAS
+https://www.webmedialive.org:1936/8024/8024/playlist.m3u8
+
+#EXTINF:-1 tvg-id="45105" tvg-name=" Cachipum TV Series" tvg-logo="http://cachipum.tv/img/logo.png" group-title="MOVIES",  Cachipum TV Series
+https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="47417" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="MOVIES", Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-id="105940" tvg-name="Anime Loving TV" tvg-logo="https://lh3.googleusercontent.com/-HeQS_tKAA-8/XwePwID2waI/AAAAAAAA2no/QYCSrncPB0EhtQbqhEBEQyqPguxCHCFtQCK8BGAsYHg/s0/2020-07-09.png" group-title="MOVIES", Anime Loving TV
+http://animeloving.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="102655" tvg-name="Dreiko TV" tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png" group-title="MOVIES", Dreiko TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45166" tvg-name="Pintana TV" tvg-logo="https://lh3.googleusercontent.com/-Mthb4RQqfgU/XxyJnpes1QI/AAAAAAAA3Vo/Gmg_Wcr0Gv80KzXGNa3Z91BEea2r4ID0wCK8BGAsYHg/s0/2020-07-25.png" group-title="MOVIES", Pintana TV
+https://tls.cdnz.cl/lapintana/live/playlist.m3u8
+
 
 #comment#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="MOVIES",CBN Español
 #commenthttp://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
