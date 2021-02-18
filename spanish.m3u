@@ -19,16 +19,16 @@ https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?
 #https://stmv.panel.mivideo.pro/infinitatvpremium/infinitatvpremium/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120347945_1297171293952591_3894287610140699862_o.png?_nc_cat=106&_nc_sid=730e14&_nc_ohc=6ho9Bk0CPtgAX9626jD&_nc_ht=scontent-lga3-1.xx&oh=bbfe8f9bf9039e9fc35b43990f58c73a&oe=5F99C430" , FMTV 1 | HD
-https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
+#comment#EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120347945_1297171293952591_3894287610140699862_o.png?#comment_nc_cat=106&_nc_sid=730e14&_nc_ohc=6ho9Bk0CPtgAX9626jD&_nc_ht=scontent-lga3-1.xx&oh=bbfe8f9bf9039e9fc35b43990f58c73a&oe=5F99C430" , FMTV 1 | HD
+#commenthttps://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
 
 
-#EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120232897_1297171577285896_4035463377711958235_o.png?_nc_cat=104&_nc_sid=730e14&_nc_ohc=wOU9xuxETqwAX-OEyWK&_nc_ht=scontent-lga3-1.xx&oh=f5ac628d95bca4ed2b81b0ba60c7d676&oe=5F9A1D5D" ,FMTV 2 | MOVIES
-https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8
+#comment#EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120232897_1297171577285896_4035463377711958235_o.png?_nc_cat=104&_nc_sid=730e14&_nc_ohc=wOU9xuxETqwAX-#commentOEyWK&_nc_ht=scontent-lga3-1.xx&oh=f5ac628d95bca4ed2b81b0ba60c7d676&oe=5F9A1D5D" ,FMTV 2 | MOVIES
+#commenthttps://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8
 
 
-#EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120367370_1297171710619216_7291325377485598755_o.jpg?_nc_cat=102&_nc_sid=730e14&_nc_ohc=EkneyVTDcr4AX__UzQe&_nc_oc=AQn-RAwTIr8-lWb3Zr8Tz2hHTSh3eTUzOxDNXHIz3lZ2RdedVRSV7KlmVHz276d1cOoGdz8IY0WdmZXec9VS3-3F&_nc_ht=scontent-lga3-1.xx&oh=1d833632febec8ce7fae981e8806c022&oe=5F9ADFEB" ,FMTV 3 | SUPER CINE
-https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8
+#comment#EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120367370_1297171710619216_7291325377485598755_o.jpg?#comment_nc_cat=102&_nc_sid=730e14&_nc_ohc=EkneyVTDcr4AX__UzQe&_nc_oc=AQn-RAwTIr8-lWb3Zr8Tz2hHTSh3eTUzOxDNXHIz3lZ2RdedVRSV7KlmVHz276d1cOoGdz8IY0WdmZXec9VS3-3F&_nc_ht=scontent-#commentlga3-1.xx&oh=1d833632febec8ce7fae981e8806c022&oe=5F9ADFEB" ,FMTV 3 | SUPER CINE
+#commenthttps://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8
 
 
 #EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120334725_1297171960619191_873367734371225358_o.jpg?_nc_cat=103&_nc_sid=730e14&_nc_ohc=c_q4GZxvq-UAX9apGIE&_nc_ht=scontent-lga3-1.xx&oh=be4e098e38ed36c83c11ec074ab5a271&oe=5F992CBA" ,INFINITA TV | PREMIUM
@@ -83,8 +83,8 @@ http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="MOVIES",Orbit Cable opt_1
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="MOVIES",Orbit Cable opt_2
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w248344991.m3u8
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/nLF2VF1.png" group-title="MOVIES",Orbit Cable opt_2
+#commenthttps://ss3.domint.net:3134/otv_str/orbittv/chunklist_w248344991.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.claro.com.do/portal/do/gc/canales/1492716663156-Imagen.png" group-title="MOVIES",Nexxo 20
 #commenthttp://ss6.domint.net:2106/nxo_str/nexxotv/chunklist_w286018438.m3u8
@@ -114,11 +114,11 @@ http://8.9.4.128:8080/hls/boomerangtv.m3u8
 #EXTINF:-1 tvg-id="103350" tvg-name="Solo Stand Up" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png" group-title="MOVIES", Solo Stand Up
 https://paneltv.online:1936/8116/8116/playlist.m3u8
 
-#EXTINF:-1 tvg-id="80097" tvg-name="Maxima Movie" tvg-logo="https://static-media.streema.com/media/cache/9c/75/9c75606d3a6daafb02d1342c012ba436.jpg" group-title="MOVIES", Maxima Movie
-http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="80097" tvg-name="Maxima Movie" tvg-logo="https://static-media.streema.com/media/cache/9c/75/9c75606d3a6daafb02d1342c012ba436.jpg" group-title="MOVIES", Maxima Movie
+#commenthttp://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/auAB6jh.png" group-title="MOVIES",ACS NETWORK
-https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/auAB6jh.png" group-title="MOVIES",ACS NETWORK
+#commenthttps://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES",TELESISTEMAS
 #commenthttps://ss3.domint.net:3114/t11_str/telesistema/playlist.m3u8
@@ -127,11 +127,11 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="MOVIES",MTV
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 group-title="MOVIES",RETRO PLUS TV
-https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#comment#EXTINF:-1 group-title="MOVIES",RETRO PLUS TV
+#commenthttps://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES",REC ONLINE
-https://595b85410a151.streamlock.net/8214/8214/playlist.m3u8
+#comment#EXTINF:-1 group-title="MOVIES",REC ONLINE
+#commenthttps://595b85410a151.streamlock.net/8214/8214/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="MOVIES",WOW! TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
@@ -187,7 +187,7 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO",Claro Sport
-https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/live-audio_track_0_0_und=128000-video_track=365000.m3u8
+https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/playlsit.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XcVxkBA.png" group-title="MEXICO",Canal 22.1
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
@@ -206,8 +206,8 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 #commenthttps://5e307acc9a171.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
 https://6011c5681d877.streamlock.net:1936/enlinea/enlinea/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.sistemamichoacano.tv/templates/ja_teline_v/favicon.ico" group-title="MEXICO",SMRYT Michoacan -opcion 2-
-https://5e307acc9a171.streamlock.net:1936/michoacan_1/michoacan_1/playlist.m3u8
+#comment#EXTINF:-1 tvg-logo="https://www.sistemamichoacano.tv/templates/ja_teline_v/favicon.ico" group-title="MEXICO",SMRYT Michoacan -opcion 2-
+#commenthttps://5e307acc9a171.streamlock.net:1936/michoacan_1/michoacan_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9HA0TTS.png" group-title="MEXICO",TV UNAM
 https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/playlist.m3u8
@@ -225,32 +225,39 @@ https://5f1af61612fb5.streamlock.net/tv43/videotv43/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/tv44/videotv44/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZabCEYO.png" group-title="MEXICO",Canal Catorce
-https://6011c5681d877.streamlock.net:1936/canalcatorce/canalcatorce/playlist.m3u8
-#commenthttps://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#commenthttps://6011c5681d877.streamlock.net:1936/canalcatorce/canalcatorce/playlist.m3u8
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZabCEYO.png" group-title="MEXICO",Corazon de la Capital C21
 https://6011c5681d877.streamlock.net:1936/canalcatorce/canalcatorce/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RiSJlqB.png" group-title="MEXICO",Capacita TV
-https://srvstream01.televisioneducativa.gob.mx/hls/capacitatv.m3u8
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/RiSJlqB.png" group-title="MEXICO",Capacita TV
+#commenthttps://srvstream01.televisioneducativa.gob.mx/hls/capacitatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kkgl1vm.png" group-title="MEXICO",Ingenio TV
-https://srvstream01.televisioneducativa.gob.mx/hls/ingeniotv.m3u8
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/Kkgl1vm.png" group-title="MEXICO",Ingenio TV
+#commenthttps://srvstream01.televisioneducativa.gob.mx/hls/ingeniotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kwUMVSj.png" group-title="MEXICO",Aprende TV
-https://srvstream01.televisioneducativa.gob.mx/hls/aprendetv.m3u8
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/kwUMVSj.png" group-title="MEXICO",Aprende TV
+#commenthttps://srvstream01.televisioneducativa.gob.mx/hls/aprendetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YFUOqMz.png" group-title="MEXICO",Telebachillerato
-https://srvstream01.televisioneducativa.gob.mx/hls/telebachillerato.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kwUMVSj.png" group-title="MEXICO",Adn40
+https://dai.google.com/linear/hls/pa/event/XZLLJIhJRNqz33DGp6NdkA/stream/3e391fee-9881-4af4-a8fb-58ccbf2d6cd4:DLS/variant/347dd514e4c301d219227132972fd749/bandwidth/673200.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LYri0Rq.png" group-title="MEXICO",Telesecundaria
-https://srvstream01.televisioneducativa.gob.mx/hls/telesecundaria.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kwUMVSj.png" group-title="MEXICO",a_mas
+https://dai.google.com/linear/hls/pa/event/SJysMl45QMSwjo0TodSk1Q/stream/2309ca19-5a8f-48a3-b36f-16759be94bfc:DLS/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JbpfXIK.png" group-title="MEXICO",Telesecundaria Mas
-https://srvstream01.televisioneducativa.gob.mx/hls/telesecundariamas.m3u8
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/YFUOqMz.png" group-title="MEXICO",Telebachillerato
+#commenthttps://srvstream01.televisioneducativa.gob.mx/hls/telebachillerato.m3u8
+
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/LYri0Rq.png" group-title="MEXICO",Telesecundaria
+#commenthttps://srvstream01.televisioneducativa.gob.mx/hls/telesecundaria.m3u8
+
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/JbpfXIK.png" group-title="MEXICO",Telesecundaria Mas
+#commenthttps://srvstream01.televisioneducativa.gob.mx/hls/telesecundariamas.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zA61jld.png" group-title="MEXICO",CB TV Morelia
-https://5ca3e84a76d30.streamlock.net/cbtv/videocbtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjAgMTI6MTY6MDggQU0maGFzaF92YWx1ZT1pcFFEZjNRcTNUN3dJdjFwa1VsT0tnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
+#commenthttps://5ca3e84a76d30.streamlock.net/cbtv/videocbtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjAgMTI6MTY6MDggQU0maGFzaF92YWx1ZT1pcFFEZjNRcTNUN3dJdjFwa1VsT0tnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
+https://5ca3e84a76d30.streamlock.net/cbtv/videocbtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDk6MDQ6MzEgUE0maGFzaF92YWx1ZT1mWHFzMFl4bjlJdFZoSHlYYU1YM1BnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO",Milenio TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
@@ -288,14 +295,16 @@ https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="MEXICO",Multimedios SEP Cadena 4
 https://mdstrm.com/live-stream-playlist/5cfe8974ef9acc25607a7dec.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JTNF4Rs.png" group-title="MEXICO",Canal 6 Morelia
-http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m3u8
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/JTNF4Rs.png" group-title="MEXICO",Canal 6 Morelia
+#commenthttp://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m3u8
+#commenthttps://59802217c6db4.streamlock.net/canal6mich2/videocanal6mich2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDk6MDg6MTQgUE0maGFzaF92YWx1ZT1uQW54Nlc5d2tEK09zSTRBUUZDZDBRPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1KGpBjf.png" group-title="MEXICO",Jalisco UDG TV 44
-https://liveingesta118.cdnmedia.tv/udgmxlive/smil:canal44.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1KGpBjf.png" group-title="MEXICO",Jalisco UDG TV 44 Noticias
-https://liveingesta118.cdnmedia.tv/udgmxlive/smil:44noticias.smil/playlist.m3u8
+
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/1KGpBjf.png" group-title="MEXICO",Jalisco UDG TV 44
+#commenthttps://liveingesta118.cdnmedia.tv/udgmxlive/smil:canal44.smil/playlist.m3u8
+
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/1KGpBjf.png" group-title="MEXICO",Jalisco UDG TV 44 Noticias
+#commenthttps://liveingesta118.cdnmedia.tv/udgmxlive/smil:44noticias.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKpOCv8.png" group-title="MEXICO",RCG 1 Saltillo
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
@@ -309,14 +318,17 @@ http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HCLEpfu.png" group-title="MEXICO",RTQ Queretaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y5mzuOK.png" group-title="MEXICO",Mexiquense Toluca
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w251604064.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDIwIDg6NTU6NTMgUE0maGFzaF92YWx1ZT0xMTJiejlnUmczWkZndFRVTERnQVBRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/y5mzuOK.png" group-title="MEXICO",Mexiquense Toluca
+#commenthttps://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w251604064.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDIwIDg6NTU6NTMgUE0maGFzaF92YWx1ZT0xMTJiejlnUmczWkZndFRVTERnQVBRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXJPqDn.png" group-title="MEXICO",Teleformula
-http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#commenthttp://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+https://stream-02.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqoSVS39S4RoXSU_j9BUuF0I)/dm/3/x7u0spq/s/live-0.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cod8aTA.png" group-title="MEXICO",Telemar Campeche
-http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#commenthttp://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+https://59d39900ebfb8.streamlock.net/8410/8410/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LxbZ1x9.png" group-title="MEXICO",Telemax Hermosillo
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
@@ -349,11 +361,11 @@ https://6011c5681d877.streamlock.net:1936/stream/stream/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",NTV Mexico
 https://59802217c6db4.streamlock.net/ntv/videontv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D55iTpX.png" group-title="MEXICO",15TV Sabinas (Opt-1)
-http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D55iTpX.png" group-title="MEXICO",15TV Sabinas
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D55iTpX.png" group-title="MEXICO",15TV Sabinas (Opt-2)
-http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/D55iTpX.png" group-title="MEXICO",15TV Sabinas (Opt-2)
+#commenthttp://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cs16OLz.png" group-title="MEXICO",Canal 4 Saltillo
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
@@ -364,8 +376,8 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9HA0TTS.png" group-title="MEXICO",Canal 10 Cancun (Opt-2)
 http://www.canal10.tv/live/tvlive1/chunklist_w1166915179.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i4N1CVp.png" group-title="MEXICO",Canal 10 Chiapas
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8?fluxustv.m3u8
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/i4N1CVp.png" group-title="MEXICO",Canal 10 Chiapas
+#commenthttps://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9HA0TTS.png" group-title="MEXICO",LA MATRACA Aguascalientes
 https://streamingcws10.com:1935/telemetrika3/videotelemetrika3/playlist.m3u8
@@ -376,8 +388,8 @@ https://www.canal10.tv/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://esae.ilceinternacional.org/canales/CANAL_18/logo.png" group-title="MEXICO",Canal Iberoamericano
 https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/_definst_/mp4:7NBH6B8L/chunklist_w1775463024.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7lDYdZq.png" group-title="MEXICO",Dominio Radio Monterrey
-http://api.new.livestream.com/accounts/dominio/events/8405951/live.m3u8?fluxustv.m3u8
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/7lDYdZq.png" group-title="MEXICO",Dominio Radio Monterrey
+#commenthttp://api.new.livestream.com/accounts/dominio/events/8405951/live.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z4olESG.png" group-title="MEXICO",FOROtv (Opt-1)
 https://adinsertprimeforotv.akamaized.net/hls/live/2004483/forotvdai/index.m3u8
@@ -385,14 +397,14 @@ https://adinsertprimeforotv.akamaized.net/hls/live/2004483/forotvdai/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z4olESG.png" group-title="MEXICO",FOROtv (Opt-2)
 https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YtnqXQO.png" group-title="MEXICO",Hidalgo TV
-http://189.204.60.62/hls-live/livepkgr/_definst_/liveevent/mylivestream3.m3u8
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/YtnqXQO.png" group-title="MEXICO",Hidalgo TV
+#commenthttp://189.204.60.62/hls-live/livepkgr/_definst_/liveevent/mylivestream3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QMUuglM.png" group-title="MEXICO",Justicia TV (Opt-1)
-http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/QMUuglM.png" group-title="MEXICO",Justicia TV (Opt-1)
+#commenthttp://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QMUuglM.png" group-title="MEXICO",Justicia TV (Opt-2)
-https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1760841144.m3u8
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/QMUuglM.png" group-title="MEXICO",Justicia TV (Opt-2)
+#commenthttps://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1760841144.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kGv3cg5.png" group-title="MEXICO",MVM Noticias Oaxaca
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
@@ -407,7 +419,8 @@ http://streamingcws10.com:1935/telemetrika/videotelemetrika/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/sqcs/videosqcs/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjAgODo1Mzo0MCBQTSZoYXNoX3ZhbHVlPUthcEp2Lzk1clJiVEtITngwMmkrNkE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J6jnsBS.png" group-title="MEXICO",Tele Yucatan
-https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjAgODo0NTo1NSBQTSZoYXNoX3ZhbHVlPW1JZHZGbHAwb1BIRkFML0RmWUV6SVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDk6Mzk6MTEgUE0maGFzaF92YWx1ZT1xSHNQZUYwOHFkZWd2YXBMR1o3c2lnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J6jnsBS.png" group-title="MEXICO",Radar_TV
 https://stream.oursnetworktv.com/latin/radarTV/master.m3u8
