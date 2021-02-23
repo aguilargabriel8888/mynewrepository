@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Video.js + hls.js</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" rel="stylesheet"><!-- https://getbootstrap.com -->
+    <link href="https://vjs.zencdn.net/5.19.2/video-js.css" rel="stylesheet"><!-- https://videojs.com -->
+    <style type="text/css">
+        .video-js {
+            font-size: 1rem;
+        }
+    </style>
+  </head>
+  <body class="bg-light">
+    <div class="container">
+        <div class="my-5 embed-responsive embed-responsive-16by9">
+            <video id="video" class="embed-responsive-item video-js vjs-default-skin" width="640" height="360" autoplay controls></video>
+        </div>
+        
+        <input type="text" placeholder="paste your link here" id="myInput">
+        
+<button id="change">change video</button>
+<button id="channel_1">azteca_1</button>
+<button id="channel_7">azteca_7</button>
+<button id="channel_11">Once</button>
+<button id="channel_22_1">Canal 22</button>
+<button id="channel_mich">SMRYT</button>
+<button id="channel_claro">Claro_Sport</button>
+<h2>HLS .m3u8&nbsp;streams for testing</h2>
+<ul>
+  <li>https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8</li>
+  <li>https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8</li>
+  <li>http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8</li>
+https://5e307acc9a171.streamlock.net:1936/noticias/noticias/playlist.m3u8
+  </ul>
+    </div>
+    
+
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://vjs.zencdn.net/5.19.2/video.js"></script><!-- https://videojs.com -->
+    <script src="hls.min.js?v=v0.9.1"></script><!-- https://github.com/video-dev/hls.js -->
+    <script src="videojs5-hlsjs-source-handler.min.js?v=0.3.1"></script><!-- https://github.com/streamroot/videojs-hlsjs-plugin -->
+    <script src="vjs-quality-picker.js?v=v0.0.2"></script><!-- https://github.com/streamroot/videojs-quality-picker -->
+    <script>
+      //http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8
+     //https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
+
+    (function ($) {
+        $(document).ready(function () {
+
+            // An example of playing with the Video.js javascript API
+            // Will start the video and then switch the source 3 seconds latter
+            // You can look at the doc there: http://docs.videojs.com/docs/guides/api.html
+            videojs('video').ready(function () {
+                var myPlayer = this;
+                myPlayer.qualityPickerPlugin();
+                myPlayer.src({type: 'application/x-mpegURL', src: 'https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8'});
+
+                $("#change").on('click', function () {
+                  var new_url = $("#myInput").val();
+                    myPlayer.src({type: 'application/x-mpegURL', src: new_url});
+                });
+
+		$("#channel_1").on('click', function () {
+                  var new_url_1 = 'https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8';
+                    myPlayer.src({type: 'application/x-mpegURL', src: new_url_1});
+                });
+
+		$("#channel_7").on('click', function () {
+                  var new_url_7 = 'https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8';
+                    myPlayer.src({type: 'application/x-mpegURL', src: new_url_7});
+                });
+
+		$("#channel_11").on('click', function () {
+                  var new_url_11 = 'http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8';
+                    myPlayer.src({type: 'application/x-mpegURL', src: new_url_11});
+                });
+
+		$("#channel_22_1").on('click', function () {
+                  var new_url_22_1 = 'https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8';
+                    myPlayer.src({type: 'application/x-mpegURL', src: new_url_22_1});
+                });
+
+		$("#channel_mich").on('click', function () {
+                  var new_url_mich = 'https://6011c5681d877.streamlock.net:1936/enlinea/enlinea/master.m3u8';
+                    myPlayer.src({type: 'application/x-mpegURL', src: new_url_mich});
+                });
+
+		$("#channel_claro").on('click', function () {
+                  var new_url_claro = 'https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/playlsit.m3u8';
+                    myPlayer.src({type: 'application/x-mpegURL', src: new_url_claro});
+                });
+
+            });
+
+        });
+    })(jQuery);
+
+    </script>
+  </body>
+</html>
+
