@@ -7,11 +7,12 @@ https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 
 #comment#EXTINF:-1 group-title="MOVIES",FMTV MOVIES3
 #commenthttps://cdn-luis-8044-1.ciclano.io:1443/luis-8044-1/luis-8044-1/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",FMTV 3 SUPER CINE 
+http://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",FMTV MOVIES2
-#commenthttps://v8.ciclano.io:1443/dostres/_definst_/dostres/chunklist_w760166144.m3u8
-#commenthttps://v8.ciclano.io:1443/dostres/_definst_/dostres/playlist.m3u8
-https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?
+#commenthttps://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?
+http://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",FMTV MUNDO
 #commenthttps://5c21f7ec1999d.streamlock.net/8028/8028/chunklist_w1150773467.m3u8
