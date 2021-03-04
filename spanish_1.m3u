@@ -200,7 +200,8 @@ https://6011c5681d877.streamlock.net:1936/enlinea/enlinea/master.m3u8
 https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MEXICO",Canal 4.1 Gto (LEON)
-https://5f1af61612fb5.streamlock.net/tv4/videotv4/playlist.m3u8
+#commenthttps://5f1af61612fb5.streamlock.net/tv4/videotv4/playlist.m3u8
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MEXICO",Canal 4.2 Gto (LEON)
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42/playlist.m3u8
