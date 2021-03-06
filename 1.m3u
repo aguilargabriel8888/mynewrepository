@@ -14,10 +14,14 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",CBBC
-https://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/index.m3u8
+#commenthttps://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/index.m3u8
+https://gintna100.tulix.tv/gin_live/bbcthree/3bc331fa8e31c73400aefbe2e7aa9d41/6045095a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",CBBC opt2
-https://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" tvg-country="UK" tvg-url="" group-title="THE_BEST_KIDS_TV",Cbeebies
+http://51.52.156.22:8888/http/003
+
+#comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",CBBC opt2
+#commenthttps://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",Kabillion opt2
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
@@ -249,10 +253,19 @@ https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC TWO
-https://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/index.m3u8
+#commenthttps://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/index.m3u8
+https://gintna100.tulix.tv/gin_live/bbctwo/44d7dd5a98232ba3a07410e532aaf4a0/60450922/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC TWO opt 2
-https://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC ENTERTAIMENT 
+#commenthttps://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8
+https://gintna100.tulix.tv/gin_live/bbcent/af0f0db302978fbcad29dc6d3857980c/604509df/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CHANNEL 4 United Kindom 
+https://gintna100.tulix.tv/gin_live/channel4/f38ec6c6b227cba847e57cea0de25625/60450a0c/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CANALE 5 Italy 
+https://gintna100.tulix.tv/gin_live/canale-5/6894facbf30c9eef6cf6f3e3f8c4ba0d/60450a51/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Laugh Out Loud
 https://bozztv.com/36bay4/Laughs/index.m3u8
