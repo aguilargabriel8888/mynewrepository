@@ -261,6 +261,8 @@ https://gintna100.tulix.tv/gin_live/bbctwo/44d7dd5a98232ba3a07410e532aaf4a0/6045
 #commenthttps://gintna100.tulix.tv/gin_live/bbcent/af0f0db302978fbcad29dc6d3857980c/604509df/index.m3u8
 https://gintna100.tulix.tv/gin_live/bbcent/601103a9a74815457c0b5157c1782bb3/604e93de/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC ONE SCOTLAND
+http://51.52.156.22:8888/http/001
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CHANNEL 4 United Kindom 
 https://gintna100.tulix.tv/gin_live/channel4/f38ec6c6b227cba847e57cea0de25625/60450a0c/index.m3u8
