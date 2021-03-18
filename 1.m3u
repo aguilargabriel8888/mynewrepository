@@ -15,7 +15,8 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",CBBC
 #commenthttps://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/index.m3u8
-https://gintna100.tulix.tv/gin_live/bbcthree/3bc331fa8e31c73400aefbe2e7aa9d41/6045095a/index.m3u8
+#commenthttps://gintna100.tulix.tv/gin_live/bbcthree/3bc331fa8e31c73400aefbe2e7aa9d41/6045095a/index.m3u8
+https://gintna100.tulix.tv/gin_live/bbcthree/55403b7faf0984a6c5ee96efd01827f8/6054290f/index.m3u8
 
 #EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" tvg-country="UK" tvg-url="" group-title="THE_BEST_KIDS_TV",Cbeebies
 http://51.52.156.22:8888/http/003
@@ -116,6 +117,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a617379
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS",NFL Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS",being sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=85.0.4183.83&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&deviceType=web&deviceMake=Chrome&sid=a6cbb1c4-8782-11eb-a627-0242ac110002&advertisingId=&deviceLat=33.7485&deviceLon=-84.3871&deviceDNT=0&deviceModel=web&userId=&appName=web
+
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS",WINTER
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d9f8ae00270560009b81891/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
