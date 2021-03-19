@@ -165,6 +165,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40855b3fb0855028
 #EXTINF:-1 tvg-id="" group-title="SPORTS",American Gladiator
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815e489b315b154db2e053/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
+#EXTINF:-1 tvg-id="" group-title="SPORTS",Bek Sports East (720p)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS",Bek Sports West (720p)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+
+
 #EXTINF:-1 tvg-chno="5072" tvg-id="STIRR | sports" tvg-name="STIRR | sports" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/a43594d1-364b-4e0c-8647-0d117973a641-small3x1_stirr_1219_epg_stirrsports_1920x1080.png?1576019645577" group-title="SPORTS",STIRR | sports
 https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
 #EXTINF:-1 tvg-chno="5073" tvg-id="Stadium " tvg-name="Stadium " tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/b4e26296-be68-4e3d-beda-04e81f4d34ee-small3x1_stirr_1219_epg_stadium_1920x1080.png?1576018965230" group-title="SPORTS",STIRR | Stadium 
@@ -245,6 +252,43 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="ENTERTAIMENT",NBC (WTVJ) (Opt-2)
 http://190.80.3.28/NBC/NBC.isml/index.m3u8
 
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CW
+#commenthttp://136.243.177.164/AXN/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CW
+https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Dallas (KTVT) (720p)
+https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Dallas (KTVT) (180p)
+https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master_6.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CNN International
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Entertainment Tonight (1080p)
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX 7 Florida (WSVN) (720p)
+https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Fox News (720p)
+https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX Sport HD 1 (720p)
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Love Nature (1080p)
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC 15 Madison WI (WMTVNBC) (720p)
+https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", Pb TV
+http://187.188.147.165:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Qello Concerts (1080p)
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="ENTERTAIMENT",The CW
 https://cdn006.teleuptv.net/rTK2EQCVCX/tracks-v2a1/mono.m3u8
 
@@ -270,7 +314,8 @@ https://gintna100.tulix.tv/gin_live/bbcent/601103a9a74815457c0b5157c1782bb3/604e
 http://51.52.156.22:8888/http/001
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CHANNEL 4 United Kindom 
-https://gintna100.tulix.tv/gin_live/channel4/f38ec6c6b227cba847e57cea0de25625/60450a0c/index.m3u8
+#commenthttps://gintna100.tulix.tv/gin_live/channel4/f38ec6c6b227cba847e57cea0de25625/60450a0c/index.m3u8
+http://51.52.156.22:8888/http/002
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CANALE 5 Italy 
 https://gintna100.tulix.tv/gin_live/canale-5/6894facbf30c9eef6cf6f3e3f8c4ba0d/60450a51/index.m3u8
@@ -339,7 +384,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5938888cd045ffce74
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Funny Videos
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
-
+   
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Laugh loud
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5af09e645126c2157123f9eb/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
@@ -1263,3 +1308,4 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ad9b7aae738977e2c312132/featuredImage.jpg" group-title="24/7 PLUTO TV (DE)",World Poker Tour
 https://stitcher.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
+    
