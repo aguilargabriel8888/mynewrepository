@@ -101,8 +101,8 @@ https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_w
 #commenthttps://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/#commentMLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20200811_1597157620144/3000K/3000_slide.m3u8
 #commenthttps://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/#commentMLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20200814_1597418609355/500K/500_slide.m3u8
 
-#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",FOX SPORT 1
-#commenthttps://ul.cdn946.net:8443/hls/ftypoplj0tr0hw.m3u8?s=XaJS23RD1_GGVq7PIzaKxg&e=1597291129
+#EXTINF:-1 tvg-id="" group-title="SPORTS",FUBO TV
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 
 #comment#EXTINF:-1 tvg-id="" group-title="SPORTS",FOX SPORT 2
 #commenthttps://ul.cdn946.net:8443/hls/wemwrqrpx3m.m3u8?s=FYo5SC70IuXFo0iIa1Y4OQ&e=1597301692
@@ -290,11 +290,11 @@ http://187.188.147.165:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", AXN
 http://136.243.177.164/AXN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", HBO
-http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", Distro TV | CINELIFE 
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/6a34840e-b248-4e47-92c9-94c141b900c1/5.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", HBO2
-http://136.243.177.164/HBO2/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", XUMO TV | GOT TALENT GLOBAL
+https://live-content.xumo.com/164/content/XM0LYW2T8MG7JX/21904486/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", CARTOONNETWORK
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
@@ -338,11 +338,12 @@ http://51.52.156.22:8888/http/002
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CANALE 5 Italy 
 https://gintna100.tulix.tv/gin_live/canale-5/6894facbf30c9eef6cf6f3e3f8c4ba0d/60450a51/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Laugh Out Loud
-https://bozztv.com/36bay4/Laughs/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",XUMO TV|Just for Laughs Gangs
+https://live-content.xumo.com/146/content/XM0AJHFIUBUI17/22238756/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Laugh Out Loud opt 2
-https://bozztv.com/36bay4/Laughs/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",XUMO TV|Just for Laughs
+https://live-content.xumo.com/117/content/XM0BAJMK3KBANH/18339311/master.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Smile of a Child
 https://bozztv.com/36bay2/gin/giniko_smilechild_900kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Crazy Inventions
@@ -1326,4 +1327,4 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ad9b7aae738977e2c312132/featuredImage.jpg" group-title="24/7 PLUTO TV (DE)",World Poker Tour
 https://stitcher.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
-    
+
