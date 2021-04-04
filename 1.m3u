@@ -322,12 +322,14 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC TWO
 #commenthttps://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/index.m3u8
-https://gintna100.tulix.tv/gin_live/bbctwo/44d7dd5a98232ba3a07410e532aaf4a0/60450922/index.m3u8
+#commenthttps://gintna100.tulix.tv/gin_live/bbctwo/44d7dd5a98232ba3a07410e532aaf4a0/60450922/index.m3u8
+https://gintna100.tulix.tv/gin_live/bbctwo/6520ba3ebb459cf55125fb2799cba705/606b73d9/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC ENTERTAIMENT 
 #commenthttps://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8
 #commenthttps://gintna100.tulix.tv/gin_live/bbcent/af0f0db302978fbcad29dc6d3857980c/604509df/index.m3u8
-https://gintna100.tulix.tv/gin_live/bbcent/601103a9a74815457c0b5157c1782bb3/604e93de/index.m3u8
+#commenthttps://gintna100.tulix.tv/gin_live/bbcent/601103a9a74815457c0b5157c1782bb3/604e93de/index.m3u8
+https://gintna100.tulix.tv/gin_live/bbcent/f4d54fd239f473458f5fe1db03ab198a/606b7474/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC ONE SCOTLAND
 http://51.52.156.22:8888/http/001
@@ -380,8 +382,9 @@ https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
 https://bozztv.com/36bay2/gin/giniko_hdfashion_900kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",J TV
 https://bozztv.com/36bay2/giniko_jasmintv/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",MIAMI
-https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TOROS
+#Commenthttps://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
+https://gintna100.tulix.tv/gin_live/torosbulls/07d76e8f7177ae893087cea4a6bd55cb/606b752f/index.m3u8
 
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", CARS
 #commenthttps://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?terminate=false&deviceId=bc4e1e5c-#commenta988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-#commentb879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
