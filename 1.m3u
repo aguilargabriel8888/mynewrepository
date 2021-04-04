@@ -16,7 +16,8 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",CBBC
 #commenthttps://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/index.m3u8
 #commenthttps://gintna100.tulix.tv/gin_live/bbcthree/3bc331fa8e31c73400aefbe2e7aa9d41/6045095a/index.m3u8
-https://gintna100.tulix.tv/gin_live/bbcthree/55403b7faf0984a6c5ee96efd01827f8/6054290f/index.m3u8
+#commenthttps://gintna100.tulix.tv/gin_live/bbcthree/55403b7faf0984a6c5ee96efd01827f8/6054290f/index.m3u8
+https://gintna100.tulix.tv/gin_live/bbcthree/5dbb9c419f0ed8614123529ae3360032/606b6d94/index.m3u8
 
 #EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" tvg-country="UK" tvg-url="" group-title="THE_BEST_KIDS_TV",Cbeebies
 http://51.52.156.22:8888/http/003
