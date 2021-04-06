@@ -1160,6 +1160,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf50009
 #comment#EXTINF:-1 tvg-id="" group-title="Pluto TV Mexico",MVS TV
 #commenthttps://content-ause3.uplynk.com/api/v3/preplay2/channel/09c1181b216d4131ba54ead8cc9601a1/2c4ed5c003e3f52f98370bb3235c199c/6GiD9hStgxlD6jbF8ose444VvqGHMJabO28zK5KDFogj.m3u8?pbs=a1ca22a8b9cb4ffea63ab918f05f593c
 
+#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/imagen-final-2_orig.png" group-title="Pluto TV Mexico",MiTV (Spanish)
+http://162.244.80.176:8081/abr/stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Pluto TV Mexico", XUMO|Tastemeade español
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumotastemade/CDN/master.m3u8
 
