@@ -295,7 +295,7 @@ http://136.243.177.164/AXN/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/6a34840e-b248-4e47-92c9-94c141b900c1/5.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", XUMO TV | GOT TALENT GLOBAL
-https://live-content.xumo.com/164/content/XM0LYW2T8MG7JX/21904486/master.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", CARTOONNETWORK
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
@@ -344,13 +344,31 @@ https://gintna100.tulix.tv/gin_live/channel4/567edc0ace61caa70a359124ee2dbffa/60
 https://gintna100.tulix.tv/gin_live/canale-5/e924e9f492524c890ce2288da6392616/606b7dae/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",XUMO TV|Just for Laughs Gangs
-https://live-content.xumo.com/146/content/XM0AJHFIUBUI17/22238756/master.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",XUMO TV|Just for Laughs
-https://live-content.xumo.com/117/content/XM0BAJMK3KBANH/18339311/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",XUMO TV|Circle
+#commenthttps://live-content.xumo.com/117/content/XM0BAJMK3KBANH/18339311/master.m3u8
+https://circle-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Smile of a Child
-https://bozztv.com/36bay2/gin/giniko_smilechild_900kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", XUMO TV|Preview Channel
+https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV
+https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV2
+http://51.52.156.22:8888/http/005
+
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV3
+http://51.52.156.22:8888/http/006
+
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV4
+http://51.52.156.22:8888/http/007
+
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Crazy Inventions
 https://bozztv.com/36bay4/Crazy_Inventions/index.m3u8
 
