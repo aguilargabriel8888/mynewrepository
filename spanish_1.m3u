@@ -31,8 +31,8 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 #comment#EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120367370_1297171710619216_7291325377485598755_o.jpg?#comment_nc_cat=102&_nc_sid=730e14&_nc_ohc=EkneyVTDcr4AX__UzQe&_nc_oc=AQn-RAwTIr8-lWb3Zr8Tz2hHTSh3eTUzOxDNXHIz3lZ2RdedVRSV7KlmVHz276d1cOoGdz8IY0WdmZXec9VS3-3F&_nc_ht=scontent-#commentlga3-1.xx&oh=1d833632febec8ce7fae981e8806c022&oe=5F9ADFEB" ,FMTV 3 | SUPER CINE
 #commenthttps://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8
 
-#comment#EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120334725_1297171960619191_873367734371225358_o.jpg?_nc_cat=103&_nc_sid=730e14&_nc_ohc=c_q4GZxvq-UAX9apGIE&_nc_ht=scontent-lga3-1.xx&oh=be4e098e38ed36c83c11ec074ab5a271&oe=5F992CBA" ,INFINITA TV | PREMIUM
-#commenthttps://stmv.panel.mivideo.pro/infinitatvpremium/infinitatvpremium/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120334725_1297171960619191_873367734371225358_o.jpg?_nc_cat=103&_nc_sid=730e14&_nc_ohc=c_q4GZxvq-UAX9apGIE&_nc_ht=scontent-lga3-1.xx&oh=be4e098e38ed36c83c11ec074ab5a271&oe=5F992CBA" ,INFINITA TV | PREMIUM
+https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120271269_1297172067285847_5769836842532815075_n.png?_nc_cat=111&_nc_sid=730e14&_nc_ohc=CDVDQ63ZLtIAX9kbP57&_nc_ht=scontent-lga3-1.xx&oh=2b6582483b444b27ae3ead422204a6cd&oe=5F994749" ,AC VISION | AZOGUES ECUADOR
 https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8
@@ -46,6 +46,9 @@ https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",  CineCable TV | EC
 https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES", CINE.AR * | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="MOVIES",PuntaCanal
 #commenthttps://cdn4.hostlagarto.com:8081/puntacanatv/tracks-v1a1/mono.m3u8
@@ -98,18 +101,19 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",RECTV ONLINE
 https://master.tucableip.com/reconline/live/video.m3u8
 
-#EXTINF:-1 group-title="MOVIES",BoRB-AT
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#comment#EXTINF:-1 group-title="MOVIES",BoRB-AT
+#commenthttp://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VuNcifM.png" group-title="MOVIES",GH Television
 #comment http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?fluxustv.m3u8
-https://ss6.domint.net:3046/gh_str/tv10/playlist.m3u8
+https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhMZXUp.png" group-title="MOVIES",Romana TV 42
 http://tv.romanatv42.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="116087" tvg-name="Cine Club" tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png" group-title="MOVIES", Cine Club
-https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8
+#commenthttps://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8
+https://Stmv.panel.mivideo.pro/cineclubtv/cineclubtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="127494" tvg-name="Boomerang" tvg-logo="https://lh3.googleusercontent.com/-GVKVCBZ1ryg/YBsb5fRaNOI/AAAAAAAA_qk/6puCkYZaRUkrhUHzzMnHGL2CUMO94ij2ACK8BGAsYHg/s0/2021-02-03.png" group-title="MOVIES", Boomerang
 http://8.9.4.128:8080/hls/boomerangtv.m3u8
