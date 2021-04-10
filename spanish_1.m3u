@@ -47,9 +47,6 @@ https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",  CineCable TV | EC
 https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES", CINE.AR * | AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="MOVIES",PuntaCanal
 #commenthttps://cdn4.hostlagarto.com:8081/puntacanatv/tracks-v1a1/mono.m3u8
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
@@ -170,6 +167,9 @@ https://tls.cdnz.cl/lapintana/live/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120350843_1297172230619164_2201389698076440122_o.png?_nc_cat=103&_nc_sid=730e14&_nc_ohc=ciwjAcRcFxwAX8jxSzP&_nc_ht=scontent-lga3-1.xx&oh=ba7709b72105b1f54cadb4c44463a016&oe=5F998F1C" , Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES", CINE.AR * | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 
 #comment#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="MOVIES",CBN Español
 #commenthttp://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
@@ -1164,20 +1164,40 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf50009
 #comment#EXTINF:-1 tvg-id="" group-title="Pluto TV Mexico",MVS TV
 #commenthttps://content-ause3.uplynk.com/api/v3/preplay2/channel/09c1181b216d4131ba54ead8cc9601a1/2c4ed5c003e3f52f98370bb3235c199c/6GiD9hStgxlD6jbF8ose444VvqGHMJabO28zK5KDFogj.m3u8?pbs=a1ca22a8b9cb4ffea63ab918f05f593c
 
-#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/imagen-final-2_orig.png" group-title="Pluto TV Mexico",MiTV (Spanish)
-http://162.244.80.176:8081/abr/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Pluto TV Mexico", XUMO|Tastemeade español
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumotastemade/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Horrify, https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8, 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Juntos, https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8, 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Top Cine, https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8, 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Cine Sureno, https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8, 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | RunTime Espanol, https://runtime-espanol-roku.amagi.tv/playlist.m3u8, 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Sony Canal Novelas, https://sony-novelas-1.roku.wurl.com/manifest/playlist.m3u8, 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Sony Canal Comedias, https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8, 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Sony Competencias, https://sony-competencias-1.roku.wurl.com/manifest/playlist.m3u8, 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Estrella TV, https://estrellatv-roku.amagi.tv/playlist.m3u8, 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Estrella News, https://estrellanews-roku.amagi.tv/playlist.m3u8, 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Euronews | ES, https://euronews-euronews-spanish-2.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Pluto TV Mexico", XUMO|FUBO SPORT
+#EXTINF:-1 tvg-id="" group-title="The Roku Channel", XUMO|FUBO SPORT
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="Pluto TV Mexico",Nuestra Vision USA
+#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/imagen-final-2_orig.png" group-title="The Roku Channel",MiTV (Spanish)
+http://162.244.80.176:8081/abr/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="The Roku Channel", XUMO|Tastemeade español
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumotastemade/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Made in Hollywood, https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="The Roku Channel",Nuestra Vision USA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 tvg-id="" group-title="Pluto TV Mexico", XUMO|Estrella tv
+#EXTINF:-1 tvg-id="" group-title="The Roku Channel", XUMO|Estrella tv
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-estrellatv-xumo/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Pluto TV Mexico",PARAMOUNT PLUS
+#EXTINF:-1 tvg-id="" group-title="The Roku Channel",PARAMOUNT PLUS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Global Got Talent, https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Just For Laughs Gags, https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=3846e8e55bbe5d5c9032018b9384308a&genre=comedy&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=just_for_laughs&channelStore=us&tags=ROKU_CONTENT_TAGS
+
