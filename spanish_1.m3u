@@ -1164,6 +1164,29 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf50009
 #comment#EXTINF:-1 tvg-id="" group-title="Pluto TV Mexico",MVS TV
 #commenthttps://content-ause3.uplynk.com/api/v3/preplay2/channel/09c1181b216d4131ba54ead8cc9601a1/2c4ed5c003e3f52f98370bb3235c199c/6GiD9hStgxlD6jbF8ose444VvqGHMJabO28zK5KDFogj.m3u8?pbs=a1ca22a8b9cb4ffea63ab918f05f593c
 
+#EXTINF:-1 tvg-id="" group-title="The Roku Channel", PLEX|Top Cine
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-plex/CDN/512x288_875600/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="The Roku Channel", PLEX|Tu Cine
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-plexA/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="The Roku Channel", PLEX|Cine Real
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinereal-plex/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="The Roku Channel", PLEX|Toon Goggles
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=533&live=1&app_bundle=com.plexapp.desktop&did=undefined&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=4EWyLphWMBGEvKY15196&content_series=6041643175c115002dc51259&custom4=plex&gdpr=0&device_make=Linux&device_model=Firefox&coppa=0&us_privacy=1---&custom_6=4EWyLphWMBGEvKY15196&custom_7=6041643175c115002dc51259
+
+#EXTINF:-1 tvg-id="" group-title="The Roku Channel", PLEX|Chiquilines
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-chiquilines-plex/CDN/playlist.m3u8 #comment1280x720_2855600/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="The Roku Channel", PLEX|Saber Mas
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8 #comment768x432_1425600/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="The Roku Channel", PLEX|Flash
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-plex/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="The Roku Channel", PLEX|La corrient
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=499&live=1&app_bundle=com.plexapp.desktop&did=undefined&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=4EWyLphWMBGEvKY15196&content_series=602d6608f867c4002c897e27&custom4=plex&gdpr=0&device_make=Linux&device_model=Firefox&coppa=0&us_privacy=1---&custom_6=4EWyLphWMBGEvKY15196&custom_7=602d6608f867c4002c897e27
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Horrify
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
