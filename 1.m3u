@@ -321,28 +321,28 @@ https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="ENTERTAIMENT",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC TWO | GINIKO
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC TWO | GINIKO
 #commenthttps://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/index.m3u8
 #commenthttps://gintna100.tulix.tv/gin_live/bbctwo/44d7dd5a98232ba3a07410e532aaf4a0/60450922/index.m3u8
-https://gintna100.tulix.tv/gin_live/bbctwo/6520ba3ebb459cf55125fb2799cba705/606b73d9/index.m3u8
+#commenthttps://gintna100.tulix.tv/gin_live/bbctwo/6520ba3ebb459cf55125fb2799cba705/606b73d9/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC ENTERTAIMENT | GINIKO
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC ENTERTAIMENT | GINIKO
 #commenthttps://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8
 #commenthttps://gintna100.tulix.tv/gin_live/bbcent/af0f0db302978fbcad29dc6d3857980c/604509df/index.m3u8
 #commenthttps://gintna100.tulix.tv/gin_live/bbcent/601103a9a74815457c0b5157c1782bb3/604e93de/index.m3u8
-https://gintna100.tulix.tv/gin_live/bbcent/f4d54fd239f473458f5fe1db03ab198a/606b7474/index.m3u8
+#commenthttps://gintna100.tulix.tv/gin_live/bbcent/f4d54fd239f473458f5fe1db03ab198a/606b7474/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC ONE SCOTLAND
 http://51.52.156.22:8888/http/001
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CHANNEL 4 United Kindom | GINIKO
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CHANNEL 4 United Kindom | GINIKO
 #commenthttps://gintna100.tulix.tv/gin_live/channel4/f38ec6c6b227cba847e57cea0de25625/60450a0c/index.m3u8
 #commenthttp://51.52.156.22:8888/http/002
-https://gintna100.tulix.tv/gin_live/channel4/567edc0ace61caa70a359124ee2dbffa/606b7dea/index.m3u8
+#commenthttps://gintna100.tulix.tv/gin_live/channel4/567edc0ace61caa70a359124ee2dbffa/606b7dea/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CANALE 5 Italy | GINIKO
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CANALE 5 Italy | GINIKO
 #commenthttps://gintna100.tulix.tv/gin_live/canale-5/6894facbf30c9eef6cf6f3e3f8c4ba0d/60450a51/index.m3u8
-https://gintna100.tulix.tv/gin_live/canale-5/e924e9f492524c890ce2288da6392616/606b7dae/index.m3u8
+#commenthttps://gintna100.tulix.tv/gin_live/canale-5/e924e9f492524c890ce2288da6392616/606b7dae/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",XUMO TV|Just for Laughs Gangs
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/playlist.m3u8
@@ -370,48 +370,48 @@ http://51.52.156.22:8888/http/006
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV4
 http://51.52.156.22:8888/http/007
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Crazy Inventions
-https://bozztv.com/36bay4/Crazy_Inventions/index.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Crazy Inventions
+#commenthttps://bozztv.com/36bay4/Crazy_Inventions/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Top Gear
-https://bozztv.com/36bay4/ginikotest/index.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Top Gear
+#commenthttps://bozztv.com/36bay4/ginikotest/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Nat Geo Wild
-https://bozztv.com/36bay4/animalshere/index.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Nat Geo Wild
+#commenthttps://bozztv.com/36bay4/animalshere/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",4K CHannel
-https://bozztv.com/36bay4/gin/gin-4kchann/index.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",4K CHannel
+#commenthttps://bozztv.com/36bay4/gin/gin-4kchann/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Eye
-https://bozztv.com/36bay4/bikini/index.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Eye
+#commenthttps://bozztv.com/36bay4/bikini/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Fitness
-https://bozztv.com/36bay4/BikiniFitness/index.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Fitness
+#commenthttps://bozztv.com/36bay4/BikiniFitness/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CMC TV
-https://bozztv.com/36bay2/giniko_cmctv/index.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CMC TV
+#commenthttps://bozztv.com/36bay2/giniko_cmctv/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Animals | GINIKO
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Animals | GINIKO
 #commenthttps://bozztv.com/36bay4/funnyanimals/index.m3u8
-https://gintna100.tulix.tv/gin_live/animalhere/88cbdc76208a9bda38523e122b6b611d/606b822b/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Comedy
-https://bozztv.com/36bay4/marius_comedy/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CA Music
-https://bozztv.com/36bay2/gin/giniko_camusic_1200kb_36bay2/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Model Inc
-https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",HD Fashion
-https://bozztv.com/36bay2/gin/giniko_hdfashion_900kb_36bay2/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",J TV | GINIKO
+#commenthttps://gintna100.tulix.tv/gin_live/animalhere/88cbdc76208a9bda38523e122b6b611d/606b822b/index.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Comedy
+#commenthttps://bozztv.com/36bay4/marius_comedy/index.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CA Music
+#commenthttps://bozztv.com/36bay2/gin/giniko_camusic_1200kb_36bay2/index.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Model Inc
+#commenthttps://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",HD Fashion
+#commenthttps://bozztv.com/36bay2/gin/giniko_hdfashion_900kb_36bay2/index.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",J TV | GINIKO
 #commenthttps://bozztv.com/36bay2/giniko_jasmintv/index.m3u8
-https://gintna100.tulix.tv/gin_live/jasmintv/dabbdd3056aaaa66c3e2b108ffd25137/606b7e8d/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",MIAMI | GINIKO
-https://gintna100.tulix.tv/gin_live/miamitv/cc002afe44004dc2c913d5bd7eebbe08/606b7f0d/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TOROS | GINIKO
+#commenthttps://gintna100.tulix.tv/gin_live/jasmintv/dabbdd3056aaaa66c3e2b108ffd25137/606b7e8d/index.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",MIAMI | GINIKO
+#commenthttps://gintna100.tulix.tv/gin_live/miamitv/cc002afe44004dc2c913d5bd7eebbe08/606b7f0d/index.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TOROS | GINIKO
 #Commenthttps://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
-https://gintna100.tulix.tv/gin_live/torosbulls/07d76e8f7177ae893087cea4a6bd55cb/606b752f/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Cuatro Espana
-https://gintna100.tulix.tv/gin_live/cuatro/f639aa88bc88436da6058c30afc9a9aa/606b7e38/index.m3u8
+#commenthttps://gintna100.tulix.tv/gin_live/torosbulls/07d76e8f7177ae893087cea4a6bd55cb/606b752f/index.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Cuatro Espana
+#commenthttps://gintna100.tulix.tv/gin_live/cuatro/f639aa88bc88436da6058c30afc9a9aa/606b7e38/index.m3u8
 
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", CARS
 #commenthttps://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?terminate=false&deviceId=bc4e1e5c-#commenta988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-#commentb879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
@@ -1360,8 +1360,57 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
 
+#EXTINF:-1 group-title="Tubi_TV",Fox 2 Detroit
+https://lnc-wjbk-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Tubi_TV",Fox 2 San Francisco
+https://lnc-ktvu-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Tubi_TV",Fox 4 Dallas-FT-Worth
+https://lnc-kdfw-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Tubi_TV",Fox 4 News Kansas City
+http://tribwdaf-lh.akamaihd.net/i/WDAFBreaking_1@394769/index_1900_av-b.m3u8?sd=10&rebase=on:
+#EXTINF:-1 group-title="Tubi_TV",Fox 5 Atlanta
+https://lnc-waga-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Tubi_TV",Fox 5 New York
+https://lnc-wnyw-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Tubi_TV",Fox 5 Washington DC
+https://lnc-wttg-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Tubi_TV",Fox 6 Milwaukee
+https://lnc-witi-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Tubi_TV",Fox 7 Austin
+https://lnc-ktbc-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Tubi_TV",Fox 9 Minneapolis ST Paul
+https://lnc-kmsp-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Tubi_TV",Fox 10 Phoenix
+https://lnc-ksaz-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Tubi_TV",Fox 11 Los Angeles
+https://lnc-kttv-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Tubi_TV",Fox 13 Tampa Bay
+https://lnc-wtvt-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Tubi_TV",Fox Q13 Seattle
+https://lnc-kcpq-fox-aws.tubi.video/index.m3u8:
+#EXTINF:-1 group-title="Tubi_TV",Fox 26 Houston
+https://lnc-kriv-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Tubi_TV",Fox 29 Philadelphia
+https://lnc-wtxf-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Tubi_TV",Fox 32 Chicago
+https://lnc-wfld-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 group-title="Tubi_TV",Fox 35 Orlando
+https://lnc-wofl-fox-aws.tubi.video/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Maverick Black Cinema
 https://maverick-maverick-black-cinema-3.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel", Crackle 
+https://crackle-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel", RunTime Free Movies 
+https://ammoruntime-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",IGN | HD
+https://ign-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",MovieSphere HD
+https://moviesphere-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Bloody Disgusting (1)
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8?Roku1
