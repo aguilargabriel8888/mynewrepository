@@ -372,8 +372,8 @@ https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
 #EXTINF:-1 group-title="MEXICO",Psipse Yucatan
-#commenthttps://webprod.sipse.com.mx:8080/show/merida.m3u8
-https://webprod.sipse.com.mx:8080/show/merida.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+https://webprod.sipse.com.mx:8080/show/merida.m3u8
+#commenthttps://webprod.sipse.com.mx:8080/show/merida.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 group-title="MEXICO",Tele Yucatan
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIxIDExOjAxOjE3IFBNJmhhc2hfdmFsdWU9U1Q4VFpUTDB1eDVBK1hENExuUzVGQT09JnZhbGlkbWludXRlcz0xMCZpZD0=
