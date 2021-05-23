@@ -1242,7 +1242,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-estrellatv-xumo/CDN/master.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Global Got Talent
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo121 2A-rokugottalentglobal/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Just For Laughs Gags
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=3846e8e55bbe5d5c9032018b9384308a&genre=comedy&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=just_for_laughs&channelStore=us&tags=ROKU_CONTENT_TAGS
