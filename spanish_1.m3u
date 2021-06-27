@@ -3,7 +3,8 @@
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MOVIES",Azteca Uno
-https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
+#commenthttps://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
+https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 
 #comment#EXTINF:-1 group-title="MOVIES",FMTV MOVIES3
 #commenthttps://cdn-luis-8044-1.ciclano.io:1443/luis-8044-1/luis-8044-1/playlist.m3u8
@@ -242,7 +243,8 @@ https://6011c5681d877.streamlock.net:1936/canalcatorce/canalcatorce/playlist.m3u
 #commenthttps://srvstream01.televisioneducativa.gob.mx/hls/aprendetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kwUMVSj.png" group-title="MEXICO",Adn40
-https://dai.google.com/linear/hls/pa/event/XZLLJIhJRNqz33DGp6NdkA/stream/3e391fee-9881-4af4-a8fb-58ccbf2d6cd4:DLS/variant/347dd514e4c301d219227132972fd749/bandwidth/673200.m3u8
+#commenthttps://dai.google.com/linear/hls/pa/event/XZLLJIhJRNqz33DGp6NdkA/stream/3e391fee-9881-4af4-a8fb-58ccbf2d6cd4:DLS/variant/347dd514e4c301d219227132972fd749/bandwidth/673200.m3u8
+https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kwUMVSj.png" group-title="MEXICO",a_mas
 https://dai.google.com/linear/hls/pa/event/SJysMl45QMSwjo0TodSk1Q/stream/2309ca19-5a8f-48a3-b36f-16759be94bfc:DLS/master.m3u8
@@ -1247,4 +1249,3 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo121 2A-rokugottalentglob
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Just For Laughs Gags
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=3846e8e55bbe5d5c9032018b9384308a&genre=comedy&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=just_for_laughs&channelStore=us&tags=ROKU_CONTENT_TAGS
-
