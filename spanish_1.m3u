@@ -111,7 +111,8 @@ http://tv.romanatv42.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="116087" tvg-name="Cine Club" tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png" group-title="MOVIES", Cine Club
 #commenthttps://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8
-https://Stmv.panel.mivideo.pro/cineclubtv/cineclubtv/playlist.m3u8
+#commenthttps://Stmv.panel.mivideo.pro/cineclubtv/cineclubtv/playlist.m3u8
+http://stmv.panel.grupolimalive.com/cineperu/cineperu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="127494" tvg-name="Boomerang" tvg-logo="https://lh3.googleusercontent.com/-GVKVCBZ1ryg/YBsb5fRaNOI/AAAAAAAA_qk/6puCkYZaRUkrhUHzzMnHGL2CUMO94ij2ACK8BGAsYHg/s0/2021-02-03.png" group-title="MOVIES", Boomerang
 http://8.9.4.128:8080/hls/boomerangtv.m3u8
@@ -205,7 +206,7 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://www.sistemamichoacano.tv/templates/ja_teline_v/favicon.ico" group-title="MEXICO",SMRYT Michoacan
 #commenthttps://5e307acc9a171.streamlock.net:1936/michoacan_1/michoacan_1/chunklist_w868717161.m3u8
 #commenthttps://5e307acc9a171.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
-https://6011c5681d877.streamlock.net:1936/enlinea/enlinea/master.m3u8
+https://6011c5681d877.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
 
 #comment#EXTINF:-1 tvg-logo="https://www.sistemamichoacano.tv/templates/ja_teline_v/favicon.ico" group-title="MEXICO",SMRYT Michoacan -opcion 2-
 #commenthttps://5e307acc9a171.streamlock.net:1936/michoacan_1/michoacan_1/playlist.m3u8
@@ -215,16 +216,28 @@ https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MEXICO",Canal 4.1 Gto (LEON)
 #commenthttps://5f1af61612fb5.streamlock.net/tv4/videotv4/playlist.m3u8
-https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+#https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+https://5f1af61612fb5.streamlock.net/tv4/videotv4_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MEXICO",Canal 4.1 Gto (LEON) opc_2
+https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MEXICO",Canal 4.2 Gto (LEON)
-https://5f2c1b0d880e5.streamlock.net/tv42/videotv42/playlist.m3u8
+#commenthttps://5f2c1b0d880e5.streamlock.net/tv42/videotv42/playlist.m3u8
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MEXICO",Canal 4.2 Gto (LEON) opc_2
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_480p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MEXICO",Canal 4.3 Gto (LEON)
-https://5f1af61612fb5.streamlock.net/tv43/videotv43/playlist.m3u8
+#commenthttps://5f1af61612fb5.streamlock.net/tv43/videotv43/playlist.m3u8
+https://5f1af61612fb5.streamlock.net/tv43/videotv43_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MEXICO",Canal 4.3 Gto (LEON) opc_2
+https://5f1af61612fb5.streamlock.net/tv43/videotv43_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MEXICO",Canal 4.3 Gto (LEON) opc_3
+https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MEXICO",Canal 4.4 Gto (LEON)
-https://5ca3e84a76d30.streamlock.net/tv44/videotv44/playlist.m3u8
+https://5ca3e84a76d30.streamlock.net/tv44/videotv44_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZabCEYO.png" group-title="MEXICO",Canal Catorce
 #commenthttps://6011c5681d877.streamlock.net:1936/canalcatorce/canalcatorce/playlist.m3u8
@@ -260,7 +273,7 @@ https://dai.google.com/linear/hls/pa/event/SJysMl45QMSwjo0TodSk1Q/stream/2309ca1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zA61jld.png" group-title="MEXICO",CB TV Morelia
 #commenthttps://5ca3e84a76d30.streamlock.net/cbtv/videocbtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjAgMTI6MTY6MDggQU0maGFzaF92YWx1ZT1pcFFEZjNRcTNUN3dJdjFwa1VsT0tnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
-https://5ca3e84a76d30.streamlock.net/cbtv/videocbtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDk6MDQ6MzEgUE0maGFzaF92YWx1ZT1mWHFzMFl4bjlJdFZoSHlYYU1YM1BnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
+https://5ca3e84a76d30.streamlock.net/cbtv/videocbtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTE6MjU6MjIgUE0maGFzaF92YWx1ZT1yVzA2TTNYSWNWNVBPUHQ1ejVBajRnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO",Milenio TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
@@ -298,10 +311,10 @@ https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="MEXICO",Multimedios SEP Cadena 4
 https://mdstrm.com/live-stream-playlist/5cfe8974ef9acc25607a7dec.m3u8
 
-#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/JTNF4Rs.png" group-title="MEXICO",Canal 6 Morelia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JTNF4Rs.png" group-title="MEXICO",Canal 6 Morelia
 #commenthttp://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m3u8
 #commenthttps://59802217c6db4.streamlock.net/canal6mich2/videocanal6mich2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDk6MDg6MTQgUE0maGFzaF92YWx1ZT1uQW54Nlc5d2tEK09zSTRBUUZDZDBRPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
-
+https://60417ddeaf0d9.streamlock.net/canal6mich2/videocanal6mich2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMTE6Mjg6NDcgUE0maGFzaF92YWx1ZT1YZXYrNXVsRmRDV0tQbVlsY1dZWlRnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
 #comment#EXTINF:-1 tvg-logo="https://i.imgur.com/1KGpBjf.png" group-title="MEXICO",Jalisco UDG TV 44
 #commenthttps://liveingesta118.cdnmedia.tv/udgmxlive/smil:canal44.smil/playlist.m3u8
