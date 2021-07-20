@@ -67,6 +67,7 @@ https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",WMSTV
 #commenthttp://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/playlist.m3u8
+#commenthttps://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",TVMAS CHILE
@@ -97,7 +98,8 @@ https://cloudflare.streamgato.us:3355/live/nexxotvlive.m3u8
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",RECTV ONLINE
-https://master.tucableip.com/reconline/live/video.m3u8
+#commenthttps://master.tucableip.com/reconline/live/video.m3u8
+https://video.misistemareseller.com/Jonnytv/Jonnytv/playlist.m3u8
 
 #comment#EXTINF:-1 group-title="MOVIES",BoRB-AT
 #commenthttp://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -112,7 +114,8 @@ http://tv.romanatv42.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="116087" tvg-name="Cine Club" tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png" group-title="MOVIES", Cine Club
 #commenthttps://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8
 #commenthttps://Stmv.panel.mivideo.pro/cineclubtv/cineclubtv/playlist.m3u8
-http://stmv.panel.grupolimalive.com/cineperu/cineperu/playlist.m3u8
+#commenthttp://stmv.panel.grupolimalive.com/cineperu/cineperu/playlist.m3u8
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 
 #EXTINF:-1 tvg-id="127494" tvg-name="Boomerang" tvg-logo="https://lh3.googleusercontent.com/-GVKVCBZ1ryg/YBsb5fRaNOI/AAAAAAAA_qk/6puCkYZaRUkrhUHzzMnHGL2CUMO94ij2ACK8BGAsYHg/s0/2021-02-03.png" group-title="MOVIES", Boomerang
 http://8.9.4.128:8080/hls/boomerangtv.m3u8
