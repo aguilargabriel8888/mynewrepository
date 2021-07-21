@@ -337,9 +337,11 @@ https://60417ddeaf0d9.streamlock.net/canal6mich2/videocanal6mich2/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKpOCv8.png" group-title="MEXICO",RCG 1 Saltillo
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#commenthttps://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKpOCv8.png" group-title="MEXICO",RCG 2 Saltillo
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#commenthttps://5caf24a595d94.streamlock.net:1937/stream23/stream23/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKpOCv8.png" group-title="MEXICO",RCG 3 Saltillo
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
@@ -455,7 +457,8 @@ http://8.242.192.56:8888/canal6mobiles.m3u8
 https://5ca9af4645e15.streamlock.net:443/canal11/videocanal11/playlist.m3u8
 
 #EXTINF:-1 group-title="MEXICO", Canal 28 Nuevo Leon  | MX
-https://6011c5681d877.streamlock.net:1936/canal28/canal28/playlist.m3u8
+#commenthttps://6011c5681d877.streamlock.net:1936/canal28/canal28/playlist.m3u8
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 
 #EXTINF:-1 group-title="MEXICO", Canal 15 Fresnillo  | MX
 https://5e50264bd6766.streamlock.net:443/fresnillo/smil:fresnillo.smil/playlist.m3u8
