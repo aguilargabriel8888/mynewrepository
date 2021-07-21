@@ -133,8 +133,8 @@ http://azxtv.com/hls/stream.m3u8
 #commenthttps://ss3.domint.net:3114/t11_str/telesistema/playlist.m3u8
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="MOVIES",MTV
-http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="MOVIES",MTV
+#commenthttp://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
 
 #comment#EXTINF:-1 group-title="MOVIES",RETRO PLUS TV
 #commenthttps://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
@@ -217,15 +217,14 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sistemamichoacano.tv/templates/ja_teline_v/favicon.ico" group-title="MEXICO",SMRYT Michoacan
-#commenthttps://5e307acc9a171.streamlock.net:1936/michoacan_1/michoacan_1/chunklist_w868717161.m3u8
-#commenthttps://5e307acc9a171.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
-https://6011c5681d877.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
+#commenthttps://6011c5681d877.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
+https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
 
 #comment#EXTINF:-1 tvg-logo="https://www.sistemamichoacano.tv/templates/ja_teline_v/favicon.ico" group-title="MEXICO",SMRYT Michoacan -opcion 2-
 #commenthttps://5e307acc9a171.streamlock.net:1936/michoacan_1/michoacan_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9HA0TTS.png" group-title="MEXICO",TV UNAM
-https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/playlist.m3u8
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MEXICO",Canal 4.1 Gto (LEON)
 #commenthttps://5f1af61612fb5.streamlock.net/tv4/videotv4/playlist.m3u8
@@ -390,7 +389,10 @@ https://6011c5681d877.streamlock.net:1936/prueba/prueba/playlist.m3u8
 https://6011c5681d877.streamlock.net:1936/stream/stream/playlist.m3u8
 
 #EXTINF:-1 group-title="MEXICO",NTV Mexico
-https://59802217c6db4.streamlock.net/ntv/videontv/playlist.m3u8
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+
+#EXTINF:-1 group-title="MEXICO",Mexiquense TV
+https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D55iTpX.png" group-title="MEXICO",15TV Sabinas
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
@@ -417,14 +419,17 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9HA0TTS.png" group-title="MEXICO",Canal 10 Cancun (Opt-2)
 http://www.canal10.tv/live/tvlive1/chunklist_w1166915179.m3u8
 
-#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/i4N1CVp.png" group-title="MEXICO",Canal 10 Chiapas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i4N1CVp.png" group-title="MEXICO",Canal 10 Chiapas
 #commenthttps://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8?fluxustv.m3u8
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9HA0TTS.png" group-title="MEXICO",LA MATRACA Aguascalientes
 https://streamingcws10.com:1935/telemetrika3/videotelemetrika3/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 26 (Aguascalientes TV)
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9HA0TTS.png" group-title="MEXICO",Canal 10 Chiapas
-https://www.canal10.tv/live/tvlive1/playlist.m3u8
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/9HA0TTS.png" group-title="MEXICO",Canal 10 Chiapas
+#commenthttps://www.canal10.tv/live/tvlive1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://esae.ilceinternacional.org/canales/CANAL_18/logo.png" group-title="MEXICO",Canal Iberoamericano
 https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/_definst_/mp4:7NBH6B8L/chunklist_w1775463024.m3u8
@@ -461,10 +466,10 @@ https://5ca9af4645e15.streamlock.net:443/canal11/videocanal11/playlist.m3u8
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 
 #EXTINF:-1 group-title="MEXICO", Canal 15 Fresnillo  | MX
-https://5e50264bd6766.streamlock.net:443/fresnillo/smil:fresnillo.smil/playlist.m3u8
+https://5e50264bd6766.streamlock.net/fresnillo/smil:fresnillo.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="MEXICO", Canal 15 Zacatecas  | MX
-https://5e50264bd6766.streamlock.net:443/canal15zac/smil:canal15zac.smil/playlist.m3u8
+https://5e50264bd6766.streamlock.net/canal15zac/smil:canal15zac.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="MEXICO", Canal 7 SLP  | MX
 https://mvtvstream.com:444/live/603d046595b62/index.m3u8
@@ -479,7 +484,21 @@ https://5ca3e84a76d30.streamlock.net/sqcs/videosqcs/playlist.m3u8?wmsAuthSign=c2
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDk6Mzk6MTEgUE0maGFzaF92YWx1ZT1xSHNQZUYwOHFkZWd2YXBMR1o3c2lnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
 #EXTINF:-1 group-title="MEXICO",Tvt televisión Tabasqueña
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.cdnmedia.tv/
 https://liveingesta118.cdnmedia.tv/rtvtabascolive/smil:tvt.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MEXICO",Jalisco TV
+https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
+
+#EXTINF:-1 group-title="MEXICO",Quiero TV
+https://quierotvlive.tk/httplive/playlist.m3u8
+
+#EXTINF:-1 group-title="MEXICO",Unicanal  
+http://45.55.127.106/live/unicanal_mid.m3u8
+
+#EXTINF:-1 group-title="MEXICO",Central FM
+https://5ca39be538307.streamlock.net:443/centralfm/videocentralfm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J6jnsBS.png" group-title="MEXICO",Radar_TV
 https://stream.oursnetworktv.com/latin/radarTV/master.m3u8
