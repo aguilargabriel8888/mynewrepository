@@ -1295,3 +1295,19 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo121 2A-rokugottalentglob
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Just For Laughs Gags
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=3846e8e55bbe5d5c9032018b9384308a&genre=comedy&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=just_for_laughs&channelStore=us&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 1
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626913353/ei/6WX4YLSnGrXB1AHm8YWgDg/ip/2806%3A103e%3A6%3A5630%3A659d%3Aa80f%3A4a41%3A15ea/id/pQONlmOhXeg.1/source/yt_live_broadcast/requiressl/yes/tx/24011362/txs/24011361%2C24011362%2C24011363/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKRJzs1m4UTvK8sSSNItNj14NnnYU9seTSRXz3RekcykAiEAoeEf4kSLdsd-3-Ir_PTzJAxlzroee9FRQZwUHswYuCI%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 2
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626913948/ei/PGj4YPumNc2HkAS_8ZPQDg/ip/2806%3A103e%3A6%3A5630%3A659d%3Aa80f%3A4a41%3A15ea/id/51iVn2QqGLY.1/source/yt_live_broadcast/requiressl/yes/tx/24011362/txs/24011361%2C24011362%2C24011363/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgY__xNxesw96KDO7h4jHsLRJQ0D-XZA-Pn8D38UtT2YwCID9xkPs6o9vbguf5ZPy6RPUhfOr7-aOl49JLZxfvDqwU/file/index.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 3
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626914162/ei/Emn4YOzZGZn-2_gP262d2AU/ip/2806%3A103e%3A6%3A5630%3A659d%3Aa80f%3A4a41%3A15ea/id/tQ4FuUCmsOM.1/source/yt_live_broadcast/requiressl/yes/tx/24011362/txs/24011361%2C24011362%2C24011363/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgBol7O2uzifYnTBbtfCOXK8m8ShRLghxqRMT0IB0WczwCIQCbU6_24Br-PGVdf6zhGxOKP_GBGMOodkFmQDBCZyNVYQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626914503/ei/Z2r4YKC-FtbEhwbNtrKIDQ/ip/2806%3A103e%3A6%3A5630%3A659d%3Aa80f%3A4a41%3A15ea/id/QlMUZM5sWkg.1/source/yt_live_broadcast/requiressl/yes/tx/24011362/txs/24011361%2C24011362%2C24011363/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAO3Gt3wheGP-Eb6SPtA0VdwgSmFq51BXp2JuH9btzQ4SAiEAihnNyhtz1Yvlc_i_o2YKC1z9XVSFCkcbDF-Lg6OuFSM%3D/file/index.m3u8
+
+
+
+
