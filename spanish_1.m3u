@@ -475,6 +475,8 @@ https://5ca3e84a76d30.streamlock.net/sqcs/videosqcs/playlist.m3u8?wmsAuthSign=c2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J6jnsBS.png" group-title="MEXICO",Tele Yucatan
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDk6Mzk6MTEgUE0maGFzaF92YWx1ZT1xSHNQZUYwOHFkZWd2YXBMR1o3c2lnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
+#EXTINF:-1 group-title="MEXICO",Tvt televisión Tabasqueña
+https://liveingesta118.cdnmedia.tv/rtvtabascolive/smil:tvt.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J6jnsBS.png" group-title="MEXICO",Radar_TV
 https://stream.oursnetworktv.com/latin/radarTV/master.m3u8
