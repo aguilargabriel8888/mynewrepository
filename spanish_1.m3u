@@ -202,7 +202,8 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO",Claro Sport
-https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/playlsit.m3u8
+#commenthttps://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/playlsit.m3u8
+https://dai.google.com/linear/hls/event/MErimHzcQJyFY4sABtO2Lg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XcVxkBA.png" group-title="MEXICO",Canal 22.1
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
@@ -1315,8 +1316,11 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo121 2A-rokugottalentglob
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Just For Laughs Gags
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=3846e8e55bbe5d5c9032018b9384308a&genre=comedy&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=just_for_laughs&channelStore=us&tags=ROKU_CONTENT_TAGS
 
+#comment#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 1
+#commenthttps://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626913353/ei/6WX4YLSnGrXB1AHm8YWgDg/ip/2806%3A103e%3A6%3A5630%3A659d%3Aa80f%3A4a41%3A15ea/id/pQONlmOhXeg.1/source/yt_live_broadcast/requiressl/yes/tx/24011362/txs/24011361%2C24011362%2C24011363/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKRJzs1m4UTvK8sSSNItNj14NnnYU9seTSRXz3RekcykAiEAoeEf4kSLdsd-3-Ir_PTzJAxlzroee9FRQZwUHswYuCI%3D/file/index.m3u8
+
 #EXTINF:-1 group-title="The Roku Channel",Claro Sport | 1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626913353/ei/6WX4YLSnGrXB1AHm8YWgDg/ip/2806%3A103e%3A6%3A5630%3A659d%3Aa80f%3A4a41%3A15ea/id/pQONlmOhXeg.1/source/yt_live_broadcast/requiressl/yes/tx/24011362/txs/24011361%2C24011362%2C24011363/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKRJzs1m4UTvK8sSSNItNj14NnnYU9seTSRXz3RekcykAiEAoeEf4kSLdsd-3-Ir_PTzJAxlzroee9FRQZwUHswYuCI%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626942646/ei/Vtj4YKm_GfGZ2_gPgve40Ao/ip/2806%3A103e%3A6%3A5630%3A4881%3Acda%3Aeab3%3Aa14/id/pQONlmOhXeg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALkRQOaXbsMWswerHVzy5lz6vpfl5WSAioKDwnG_bcr6AiAdVrFb9JbMcI1PFZk6Hdz5oXNedi4kiCBNRJQueVKrBA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="The Roku Channel",Claro Sport | 2
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626913948/ei/PGj4YPumNc2HkAS_8ZPQDg/ip/2806%3A103e%3A6%3A5630%3A659d%3Aa80f%3A4a41%3A15ea/id/51iVn2QqGLY.1/source/yt_live_broadcast/requiressl/yes/tx/24011362/txs/24011361%2C24011362%2C24011363/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgY__xNxesw96KDO7h4jHsLRJQ0D-XZA-Pn8D38UtT2YwCID9xkPs6o9vbguf5ZPy6RPUhfOr7-aOl49JLZxfvDqwU/file/index.m3u8
