@@ -8,11 +8,11 @@ https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 
 #comment#EXTINF:-1 group-title="MOVIES",FMTV MOVIES3
 #commenthttps://cdn-luis-8044-1.ciclano.io:1443/luis-8044-1/luis-8044-1/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",FMTV 3 SUPER CINE 
-http://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
+#comment#EXTINF:-1 group-title="MOVIES",FMTV 3 SUPER CINE 
+#commenthttp://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES",FMTV MOVIES2
-#commenthttps://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?
+#comment#EXTINF:-1 group-title="MOVIES",FMTV MOVIES2
+#comment#commenthttps://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?
 http://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",FMTV MUNDO
@@ -32,7 +32,7 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 #comment#EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120367370_1297171710619216_7291325377485598755_o.jpg?#comment_nc_cat=102&_nc_sid=730e14&_nc_ohc=EkneyVTDcr4AX__UzQe&_nc_oc=AQn-RAwTIr8-lWb3Zr8Tz2hHTSh3eTUzOxDNXHIz3lZ2RdedVRSV7KlmVHz276d1cOoGdz8IY0WdmZXec9VS3-3F&_nc_ht=scontent-#commentlga3-1.xx&oh=1d833632febec8ce7fae981e8806c022&oe=5F9ADFEB" ,FMTV 3 | SUPER CINE
 #commenthttps://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120334725_1297171960619191_873367734371225358_o.jpg?_nc_cat=103&_nc_sid=730e14&_nc_ohc=c_q4GZxvq-UAX9apGIE&_nc_ht=scontent-lga3-1.xx&oh=be4e098e38ed36c83c11ec074ab5a271&oe=5F992CBA" ,INFINITA TV | PREMIUM
+#EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120334725_1297171960619191_873367734371225358_o.jpg?_nc_cat=103&_nc_sid=730e14&_nc_ohc=c_q4GZxvq-UAX9apGIE&_nc_ht=scontent-lga3-1.xx&oh=be4e098e38ed36c83c11ec074ab5a271&oe=5F992CBA" ,RADIO INFINITA TV | PREMIUM
 https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120271269_1297172067285847_5769836842532815075_n.png?_nc_cat=111&_nc_sid=730e14&_nc_ohc=CDVDQ63ZLtIAX9kbP57&_nc_ht=scontent-lga3-1.xx&oh=2b6582483b444b27ae3ead422204a6cd&oe=5F994749" ,AC VISION | AZOGUES ECUADOR
@@ -163,28 +163,28 @@ https://www.webmedialive.org:1936/8024/8024/playlist.m3u8
 https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="47417" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="MOVIES", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-id="105940" tvg-name="Anime Loving TV" tvg-logo="https://lh3.googleusercontent.com/-HeQS_tKAA-8/XwePwID2waI/AAAAAAAA2no/QYCSrncPB0EhtQbqhEBEQyqPguxCHCFtQCK8BGAsYHg/s0/2020-07-09.png" group-title="MOVIES", Anime Loving TV
-http://animeloving.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="102655" tvg-name="Dreiko TV" tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png" group-title="MOVIES", Dreiko TV
-https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
-#EXTINF:-1 tvg-id="45166" tvg-name="Pintana TV" tvg-logo="https://lh3.googleusercontent.com/-Mthb4RQqfgU/XxyJnpes1QI/AAAAAAAA3Vo/Gmg_Wcr0Gv80KzXGNa3Z91BEea2r4ID0wCK8BGAsYHg/s0/2020-07-25.png" group-title="MOVIES", Pintana TV
-https://tls.cdnz.cl/lapintana/live/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="105940" tvg-name="Anime Loving TV" tvg-logo="https://lh3.googleusercontent.com/-HeQS_tKAA-8/XwePwID2waI/AAAAAAAA2no/QYCSrncPB0EhtQbqhEBEQyqPguxCHCFtQCK8BGAsYHg/s0/2020-07-09.png" group-title="MOVIES", Anime Loving TV
+#commenthttp://animeloving.net/hls/stream.m3u8
+#comment#EXTINF:-1 tvg-id="102655" tvg-name="Dreiko TV" tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png" group-title="MOVIES", Dreiko TV
+#commenthttps://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="45166" tvg-name="Pintana TV" tvg-logo="https://lh3.googleusercontent.com/-Mthb4RQqfgU/XxyJnpes1QI/AAAAAAAA3Vo/Gmg_Wcr0Gv80KzXGNa3Z91BEea2r4ID0wCK8BGAsYHg/s0/2020-07-25.png" group-title="MOVIES", Pintana TV
+#commenthttps://tls.cdnz.cl/lapintana/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="48" tvg-name="Cloud Server Kids" tvg-logo="https://www.m3u.cl/logo/48_Cloud_Server_Kids.png" group-title="MOVIES", Cloud Server Kids  | CL
-https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png" group-title="MOVIES", CSTV  | CL
-https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
-#EXTINF:-1 tvg-id="792" tvg-name="Etc TV" tvg-logo="https://www.m3u.cl/logo/792_Etc_TV.png" group-title="MOVIES", Etc TV  | CL
-https://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="Kanade TV" tvg-logo="https://www.m3u.cl/logo/44_Kanade_TV.png" group-title="MOVIES", Kanade TV  | CL
+#comment#EXTINF:-1 tvg-id="48" tvg-name="Cloud Server Kids" tvg-logo="https://www.m3u.cl/logo/48_Cloud_Server_Kids.png" group-title="MOVIES", Cloud Server Kids  | CL
+#commenthttps://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png" group-title="MOVIES", CSTV  | CL
+#commenthttps://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="792" tvg-name="Etc TV" tvg-logo="https://www.m3u.cl/logo/792_Etc_TV.png" group-title="MOVIES", Etc TV  | CL
+#commenthttps://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="44" tvg-name="Kanade TV" tvg-logo="https://www.m3u.cl/logo/44_Kanade_TV.png" group-title="MOVIES", Kanade TV  | CL
 http://96.30.193.226:81/hls/kanade.m3u8
 
 
-#EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120350843_1297172230619164_2201389698076440122_o.png?_nc_cat=103&_nc_sid=730e14&_nc_ohc=ciwjAcRcFxwAX8jxSzP&_nc_ht=scontent-lga3-1.xx&oh=ba7709b72105b1f54cadb4c44463a016&oe=5F998F1C" , Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#comment#EXTINF:-1 group-title="MOVIES", tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/120350843_1297172230619164_2201389698076440122_o.png?_nc_cat=103&_nc_sid=730e14&_nc_ohc=ciwjAcRcFxwAX8jxSzP&_nc_ht=scontent-lga3-1.xx&oh=ba7709b72105b1f54cadb4c44463a016&oe=5F998F1C" , Extrema TV
+#commenthttp://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES", CINE.AR * | AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+#comment#EXTINF:-1 group-title="MOVIES", CINE.AR * | AR
+#commenthttps://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 
 #comment#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="MOVIES",CBN Español
 #commenthttp://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
@@ -199,7 +199,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO",Azteca Uno
-https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
+#commenthttps://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
+https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO",Claro Sport
 #commenthttps://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/playlsit.m3u8
@@ -1276,12 +1277,12 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | RunTime Espanol
 https://runtime-espanol-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Sony Canal Novelas
-https://sony-novelas-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Sony Canal Comedias
-https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Sony Competencias
-https://sony-competencias-1.roku.wurl.com/manifest/playlist.m3u8
+#comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Sony Canal Novelas
+#commenthttps://sony-novelas-1.roku.wurl.com/manifest/playlist.m3u8
+#comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Sony Canal Comedias
+#commenthttps://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
+#comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Sony Competencias
+#commenthttps://sony-competencias-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Estrella News
@@ -1307,8 +1308,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007
 #EXTINF:-1 tvg-id="" group-title="The Roku Channel", XUMO|Estrella tv
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-estrellatv-xumo/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="The Roku Channel",PARAMOUNT PLUS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
+#comment#EXTINF:-1 tvg-id="" group-title="The Roku Channel",PARAMOUNT PLUS
+#commenthttps://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Global Got Talent
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo121 2A-rokugottalentglobal/CDN/playlist.m3u8
@@ -1319,17 +1320,17 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.
 #comment#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 1
 #commenthttps://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626913353/ei/6WX4YLSnGrXB1AHm8YWgDg/ip/2806%3A103e%3A6%3A5630%3A659d%3Aa80f%3A4a41%3A15ea/id/pQONlmOhXeg.1/source/yt_live_broadcast/requiressl/yes/tx/24011362/txs/24011361%2C24011362%2C24011363/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKRJzs1m4UTvK8sSSNItNj14NnnYU9seTSRXz3RekcykAiEAoeEf4kSLdsd-3-Ir_PTzJAxlzroee9FRQZwUHswYuCI%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626942646/ei/Vtj4YKm_GfGZ2_gPgve40Ao/ip/2806%3A103e%3A6%3A5630%3A4881%3Acda%3Aeab3%3Aa14/id/pQONlmOhXeg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALkRQOaXbsMWswerHVzy5lz6vpfl5WSAioKDwnG_bcr6AiAdVrFb9JbMcI1PFZk6Hdz5oXNedi4kiCBNRJQueVKrBA%3D%3D/file/index.m3u8
+#comment#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 1
+#commenthttps://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626942646/ei/Vtj4YKm_GfGZ2_gPgve40Ao/ip/2806%3A103e%3A6%3A5630%3A4881%3Acda%3Aeab3%3Aa14/id/pQONlmOhXeg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALkRQOaXbsMWswerHVzy5lz6vpfl5WSAioKDwnG_bcr6AiAdVrFb9JbMcI1PFZk6Hdz5oXNedi4kiCBNRJQueVKrBA%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626913948/ei/PGj4YPumNc2HkAS_8ZPQDg/ip/2806%3A103e%3A6%3A5630%3A659d%3Aa80f%3A4a41%3A15ea/id/51iVn2QqGLY.1/source/yt_live_broadcast/requiressl/yes/tx/24011362/txs/24011361%2C24011362%2C24011363/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgY__xNxesw96KDO7h4jHsLRJQ0D-XZA-Pn8D38UtT2YwCID9xkPs6o9vbguf5ZPy6RPUhfOr7-aOl49JLZxfvDqwU/file/index.m3u8
+#comment#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 2
+#commenthttps://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626913948/ei/PGj4YPumNc2HkAS_8ZPQDg/ip/2806%3A103e%3A6%3A5630%3A659d%3Aa80f%3A4a41%3A15ea/id/51iVn2QqGLY.1/source/yt_live_broadcast/requiressl/yes/tx/24011362/txs/24011361%2C24011362%2C24011363/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgY__xNxesw96KDO7h4jHsLRJQ0D-XZA-Pn8D38UtT2YwCID9xkPs6o9vbguf5ZPy6RPUhfOr7-aOl49JLZxfvDqwU/file/index.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 3
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626914162/ei/Emn4YOzZGZn-2_gP262d2AU/ip/2806%3A103e%3A6%3A5630%3A659d%3Aa80f%3A4a41%3A15ea/id/tQ4FuUCmsOM.1/source/yt_live_broadcast/requiressl/yes/tx/24011362/txs/24011361%2C24011362%2C24011363/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgBol7O2uzifYnTBbtfCOXK8m8ShRLghxqRMT0IB0WczwCIQCbU6_24Br-PGVdf6zhGxOKP_GBGMOodkFmQDBCZyNVYQ%3D%3D/file/index.m3u8
+#comment#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 3
+#commenthttps://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626914162/ei/Emn4YOzZGZn-2_gP262d2AU/ip/2806%3A103e%3A6%3A5630%3A659d%3Aa80f%3A4a41%3A15ea/id/tQ4FuUCmsOM.1/source/yt_live_broadcast/requiressl/yes/tx/24011362/txs/24011361%2C24011362%2C24011363/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgBol7O2uzifYnTBbtfCOXK8m8ShRLghxqRMT0IB0WczwCIQCbU6_24Br-PGVdf6zhGxOKP_GBGMOodkFmQDBCZyNVYQ%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 4
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626914503/ei/Z2r4YKC-FtbEhwbNtrKIDQ/ip/2806%3A103e%3A6%3A5630%3A659d%3Aa80f%3A4a41%3A15ea/id/QlMUZM5sWkg.1/source/yt_live_broadcast/requiressl/yes/tx/24011362/txs/24011361%2C24011362%2C24011363/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAO3Gt3wheGP-Eb6SPtA0VdwgSmFq51BXp2JuH9btzQ4SAiEAihnNyhtz1Yvlc_i_o2YKC1z9XVSFCkcbDF-Lg6OuFSM%3D/file/index.m3u8
+#comment#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 4
+#commenthttps://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626914503/ei/Z2r4YKC-FtbEhwbNtrKIDQ/ip/2806%3A103e%3A6%3A5630%3A659d%3Aa80f%3A4a41%3A15ea/id/QlMUZM5sWkg.1/source/yt_live_broadcast/requiressl/yes/tx/24011362/txs/24011361%2C24011362%2C24011363/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAO3Gt3wheGP-Eb6SPtA0VdwgSmFq51BXp2JuH9btzQ4SAiEAihnNyhtz1Yvlc_i_o2YKC1z9XVSFCkcbDF-Lg6OuFSM%3D/file/index.m3u8
 
 
 
