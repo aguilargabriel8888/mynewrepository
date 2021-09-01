@@ -18,7 +18,8 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 #commenthttps://gintna100.tulix.tv/gin_live/bbcthree/3bc331fa8e31c73400aefbe2e7aa9d41/6045095a/index.m3u8
 #commenthttps://gintna100.tulix.tv/gin_live/bbcthree/55403b7faf0984a6c5ee96efd01827f8/6054290f/index.m3u8
 #commenthttps://gintna100.tulix.tv/gin_live/bbcthree/5dbb9c419f0ed8614123529ae3360032/606b6d94/index.m3u8
-https://gintna100.tulix.tv/gin_live/bbcthree/db535f7891029280ab094fd4bff08356/606e70f6/index.m3u8
+#commenthttps://gintna100.tulix.tv/gin_live/bbcthree/db535f7891029280ab094fd4bff08356/606e70f6/index.m3u8
+https://gintna100.tulix.tv/gin_live/bbcthree/adce2b7612cb1f228a719f0317e1cf71/612702e5/index.m3u8
 
 #EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" tvg-country="UK" tvg-url="" group-title="THE_BEST_KIDS_TV",Cbeebies
 http://51.52.156.22:8888/http/003
@@ -286,34 +287,34 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC 15 Madison WI (WMTVNBC) (720p)
 https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", Pb TV
-http://187.188.147.165:8000/play/a00l/index.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", Pb TV
+#commenthttp://187.188.147.165:8000/play/a00l/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", AXN
-http://136.243.177.164/AXN/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", AXN
+#commenthttp://136.243.177.164/AXN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", Distro TV | CINELIFE 
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/6a34840e-b248-4e47-92c9-94c141b900c1/5.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", Distro TV | CINELIFE 
+#commenthttps://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/6a34840e-b248-4e47-92c9-94c141b900c1/5.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", XUMO TV | GOT TALENT GLOBAL
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", XUMO TV | GOT TALENT GLOBAL
+#commenthttps://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", CARTOONNETWORK
-http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", CARTOONNETWORK
+#commenthttp://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", Warner TV
-http://203.154.243.89:11205/
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", Warner TV
+#commenthttp://203.154.243.89:11205/
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", NBC
-http://203.154.243.89:11208/
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", NBC
+#commenthttp://203.154.243.89:11208/
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Qello Concerts (1080p)
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 #comment#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="ENTERTAIMENT",The CW
 #commenthttps://cdn006.teleuptv.net/rTK2EQCVCX/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="ENTERTAIMENT",HBO EST
-https://edge.roku-live.top.comcast.net/out/u/hbo-east_8_0.m3u8?m=1589266180
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="ENTERTAIMENT",HBO EST
+#commenthttps://edge.roku-live.top.comcast.net/out/u/hbo-east_8_0.m3u8?m=1589266180
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="ENTERTAIMENT",STIRR_TV|BOB_ROSS
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
@@ -332,8 +333,8 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5
 #commenthttps://gintna100.tulix.tv/gin_live/bbcent/601103a9a74815457c0b5157c1782bb3/604e93de/index.m3u8
 #commenthttps://gintna100.tulix.tv/gin_live/bbcent/f4d54fd239f473458f5fe1db03ab198a/606b7474/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC ONE SCOTLAND
-http://51.52.156.22:8888/http/001
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC ONE SCOTLAND
+#commenthttp://51.52.156.22:8888/http/001
 
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CHANNEL 4 United Kindom | GINIKO
 #commenthttps://gintna100.tulix.tv/gin_live/channel4/f38ec6c6b227cba847e57cea0de25625/60450a0c/index.m3u8
@@ -345,7 +346,9 @@ http://51.52.156.22:8888/http/001
 #commenthttps://gintna100.tulix.tv/gin_live/canale-5/e924e9f492524c890ce2288da6392616/606b7dae/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",XUMO TV|Just for Laughs Gangs
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/playlist.m3u8
+#commenthttps://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/playlist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=3846e8e55bbe5d5c9032018b9384308a&genre=comedy&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=just_for_laughs&channelStore=us&tags=ROKU_CONTENT_TAGS
+
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",XUMO TV|Circle
 #commenthttps://live-content.xumo.com/117/content/XM0BAJMK3KBANH/18339311/master.m3u8
@@ -355,20 +358,156 @@ https://circle-xumo.amagi.tv/playlist.m3u8
 https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
 
 
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV
+#commenthttps://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
+
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV2
+#commenthttp://51.52.156.22:8888/http/005
+
+
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV3
+#commenthttp://51.52.156.22:8888/http/006
+
+
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV4
+#commenthttp://51.52.156.22:8888/http/007
+
+
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV
-https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
-
-
+http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8
+http://31.220.41.88:8081/live/itv1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV2
-http://51.52.156.22:8888/http/005
-
-
+http://31.220.41.88:8081/live/itv2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV2_2
+http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV3
-http://51.52.156.22:8888/http/006
-
-
+http://31.220.41.88:8081/live/itv3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV4
-http://51.52.156.22:8888/http/007
+http://31.220.41.88:8081/live/itv4.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",A+E | Lively Place (1080p)
+http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 10 Sacramento CA (KXTV) (1080p)
+https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 11 Louisville KY (WHAS) (1080p)
+https://livevideo01.whas11.com/hls/live/2016284/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 13 Grand Rapids MI (WZZM) (1080p)
+https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 13 Las Vegas NV (KTNV) (720p)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 13 Norfolk VA (WVEC) (1080p)
+https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 15 Phoenix AZ (KNXV-TV) (720p)
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 16 Wilkes Barre PA (WNEP) (1080p)
+https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 2 Atlanta GA (WSB-TV) (720p)
+https://d2rwx6gwduugne.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10010_183ec1c7-4183-4661-803b-3ed282ffb625_LE/in/cmg-wsbtvnow-hls-v3/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 2 Baton Rouge LA (WBRZ) (720p)
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 24 Austin TX (KVUE) (1080p)
+https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 24 Memphis TN (WATN-TV) (1080p)
+https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 3 Corpus Christi TX (KIII) (1080p)
+https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 4 Seattle WA (KOMO-TV) (720p)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 5 Cleveland OH (WEWS-TV) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WEWS.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 5 Cleveland OH (WEWS-TV) (1080p)
+https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 5 Des Moines IA (WOI) (1080p)
+https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 Denver CO (KMGH) (720p)
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 Detroit MI (WXYZ-TV) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 New York NY (WABC-TV) (720p)
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 News San Francisco CA (KGO-TV) (720p)
+https://cdn87.theus6tv.tk/locals/BayArea/kgo-dt1.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 Sarasota FL (WWSB) (720p)
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 Washington DC (WJLA) (720p)
+https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 8 Dallas TX (WFAA) (1080p)
+https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 8 Davenport IA (WQAD) (1080p)
+https://livevideo01.wqad.com/hls/live/2011657/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 9 Manchester NH (WMUR-TV) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 9 Orlando FL (WFTV) (540p)
+https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ActionMAX (360p)
+http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",AFV Español (720p)
+https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="AFVEspanol.us" tvg-name="AFV Español" tvg-country="US" tvg-language="Spanish" tvg-logo="https://#commentf9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3" group-title="Comedy",AFV Español (720p)
+#commenthttps://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",AFV Family (720p)
+https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",AMG TV (1080p)
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Butaca TV (720p)
+https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS 8 San Diego CA (KFMB-TV) (1080p)
+https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS 9 Los Angeles CA (KCAL-TV) (720p)
+https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS 10 Tampa FL (WTSP) (1080p)
+https://livevideo01.wtsp.com/hls/live/2015503/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS 11 Dallas TX (KTVT) (720p)
+https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CONtv Anime (1080p)
+https://contvanime-plex-ingest.cinedigm.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FX (720p)
+https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Family Flix (720p)
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FilmRise Action (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TV25.4 Action (480p)
+https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PopCornFlix Action (Bumblebee) (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FilmRise Family (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FilmStreams (720p)
+https://spi-filmstream-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Funny or Die (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufunnyordie/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",HA! That's Funny (720p)
+https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",HBO PREMIUM (360p)
+https://s.vdo.ai/vhs/1.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Pluto TV Garfield (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TVS Family Channel (360p)
+https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
+
 
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Crazy Inventions
 #commenthttps://bozztv.com/36bay4/Crazy_Inventions/index.m3u8
@@ -1676,7 +1815,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8?p=
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjUyNDQ4NjZf/Crackle_365x365.png" group-title="Movies Plus",Crackle | HD
 https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzAxMjUzMzRf/PopcornFlix_491x491.png" group-title="Movies Plus",PopcornFlix | HD
-https://d2ml5ryiu1l712.cloudfront.net/popcornflix-xumo/playlist.m3u8
+#commenthttps://d2ml5ryiu1l712.cloudfront.net/popcornflix-xumo/playlist.m3u8
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Movies Plus",Electric Now | Webstream
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&avod=1&coppa=0&is_lat=0&us_privacy=1---&did=b1cbb406470d5d90837f687adf702ece&app_bundle=com.electric.now&app_store_url=https%3A%2F%2Fwww.electricnow.tv%2Fdevices&app_domain=electricnow.tv&app_name=electricnow&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=electricnow&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1&timestamp=1612734875&id=430&ip=107.174.17.108&override_expiration=1500&sign=skfdbc7xCT%2FrPBo7I%2Bn324ONywyaFp%2F0attYUsrv7l4%3D
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Movies Plus",Electric Now | Source 2
@@ -1925,7 +2065,8 @@ https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
 https://crackle-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="10688f" tvg-name="Popcornflix" tvg-chno="222" tvg-logo="https://i.imgur.com/ATUaSCV.png" group-title="The Roku Channel",Popcornflix 
-https://popcornflix-plex.amagi.tv/playlist.m3u8
+#commenthttps://popcornflix-plex.amagi.tv/playlist.m3u8
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 
 #EXTINF:-1 tvg-id="10688f" tvg-name="Popcornflix_(alt)" tvg-chno="223" tvg-logo="https://i.imgur.com/ATUaSCV.png" group-title="The Roku Channel",Popcornflix (alt) 
 https://studio1091-samsungus.amagi.tv/popcornflix-xumo/playlist.m3u8
