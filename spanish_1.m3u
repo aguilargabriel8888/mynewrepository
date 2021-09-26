@@ -117,18 +117,6 @@ http://tv.romanatv42.com/hls/live.m3u8
 #commenthttp://stmv.panel.grupolimalive.com/cineperu/cineperu/playlist.m3u8
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 
-#comment#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="MOVIES",WOW! TV
-#commenthttp://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="MOVIES",WOW! TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="109756" tvg-name="Sol TV" tvg-logo="https://lh3.googleusercontent.com/-ylaKrXQpRhc/XzxoSsdrC7I/AAAAAAAA4og/c-5bcL314FgeLmDsQMJHGBVQzuuLrE_oACK8BGAsYHg/s0/2020-08-18.png" group-title="MOVIES", Sol TV
-#Commenthttps://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
-https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES",DW ESPAÑOL
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-
 #EXTINF:-1 tvg-id="127494" tvg-name="Boomerang" tvg-logo="https://lh3.googleusercontent.com/-GVKVCBZ1ryg/YBsb5fRaNOI/AAAAAAAA_qk/6puCkYZaRUkrhUHzzMnHGL2CUMO94ij2ACK8BGAsYHg/s0/2021-02-03.png" group-title="MOVIES", Boomerang
 http://8.9.4.128:8080/hls/boomerangtv.m3u8
 
@@ -156,6 +144,17 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES", Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
+
+#comment#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="MOVIES",WOW! TV
+#commenthttp://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="MOVIES",WOW! TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES",DW ESPAÑOL
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1 tvg-id="109756" tvg-name="Sol TV" tvg-logo="https://lh3.googleusercontent.com/-ylaKrXQpRhc/XzxoSsdrC7I/AAAAAAAA4og/c-5bcL314FgeLmDsQMJHGBVQzuuLrE_oACK8BGAsYHg/s0/2020-08-18.png" group-title="MOVIES", Sol TV
+https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",TELE MAS
 https://www.webmedialive.org:1936/8024/8024/playlist.m3u8
@@ -1312,6 +1311,23 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-estrellatv-xumo/CDN/master.m3u8
 #comment#EXTINF:-1 tvg-id="" group-title="The Roku Channel",PARAMOUNT PLUS
 #commenthttps://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
+#EXTINF:-1 tvg-id="" group-title="The Roku Channel",Azteca 7 (XHTIT-TDT) (1080p)
+https://cdn87.theus6tv.tk/locals/SanDiego/xhtit-tdt.m3u8
+#EXTINF:-1 tvg-id="" group-title="The Roku Channel",Azteca America (XHAS-TDT) (1080p)
+https://cdn87.theus6tv.tk/locals/SanDiego/xhas-tdt.m3u8
+#EXTINF:-1 tvg-id="" group-title="The Roku Channel",Azteca Uno (XHJK-TDT) (1080p)
+https://cdn87.theus6tv.tk/locals/SanDiego/xhjk-tdt.m3u8
+#EXTINF:-1 tvg-id="" group-title="The Roku Channel",Canal 5 (XETV-TDT) (1080p)
+https://cdn87.theus6tv.tk/locals/SanDiego/xetv-tdt.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="The Roku Channel",Univision East (WXTV) (720p)
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wxtv-dt1.m3u8
+#EXTINF:-1 tvg-id="" group-title="The Roku Channel",Univision West (KDTV) (720p)
+https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt2.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",Telemundo 40 Arizona (1080p)
+https://cdn87.theus6tv.tk/locals/Pheonix/ktaz-dt1.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Global Got Talent
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo121 2A-rokugottalentglobal/CDN/playlist.m3u8
 
@@ -1332,6 +1348,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.
 
 #comment#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 4
 #commenthttps://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626914503/ei/Z2r4YKC-FtbEhwbNtrKIDQ/ip/2806%3A103e%3A6%3A5630%3A659d%3Aa80f%3A4a41%3A15ea/id/QlMUZM5sWkg.1/source/yt_live_broadcast/requiressl/yes/tx/24011362/txs/24011361%2C24011362%2C24011363/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAO3Gt3wheGP-Eb6SPtA0VdwgSmFq51BXp2JuH9btzQ4SAiEAihnNyhtz1Yvlc_i_o2YKC1z9XVSFCkcbDF-Lg6OuFSM%3D/file/index.m3u8
+
 
 
 
