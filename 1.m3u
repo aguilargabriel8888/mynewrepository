@@ -331,6 +331,9 @@ https://livevideo01.myfoxzone.com/hls/live/2017381/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC 7 San Diego CA (KNSD-DT1) (1080p)
 https://cdn87.theus6tv.tk/locals/SanDiego/knsd-dt1.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX 23 Tulsa
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Fox News (720p)
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 
@@ -505,6 +508,7 @@ http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NICK US
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",AFV Español (720p)
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 #comment#EXTINF:-1 tvg-id="AFVEspanol.us" tvg-name="AFV Español" tvg-country="US" tvg-language="Spanish" tvg-logo="https://#commentf9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3" group-title="Comedy",AFV Español (720p)
