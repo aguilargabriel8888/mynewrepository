@@ -12,6 +12,11 @@ https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",tvo KIDS
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="THE_BEST_KIDS_TV",PBS Kids Florida (1080p)
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:-1 tvg-id="" group-title="THE_BEST_KIDS_TV",PBS Kids San Diego (KPBS-DT4) (432p)
+https://cdn87.theus6tv.tk/locals/SanDiego/kpbs-dt4.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",CBBC
 #commenthttps://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/index.m3u8
@@ -278,11 +283,6 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS 39 (WLVT) (720p)
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS Kids Florida (1080p)
-https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS Kids San Diego (KPBS-DT4) (432p)
-https://cdn87.theus6tv.tk/locals/SanDiego/kpbs-dt4.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS World San Diego (KPBS-DT2) (720p)
 https://cdn87.theus6tv.tk/locals/SanDiego/kpbs-dt2.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS | World Channel (480p)
@@ -319,10 +319,10 @@ https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Filmon 1 (640p)
 https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Filmon 2 (480p)
-https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Filmon 3 (480p)
-https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Filmon 2 (480p)
+#commenthttps://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Filmon 3 (480p)
+#commenthttps://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX 15 West Texas Abilene TX (KXVA) (1080p)
