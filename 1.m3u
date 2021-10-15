@@ -6,8 +6,8 @@ https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="I46.4.30551.zap2it.com" tvg-name="46.4 WKLEDT4" tvg-type="live" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="THE_BEST_KIDS_TV",EPG | PBS Kids | KET
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="THE_BEST_KIDS_TV",PBS | WPSU
-https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/playlist.m3u8
+#comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group title="THE_BEST_KIDS_TV",PBS | WPSU
+#commenthttps://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",tvo KIDS
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
@@ -18,16 +18,16 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 https://cdn87.theus6tv.tk/locals/SanDiego/kpbs-dt4.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",CBBC
+#comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",CBBC
 #commenthttps://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/index.m3u8
 #commenthttps://gintna100.tulix.tv/gin_live/bbcthree/3bc331fa8e31c73400aefbe2e7aa9d41/6045095a/index.m3u8
 #commenthttps://gintna100.tulix.tv/gin_live/bbcthree/55403b7faf0984a6c5ee96efd01827f8/6054290f/index.m3u8
 #commenthttps://gintna100.tulix.tv/gin_live/bbcthree/5dbb9c419f0ed8614123529ae3360032/606b6d94/index.m3u8
 #commenthttps://gintna100.tulix.tv/gin_live/bbcthree/db535f7891029280ab094fd4bff08356/606e70f6/index.m3u8
-https://gintna100.tulix.tv/gin_live/bbcthree/adce2b7612cb1f228a719f0317e1cf71/612702e5/index.m3u8
+#commenthttps://gintna100.tulix.tv/gin_live/bbcthree/adce2b7612cb1f228a719f0317e1cf71/612702e5/index.m3u8
 
-#EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" tvg-country="UK" tvg-url="" group-title="THE_BEST_KIDS_TV",Cbeebies
-http://51.52.156.22:8888/http/003
+#comment#EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" tvg-country="UK" tvg-url="" group-title="THE_BEST_KIDS_TV",Cbeebies
+#commenthttp://51.52.156.22:8888/http/003
 
 #comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",CBBC opt2
 #commenthttps://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
@@ -44,8 +44,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca6748a37b88b269472dad9/featuredImage.jpg" group-title="KIDS_TV",Nick Jr.
 https://stitcher.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="KIDS_TV", NICK GAMES
-http://stitcher.pluto.tv/stitch/hls/channel/5dae09950c657500093121a2/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
+#comment#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="KIDS_TV", NICK GAMES
+#commenthttp://stitcher.pluto.tv/stitch/hls/channel/5dae09950c657500093121a2/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="KIDS_TV", TOTALLY TURTLES
 http://stitcher.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
@@ -59,8 +59,8 @@ http://stitcher.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="KIDS_TV", Pocket Watch
 http://stitcher.pluto.tv/stitch/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca6748a37b88b269472dad9/featuredImage.jpg" group-title="KIDS_TV",Nick Movies
-https://stitcher.pluto.tv/stitch/hls/channel/5dae091827c8af0009fe40d1/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
+#comment#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca6748a37b88b269472dad9/featuredImage.jpg" group-title="KIDS_TV",Nick Movies
+#commenthttps://stitcher.pluto.tv/stitch/hls/channel/5dae091827c8af0009fe40d1/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="KIDS_TV", Tween
 http://stitcher.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
@@ -80,8 +80,8 @@ http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ad8d54be738977e2c310940/featuredImage.jpg" group-title="KIDS_TV",Kids
 https://stitcher.pluto.tv/stitch/hls/channel/5ad8d54be738977e2c310940/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c5c2e228002db3c3e0b1c6f/featuredImage.jpg" group-title="KIDS_TV",Kids Learning
-https://stitcher.pluto.tv/stitch/hls/channel/5c5c2e228002db3c3e0b1c6f/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
+#comment#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c5c2e228002db3c3e0b1c6f/featuredImage.jpg" group-title="KIDS_TV",Kids Learning
+#commenthttps://stitcher.pluto.tv/stitch/hls/channel/5c5c2e228002db3c3e0b1c6f/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/410c79a3-193d-ed36-bce8-5f86d9b4996a-KidsTV_featured.jpg" group-title="KIDS_TV",Kids TV
 http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
@@ -89,19 +89,19 @@ http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http//pluto.tv.s3.amazonaws.com/channels/5ad9b648e738977e2c312131/featuredImage.jpg" group-title="KIDS_TV",Pluto TV Kids 1
 https://stitcher.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cd1495bd9e0ec55c4ecbf52/featuredImage.jpg" group-title="KIDS_TV",Pluto TV Kids Jr.
-https://stitcher.pluto.tv/stitch/hls/channel/5cd1495bd9e0ec55c4ecbf52/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
+#comment#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cd1495bd9e0ec55c4ecbf52/featuredImage.jpg" group-title="KIDS_TV",Pluto TV Kids Jr.
+#commenthttps://stitcher.pluto.tv/stitch/hls/channel/5cd1495bd9e0ec55c4ecbf52/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" tvg-country="UK" tvg-url="" group-title="KIDS_TV",Cbeebies
-http://51.52.156.22:8888/http/003
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="KIDS_TV",3ABN KIDS TV
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#comment#EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" tvg-country="UK" tvg-url="" group-title="KIDS_TV",Cbeebies
+#commenthttp://51.52.156.22:8888/http/003
+#comment#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="KIDS_TV",3ABN KIDS TV
+#commenthttps://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
-#EXTINF:-1 group-title="KIDS_TV",Pocket
+#EXTINF:-1 group-title="KIDS_TV",Pocket_XUMO_
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-pocket-watch/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS",CBS Sports
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",CBS Sports
+#commenthttps://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
 # Comment#EXTINF:-1 tvg-id="" group-title="SPORTS",beIN Sports US
 #commenthttps://ul.cdn946.net:8443/hls/yu3w26c9imgo814.m3u8?s=mVVEmNJjMYsILlbnbSZaCQ&e=1597289314
@@ -112,8 +112,8 @@ https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_w
 #commenthttps://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/#commentMLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20200811_1597157620144/3000K/3000_slide.m3u8
 #commenthttps://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/#commentMLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20200814_1597418609355/500K/500_slide.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS",FUBO TV
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",FUBO TV
+#commenthttps://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 
 #comment#EXTINF:-1 tvg-id="" group-title="SPORTS",FOX SPORT 2
 #commenthttps://ul.cdn946.net:8443/hls/wemwrqrpx3m.m3u8?s=FYo5SC70IuXFo0iIa1Y4OQ&e=1597301692
@@ -133,8 +133,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=85.0.4183.83&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&deviceType=web&deviceMake=Chrome&sid=a6cbb1c4-8782-11eb-a627-0242ac110002&advertisingId=&deviceLat=33.7485&deviceLon=-84.3871&deviceDNT=0&deviceModel=web&userId=&appName=web
 
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS",WINTER
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d9f8ae00270560009b81891/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",WINTER
+#commenthttps://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d9f8ae00270560009b81891/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS",PLUTO SPORT 2
@@ -161,8 +161,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba6828
 #EXTINF:-1 tvg-id="" group-title="SPORTS",IMPACT
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS",BIG SKY
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",BIG SKY
+#commenthttps://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS",WPT
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
@@ -183,8 +183,9 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 
 
-#EXTINF:-1 tvg-chno="5072" tvg-id="STIRR | sports" tvg-name="STIRR | sports" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/a43594d1-364b-4e0c-8647-0d117973a641-small3x1_stirr_1219_epg_stirrsports_1920x1080.png?1576019645577" group-title="SPORTS",STIRR | sports
-https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
+#EXTINF:-1 tvg-chno="5072" tvg-id="STIRR | sports" tvg-name="STIRR | sports" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/a43594d1-364b-4e0c-8647-0d117973a641-small3x1_stirr_1219_epg_stirrsports_1920x1080.png?1576019645577" group-title="SPORTS",STIRR | sports TV Plus
+#commenthttps://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 #EXTINF:-1 tvg-chno="5073" tvg-id="Stadium " tvg-name="Stadium " tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/b4e26296-be68-4e3d-beda-04e81f4d34ee-small3x1_stirr_1219_epg_stadium_1920x1080.png?1576018965230" group-title="SPORTS",STIRR | Stadium 
 https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
 #EXTINF:-1 tvg-chno="5074" tvg-id="The T" tvg-name="The T" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/887ab420-6923-4600-b1ed-3cba74db10fd-small3x1_STIRR_Logo_0320_TheT_1920x1080_EPG.png?1584562044540" group-title="SPORTS",STIRR | The T
@@ -193,15 +194,16 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 #EXTINF:-1 tvg-chno="5076" tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/8b115727-b06f-4259-8a9f-1163d81b955d-small3x1_STIRR_Logo_0320_WorldPokerTour_1920x1080_EPG.png?1584652964461" group-title="SPORTS",STIRR | World Poker Tour
 https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
-#EXTINF:-1 tvg-chno="5077" tvg-id="Combat Go" tvg-name="Combat Go" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/849f3b26-39dd-4f9d-b902-96006dfd5517-small3x1_stirr_1219_epg_combatgo_1920x1080.png?1576010585863" group-title="SPORTS",STIRR | Combat Go
-https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+#EXTINF:-1 tvg-chno="5077" tvg-id="Combat Go" tvg-name="Combat Go" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/849f3b26-39dd-4f9d-b902-96006dfd5517-small3x1_stirr_1219_epg_combatgo_1920x1080.png?1576010585863" group-title="SPORTS",STIRR | Whistle sports
+#commenthttps://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
 
 #comment#EXTINF:-1 tvg-id="" group-title="SPORTS",Sports bein xtra
 #commenthttps://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
 #comment#EXTINF:-1 tvg-id="" group-title="SPORTS",fubo sport
 #commenthttps://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORTS",FTF
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-elevensports/CDN/master.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",FTF
+#commenthttps://dai2.xumo.com/amagi_hls_data_xumo1212A-elevensports/CDN/master.m3u8
 #comment#EXTINF:-1 tvg-id="" group-title="SPORTS",ACCDN
 #commenthttps://live-content.xumo.com/251/content/XM0U6I7UM45CR2/20942243/master.m3u8
 #comment#EXTINF:-1 tvg-id="" group-title="SPORTS",NITRO CIRCUS
@@ -225,10 +227,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 #comment#EXTINF:-1 tvg-id="" group-title="SPORTS",waypointTv
 #commenthttps://live-content.xumo.com/908/content/XM0BAKINIM77SL/21438643/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-country="US" tvg-url="" group-title="SPORTS",Bek Sports East
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-country="US" tvg-url="" group-title="SPORTS",Bek Sports West
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-country="US" tvg-url="" group-title="SPORTS",Bek Sports East
+#commenthttps://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-country="US" tvg-url="" group-title="SPORTS",Bek Sports West
+#commenthttps://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" tvg-country="US" tvg-url="" group-title="SPORTS",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #comment#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-language="English" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-country="AU" #commenttvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="SPORTS",,Fox Sports News
@@ -251,22 +253,22 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa2670007
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX
 #commenthttps://ustvnowmsl.akamaized.net/hls/live/2004241/wpmtmsl1/wpmtmsl1/playlist.m3u8?hdnts=st=1598227242~exp=1598248842~acl=!*/*!/payload/#commentyupptvott_5_2325782_48a4510a-4a26-985c-cecc-de2fd4d0b64d_US_18.218.24.5_ustvnow_3_channel_60_-1/#comment*~data=yupptvott_5_2325782_48a4510a-4a26-985c-cecc-#commentde2fd4d0b64d_US_18.218.24.5_ustvnow_3_channel_60_-1~hmac=e5e479b2d16a7c1e17d0dbec1bddc66c17f4a91bdf7877ece0058abebaffd710
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="ENTERTAIMENT",CBS (WFOR) (Opt-1)
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="ENTERTAIMENT",CBS (WFOR) (Opt-1)
+#commenthttp://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="ENTERTAIMENT",CBS News (Opt-1)
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="ENTERTAIMENT",NBC (WTVJ) (Opt-1)
-http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="ENTERTAIMENT",NBC (WTVJ) (Opt-1)
+#commenthttp://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="ENTERTAIMENT",NBC (WTVJ) (Opt-2)
-http://190.80.3.28/NBC/NBC.isml/index.m3u8
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="ENTERTAIMENT",NBC (WTVJ) (Opt-2)
+#commenthttp://190.80.3.28/NBC/NBC.isml/index.m3u8
 
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CW
 #commenthttp://136.243.177.164/AXN/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CW
-https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CW
+#commenthttps://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Dallas (KTVT) (720p)
 https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
@@ -288,22 +290,22 @@ https://cdn87.theus6tv.tk/locals/SanDiego/kpbs-dt2.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS | World Channel (480p)
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX 7 Florida (WSVN) (720p)
-https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX 7 Florida (WSVN) (720p)
+#commenthttps://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 New York NY (WABC-TV) (720p)
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 San Francisco CA (KGO-TV) (720p)
-https://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
+https://cdn87.theus6tv.tk/locals/BayArea/kgo-dt1.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 Sarasota FL (WWSB) (720p)
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The CW Philadelphia (H264) (432p)
-https://cdn007.the6tv.duckdns.org:2443/the6tv-ota/h264/philadelphia/WPSG-DT1/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The CW Philadelphia (HEVC) (720p)
-https://cdn007.the6tv.duckdns.org:2443/the6tv-ota/hevc/philadelphia/WPSG-DT1/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The CW Philadelphia (H264) (432p)
+#commenthttps://cdn007.the6tv.duckdns.org:2443/the6tv-ota/h264/philadelphia/WPSG-DT1/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The CW Philadelphia (HEVC) (720p)
+#commenthttps://cdn007.the6tv.duckdns.org:2443/the6tv-ota/hevc/philadelphia/WPSG-DT1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The Weather Channel (720p)
 https://cdn88.theus6tv.tk/united-states/cable/the-weather-channel.m3u8
@@ -433,17 +435,36 @@ https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV
-http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8
-http://31.220.41.88:8081/live/itv1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV2
-http://31.220.41.88:8081/live/itv2.stream/playlist.m3u8
+#commenthttp://31.220.41.88:8081/live/itv1.stream/chunks.m3u8
+http://93.190.139.35:8278/streams/d/itv1_antik/playlist.m3u8
+#commenthttp://31.220.41.88:8081/live/itv1.stream/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV2
+#commenthttp://31.220.41.88:8081/live/itv2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV2_2
 http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV3
-http://31.220.41.88:8081/live/itv3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV4
-http://31.220.41.88:8081/live/itv4.stream/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV3
+#commenthttp://31.220.41.88:8081/live/itv3.stream/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV4
+#commenthttp://31.220.41.88:8081/live/itv4.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="ENTERTAIMENT",Marvel HQ (720p)
+https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
+
+#EXTINF:-1 group-title="ENTERTAIMENT",MGM HQ
+http://c0.cdn.trinity-tv.net/stream/uq2t763988wmx82xs37vrzrtrvaz686y22jd9gcgvgbhu88g6dntdb82kggx9zgvpvwj5wisyi5mgwwgdqzm7d6xbf7yvctwzvhsu3t57ms3wa4qxwyeuqk3ayrdwx3k2b6cdtnrydx9qa3ezqzea===.m3u8
+
+#EXTINF:-1 group-title="ENTERTAIMENT",Warner TV (720p)
+http://203.154.243.89:11205
+#EXTINF:-1 group-title="ENTERTAIMENT",Warner TV (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAIMENT",English Club TV (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s37/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAIMENT",MyTime movie network (1080p)
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",A+E | Lively Place (1080p)
 http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
@@ -501,13 +522,15 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 9 Orlando FL (WFTV) (540p)
 https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ActionMAX (360p)
-http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CineMAX us
-http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ActionMAX (360p)
+#commenthttp://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CineMAX us
+#commenthttp://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NICK US
-http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NICKELODEON AU
+#commenthttp://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
+http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",AFV Español (720p)
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
@@ -517,15 +540,15 @@ https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",AMG TV (1080p)
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",New Kid TV (1080p)
-https://newidco-newkid-2.roku.wurl.com/manifest/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",New Kid TV (1080p)
+#commenthttps://newidco-newkid-2.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Ion Plus (1080p)
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Butaca TV (720p)
-https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Butaca TV (720p)
+#commenthttps://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS 8 San Diego CA (KFMB-TV) (1080p)
 https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
@@ -539,8 +562,8 @@ https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CONtv Anime (1080p)
 https://contvanime-plex-ingest.cinedigm.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FX (720p)
-https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FX (720p)
+#commenthttps://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Family Flix (720p)
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
@@ -548,8 +571,8 @@ https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FilmRise Action (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TV25.4 Action (480p)
-https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TV25.4 Action (480p)
+#commenthttps://cdn.igocast.com/channel4_hls/channel4_master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PopCornFlix Action (Bumblebee) (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
@@ -557,8 +580,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FilmRise Family (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FilmStreams (720p)
-https://spi-filmstream-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FilmStreams (720p)
+#commenthttps://spi-filmstream-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Funny or Die (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufunnyordie/CDN/master.m3u8
@@ -568,8 +591,8 @@ https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",HBO PREMIUM (360p)
-https://s.vdo.ai/vhs/1.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",HBO PREMIUM (360p)
+#commenthttps://s.vdo.ai/vhs/1.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Pluto TV Garfield (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -637,8 +660,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e20009
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BET
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Frontdoor
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Frontdoor
+#commenthttps://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Funny Videos
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
@@ -646,18 +669,18 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Laugh loud
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5af09e645126c2157123f9eb/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",American Funny TV
-https://afv-plutolive-vo.akamaized.net/m/hlslive/afv/4/afv.m3u8?profID=736&n=4&ctype=0&chname=afv&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",American Funny TV
+#commenthttps://afv-plutolive-vo.akamaized.net/m/hlslive/afv/4/afv.m3u8?profID=736&n=4&ctype=0&chname=afv&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The Weather Channel
-https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The Weather Channel
+#commenthttps://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="ENTERTAIMENT",USA
-http://cdnak19.cast4u.info/channels/4/10804.m3u8
+#comment#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="ENTERTAIMENT",USA
+#commenthttp://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Ll6GlqY.png" tvg-country="INT" tvg-url="" group-group-title="ENTERTAIMENT",V2BEAT TV
 http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/c3Z5i2L.png" tvg-country="US" tvg-url="" group-title="ENTERTAIMENT",Z Living
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
+#comment#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/c3Z5i2L.png" tvg-country="US" tvg-url="" group-title="ENTERTAIMENT",Z Living
+#commenthttps://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 
 
 #funciona
@@ -669,10 +692,10 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", DISCOVERY 2
 #commenthttps://content-ausw4.uplynk.com/channel/19334c6a5c614c46b2f198f15c179163/h.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-#commentd50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-#commentb879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
-#EXTINF:-1 tvg-chno="5001" tvg-id="2020 Live" tvg-name="2020 Live" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/e155b2ff-61dc-44c2-9d2a-26b0f69ebc5b-small3x1_stirr_0120_epg_2020LIVE_1920x1080.png?1579110210736" group-title="STIRR Tv",STIRR | 2020 Live
-https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
-#EXTINF:-1 tvg-chno="5002" tvg-id="COVID-19 News" tvg-name="COVID-19 News" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/03f16a85-c53f-4e81-8482-84717fba63d6-small3x1_stirr_1219_epg_template_1920x1080.png?1584745146676" group-title="STIRR Tv",STIRR | COVID-19 News
-https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5001" tvg-id="2020 Live" tvg-name="2020 Live" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/e155b2ff-61dc-44c2-9d2a-26b0f69ebc5b-small3x1_stirr_0120_epg_2020LIVE_1920x1080.png?1579110210736" group-title="STIRR Tv",STIRR | 2020 Live
+#commenthttps://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5002" tvg-id="COVID-19 News" tvg-name="COVID-19 News" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/03f16a85-c53f-4e81-8482-84717fba63d6-small3x1_stirr_1219_epg_template_1920x1080.png?1584745146676" group-title="STIRR Tv",STIRR | COVID-19 News
+#commenthttps://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
 #EXTINF:-1 tvg-chno="5003" tvg-id="Newsy" tvg-name="Newsy" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/95613c15-7298-48d5-bf3d-43f33b630727-small3x1_stirr_1219_epg_newsy_1920x1080.png?1576623622874" group-title="STIRR Tv",STIRR | Newsy
 https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
 #EXTINF:-1 tvg-chno="5004" tvg-id="Law - Crime " tvg-name="Law - Crime " tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/51c6158b-80d1-4dde-883d-02bbb9a92f65-small3x1_stirr_1219_epg_lawandcrime_1920x1080.png?1576623764110" group-title="STIRR Tv",STIRR | Law & Crime 
@@ -685,8 +708,8 @@ https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
 https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
 #EXTINF:-1 tvg-chno="5008" tvg-id="NASATV" tvg-name="NASATV" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/441fd841-4cd4-42d0-8471-98d55a05ad47-small3x1_STIRR_Logo_0320_NASA_1920x1080_EPG.png?1584561322882" group-title="STIRR Tv",STIRR | NASATV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 tvg-chno="5009" tvg-id="STIRR | tv" tvg-name="STIRR | tv" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/64751cb2-0f74-482b-a55f-b3c20da53a9b-small3x1_stirr_1219_epg_stirrtvmix_1920x1080.png?1576624466457" group-title="STIRR Tv",STIRR | tv
-https://dai.google.com/linear/hls/event/UQrixd_tTG2nC-lOUtw0mQ/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5009" tvg-id="STIRR | tv" tvg-name="STIRR | tv" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/64751cb2-0f74-482b-a55f-b3c20da53a9b-small3x1_stirr_1219_epg_stirrtvmix_1920x1080.png?1576624466457" group-title="STIRR Tv",STIRR | tv
+#commenthttps://dai.google.com/linear/hls/event/UQrixd_tTG2nC-lOUtw0mQ/master.m3u8
 #EXTINF:-1 tvg-chno="5010" tvg-id="Buzzr" tvg-name="Buzzr" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/21acd9d6-373a-4695-9ac0-99a35ea0fc40-small3x1_STIRR_Logo_0320_BUZZR_1920x1080_EPG.png?1585351197130" group-title="STIRR Tv",STIRR | Buzzr
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 #EXTINF:-1 tvg-chno="5011" tvg-id="Dove " tvg-name="Dove " tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/f8e63530-6d3b-478b-b935-d4a834db5a7f-small3x1_stirr_1219_epg_dovechannel_1920x1080.png?1577988653144" group-title="STIRR Tv",STIRR | Dove 
@@ -701,8 +724,8 @@ https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
 https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
 #EXTINF:-1 tvg-chno="5016" tvg-id="Comedy Dynamics" tvg-name="Comedy Dynamics" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/90195c82-4090-472d-9039-09be4e9c472f-small3x1_STIRR_Logo_0320_ComedyDynamics_1920x1080_EPG.png?1584559959311" group-title="STIRR Tv",STIRR | Comedy Dynamics
 https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
-#EXTINF:-1 tvg-chno="5017" tvg-id="BritCom" tvg-name="BritCom" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/3b1f2833-2065-4bf9-a92b-88238158330e-small3x1_STIRR_Logo_0320_Britcom_1920x1080_EPG.png?1584559805717" group-title="STIRR Tv",STIRR | BritCom
-https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5017" tvg-id="BritCom" tvg-name="BritCom" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/3b1f2833-2065-4bf9-a92b-88238158330e-small3x1_STIRR_Logo_0320_Britcom_1920x1080_EPG.png?1584559805717" group-title="STIRR Tv",STIRR | BritCom
+#commenthttps://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 #EXTINF:-1 tvg-chno="5018" tvg-id="Revry" tvg-name="Revry" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/38394c13-f158-4f11-ac90-e9c8f3e5784f-small3x1_STIRR_Logo_0320_Revry_1920x1080_EPG.png?1584561829109" group-title="STIRR Tv",STIRR | Revry
 https://dai.google.com/linear/hls/event/gvO6-Y6TTjCxRf1QALU4VQ/master.m3u8
 #EXTINF:-1 tvg-chno="5019" tvg-id="Popstar! TV" tvg-name="Popstar! TV" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/0e59efc2-cf39-4ae8-a587-c7b83f16b74e-small3x1_STIRR_Logo_0320_PopstarTV_1920x1080_EPG.png?1584561768700" group-title="STIRR Tv",STIRR | Popstar! TV
@@ -715,58 +738,65 @@ https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 #EXTINF:-1 tvg-chno="5023" tvg-id="Dust" tvg-name="Dust" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/9350b637-a354-4916-a408-15f8350ff292-small3x1_stirr_1219_epg_dust_1920x1080.png?1576623975189" group-title="STIRR Tv",STIRR | Dust
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
+#EXTINF:-1 group-title="STIRR Tv",STIRR | DustX
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="5024" tvg-id="Space 1999" tvg-name="Space 1999" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/aaaa25c9-d98a-46b8-8dca-3851ab93d3ee-small3x1_STIRR_Logo_0320_SPACE1999_1920x1080_EPG.png?1584561866784" group-title="STIRR Tv",STIRR | Space 1999
 https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
 #EXTINF:-1 tvg-chno="5025" tvg-id="Mystery Science Theater 3000" tvg-name="Mystery Science Theater 3000" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/ee454d3c-4cbe-4bda-a056-56d037c28705-small3x1_STIRR_Logo_0320_MysteryScienceTheater3000_1920x1080_EPG_2.png?1585087262443" group-title="STIRR Tv",STIRR | Mystery Science Theater 3000
 https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
-#EXTINF:-1 tvg-chno="5026" tvg-id="Greatest American Hero" tvg-name="Greatest American Hero" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/885a4fe2-5dce-4193-8c9b-e72c9b16ae4d-small3x1_stirr_1219_epg_thegreatestamericanhero_1920x1080.png?1576624259557" group-title="STIRR Tv",STIRR | Greatest American Hero
-https://dai.google.com/linear/hls/event/zaW9PVeXQeamNt6SZ9FsOg/master.m3u8
-#EXTINF:-1 tvg-chno="5027" tvg-id="Forensics Files" tvg-name="Forensics Files" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/3e64aff5-e709-4ced-8452-d67728e54718-small3x1_stirr_1219_epg_forensicfiles_1920x1080.png?1576624150836" group-title="STIRR Tv",STIRR | Forensics Files
-https://dai.google.com/linear/hls/event/fJj7BuL_Tv2KjCnNAmLK8g/master.m3u8
-#EXTINF:-1 tvg-chno="5028" tvg-id="Unsolved Mysteries" tvg-name="Unsolved Mysteries" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/5cf60259-ce44-452f-a8a1-cb33585ea701-small3x1_stirr_1219_epg_unsolvedmysteries_1920x1080.png?1575941343067" group-title="STIRR Tv",STIRR | Unsolved Mysteries
-https://dai.google.com/linear/hls/event/iLjE1UKtRCiSNkFatA65bg/master.m3u8
-#EXTINF:-1 tvg-chno="5029" tvg-id="Hunter" tvg-name="Hunter" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/11ca088b-4ef8-41a8-bdfd-8fc62dd4682a-small3x1_stirr_1219_epg_hunter_1920x1080.png?1576624227727" group-title="STIRR Tv",STIRR | Hunter
-https://dai.google.com/linear/hls/event/Z-kHpGoATwyuxIuQEY_3fw/master.m3u8
-#EXTINF:-1 tvg-chno="5030" tvg-id="The Commish" tvg-name="The Commish" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/3a139329-7cdd-40f7-85fa-35d3b68853ca-small3x1_stirr_1219_epg_thecommish_1920x1080.png?1576624189699" group-title="STIRR Tv",STIRR | The Commish
-https://dai.google.com/linear/hls/event/zfyiHhG0TeuoNist_WUwjg/master.m3u8
-#EXTINF:-1 tvg-chno="5031" tvg-id="Wiseguy" tvg-name="Wiseguy" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/5e3b98cb-3de9-4bb2-b775-e487f3a117ca-small3x1_stirr_1219_epg_wiseguy_1920x1080.png?1575941429658" group-title="STIRR Tv",STIRR | Wiseguy
-https://dai.google.com/linear/hls/event/kv03O_9RS8-uRahEGtDcjA/master.m3u8
-#EXTINF:-1 tvg-chno="5032" tvg-id="21 Jump Street" tvg-name="21 Jump Street" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/fff115ea-8e29-48e9-b8bc-42c97e53a29f-small3x1_stirr_1219_epg_21jumpstreet_1920x1080_v2.png?1576028030573" group-title="STIRR Tv",STIRR | 21 Jump Street
-https://dai.google.com/linear/hls/event/UXgY8vuCSgiAlXtckOHm6A/master.m3u8
-#EXTINF:-1 tvg-chno="5033" tvg-id="Crime Story" tvg-name="Crime Story" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/85d2d767-c699-4fbe-b53b-7256107e0c0e-small3x1_stirr_1219_epg_crimestory_1920x1080_v2.png?1576517301267" group-title="STIRR Tv",STIRR | Crime Story
-https://dai.google.com/linear/hls/event/HgozmUlQQviIXFUF23mloA/master.m3u8
-#EXTINF:-1 tvg-chno="5034" tvg-id="Silk Stalkings" tvg-name="Silk Stalkings" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/f391754b-a2f8-4c0e-bdf9-7c40ffe92655-small3x1_stirr_1219_epg_silkstalkings_1920x1080.png?1576018800561" group-title="STIRR Tv",STIRR | Silk Stalkings
-https://dai.google.com/linear/hls/event/8ZYru1fgSY6JL1Ejb6T5Ag/master.m3u8
-#EXTINF:-1 tvg-chno="5035" tvg-id="Hell's Kitchen" tvg-name="Hell's Kitchen" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/e9486527-1ffc-4031-8b91-c954076365f8-small3x1_stirr_1219_epg_hellskitchen_1920x1080.png?1576017232739" group-title="STIRR Tv",STIRR | Hell's Kitchen
-https://sinclair-prod.apigee.net/pemediator/29647b12-693b-41b2-a3c6-484cdda32e7e.m3u8
-#EXTINF:-1 tvg-chno="5036" tvg-id="Kitchen Nightmares" tvg-name="Kitchen Nightmares" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/d3fa0a6c-3f76-46e0-b4d6-5039ee16f5a3-small3x1_stirr_1219_epg_kitchennightmares_1920x1080.png?1576017630826" group-title="STIRR Tv",STIRR | Kitchen Nightmares
-https://sinclair-prod.apigee.net/pemediator/0fdaaae4-1e80-4ea3-ba68-c9b0137233d9.m3u8
-#EXTINF:-1 tvg-chno="5037" tvg-id="Whose Line Is It Anyway" tvg-name="Whose Line Is It Anyway" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/ed57e0b9-7f78-4203-a1d9-b0f542ca856a-small3x1_stirr_1219_epg_whoselineisitanyway_1920x1080.png?1576020729645" group-title="STIRR Tv",STIRR | Whose Line Is It Anyway
-https://dai.google.com/linear/hls/event/SYob3ZZfTwyVW7LILC9ckw/master.m3u8
-#EXTINF:-1 tvg-chno="5038" tvg-id="Laurel - Hardy" tvg-name="Laurel - Hardy" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/b26179ed-d63c-41c0-a422-a2a9cbeb52f4-small3x1_stirr_0120_epg_LaurelandHardy_1920x1080.png?1578423603199" group-title="STIRR Tv",STIRR | Laurel & Hardy
-https://dai.google.com/linear/hls/event/uDdlFsS2S1CqcUkd7KGu4Q/master.m3u8
-#EXTINF:-1 tvg-chno="5039" tvg-id="Beverly Hillbillies" tvg-name="Beverly Hillbillies" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/2855ccff-6344-45e2-a8d0-54982f399f5c-small3x1_stirr_0120_epg_TheBeverlyHillbillies_1920x1080.png?1579123142323" group-title="STIRR Tv",STIRR | Beverly Hillbillies
-https://dai.google.com/linear/hls/event/TEeUv9DbStyK8DyFmG3Cfw/master.m3u8
-#EXTINF:-1 tvg-chno="5040" tvg-id="The Lucy Show" tvg-name="The Lucy Show" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/dbd51b97-8863-49a7-b6cf-f092f4676cf4-small3x1_stirr_0120_epg_TheLucyShow_1920x1080.png?1578423652951" group-title="STIRR Tv",STIRR | The Lucy Show
-https://dai.google.com/linear/hls/event/-s-FtbzrQCaLMDSyM0ejyw/master.m3u8
-#EXTINF:-1 tvg-chno="5041" tvg-id="Bonanza" tvg-name="Bonanza" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/3385dd03-f70f-42e3-b1e6-98b8b5078a8c-small3x1_stirr_0120_epg_Bonanza_1920x1080.png?1579110328947" group-title="STIRR Tv",STIRR | Bonanza
-https://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
-#EXTINF:-1 tvg-chno="5042" tvg-id="The Lone Ranger" tvg-name="The Lone Ranger" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/37204910-429a-4e1a-8c8d-eeb697ae5c62-small3x1_stirr_0120_epg_TheLoneRanger_1920x1080_v3.png?1578433844690" group-title="STIRR Tv",STIRR | The Lone Ranger
-https://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
-#EXTINF:-1 tvg-chno="5043" tvg-id="The Adventures of Sherlock Holmes" tvg-name="The Adventures of Sherlock Holmes" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/8f0ba0f2-e3aa-45ca-bc7c-26d2e4cc79d9-small3x1_stirr_0120_epg_Sherlock_1920x1080.png?1579110243579" group-title="STIRR Tv",STIRR | The Adventures of Sherlock Holmes
-https://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
-#EXTINF:-1 tvg-chno="5044" tvg-id="Real People" tvg-name="Real People" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/61d8a775-ee54-406e-ab70-828eff54bad8-small3x1_stirr_0120_epg_RealPeople_1920x1080.png?1578423922550" group-title="STIRR Tv",STIRR | Real People
-https://dai.google.com/linear/hls/event/RoiVzG-4TJiJMSVUatDd4A/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5026" tvg-id="Greatest American Hero" tvg-name="Greatest American Hero" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/885a4fe2-5dce-4193-8c9b-e72c9b16ae4d-small3x1_stirr_1219_epg_thegreatestamericanhero_1920x1080.png?1576624259557" group-title="STIRR Tv",STIRR | Greatest American Hero
+#commenthttps://dai.google.com/linear/hls/event/zaW9PVeXQeamNt6SZ9FsOg/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5027" tvg-id="Forensics Files" tvg-name="Forensics Files" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/3e64aff5-e709-4ced-8452-d67728e54718-small3x1_stirr_1219_epg_forensicfiles_1920x1080.png?1576624150836" group-title="STIRR Tv",STIRR | Forensics Files
+#commenthttps://dai.google.com/linear/hls/event/fJj7BuL_Tv2KjCnNAmLK8g/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5028" tvg-id="Unsolved Mysteries" tvg-name="Unsolved Mysteries" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/5cf60259-ce44-452f-a8a1-cb33585ea701-small3x1_stirr_1219_epg_unsolvedmysteries_1920x1080.png?1575941343067" group-title="STIRR Tv",STIRR | Unsolved Mysteries
+#commenthttps://dai.google.com/linear/hls/event/iLjE1UKtRCiSNkFatA65bg/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5029" tvg-id="Hunter" tvg-name="Hunter" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/11ca088b-4ef8-41a8-bdfd-8fc62dd4682a-small3x1_stirr_1219_epg_hunter_1920x1080.png?1576624227727" group-title="STIRR Tv",STIRR | Hunter
+#commenthttps://dai.google.com/linear/hls/event/Z-kHpGoATwyuxIuQEY_3fw/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5030" tvg-id="The Commish" tvg-name="The Commish" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/3a139329-7cdd-40f7-85fa-35d3b68853ca-small3x1_stirr_1219_epg_thecommish_1920x1080.png?1576624189699" group-title="STIRR Tv",STIRR | The Commish
+#commenthttps://dai.google.com/linear/hls/event/zfyiHhG0TeuoNist_WUwjg/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5031" tvg-id="Wiseguy" tvg-name="Wiseguy" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/5e3b98cb-3de9-4bb2-b775-e487f3a117ca-small3x1_stirr_1219_epg_wiseguy_1920x1080.png?1575941429658" group-title="STIRR Tv",STIRR | Wiseguy
+#commenthttps://dai.google.com/linear/hls/event/kv03O_9RS8-uRahEGtDcjA/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5032" tvg-id="21 Jump Street" tvg-name="21 Jump Street" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/fff115ea-8e29-48e9-b8bc-42c97e53a29f-small3x1_stirr_1219_epg_21jumpstreet_1920x1080_v2.png?1576028030573" group-title="STIRR Tv",STIRR | 21 Jump Street
+#commenthttps://dai.google.com/linear/hls/event/UXgY8vuCSgiAlXtckOHm6A/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5033" tvg-id="Crime Story" tvg-name="Crime Story" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/85d2d767-c699-4fbe-b53b-7256107e0c0e-small3x1_stirr_1219_epg_crimestory_1920x1080_v2.png?1576517301267" group-title="STIRR Tv",STIRR | Crime Story
+#commenthttps://dai.google.com/linear/hls/event/HgozmUlQQviIXFUF23mloA/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5034" tvg-id="Silk Stalkings" tvg-name="Silk Stalkings" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/f391754b-a2f8-4c0e-bdf9-7c40ffe92655-small3x1_stirr_1219_epg_silkstalkings_1920x1080.png?1576018800561" group-title="STIRR Tv",STIRR | Silk Stalkings
+#commenthttps://dai.google.com/linear/hls/event/8ZYru1fgSY6JL1Ejb6T5Ag/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5035" tvg-id="Hell's Kitchen" tvg-name="Hell's Kitchen" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/e9486527-1ffc-4031-8b91-c954076365f8-small3x1_stirr_1219_epg_hellskitchen_1920x1080.png?1576017232739" group-title="STIRR Tv",STIRR | Hell's Kitchen
+#commenthttps://sinclair-prod.apigee.net/pemediator/29647b12-693b-41b2-a3c6-484cdda32e7e.m3u8
+#comment#EXTINF:-1 tvg-chno="5036" tvg-id="Kitchen Nightmares" tvg-name="Kitchen Nightmares" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/d3fa0a6c-3f76-46e0-b4d6-5039ee16f5a3-small3x1_stirr_1219_epg_kitchennightmares_1920x1080.png?1576017630826" group-title="STIRR Tv",STIRR | Kitchen Nightmares
+#commenthttps://sinclair-prod.apigee.net/pemediator/0fdaaae4-1e80-4ea3-ba68-c9b0137233d9.m3u8
+#comment#EXTINF:-1 tvg-chno="5037" tvg-id="Whose Line Is It Anyway" tvg-name="Whose Line Is It Anyway" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/ed57e0b9-7f78-4203-a1d9-b0f542ca856a-small3x1_stirr_1219_epg_whoselineisitanyway_1920x1080.png?1576020729645" group-title="STIRR Tv",STIRR | Whose Line Is It Anyway
+#commenthttps://dai.google.com/linear/hls/event/SYob3ZZfTwyVW7LILC9ckw/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5038" tvg-id="Laurel - Hardy" tvg-name="Laurel - Hardy" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/b26179ed-d63c-41c0-a422-a2a9cbeb52f4-small3x1_stirr_0120_epg_LaurelandHardy_1920x1080.png?1578423603199" group-title="STIRR Tv",STIRR | Laurel & Hardy
+#commenthttps://dai.google.com/linear/hls/event/uDdlFsS2S1CqcUkd7KGu4Q/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5039" tvg-id="Beverly Hillbillies" tvg-name="Beverly Hillbillies" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/2855ccff-6344-45e2-a8d0-54982f399f5c-small3x1_stirr_0120_epg_TheBeverlyHillbillies_1920x1080.png?1579123142323" group-title="STIRR Tv",STIRR | Beverly Hillbillies
+#commenthttps://dai.google.com/linear/hls/event/TEeUv9DbStyK8DyFmG3Cfw/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5040" tvg-id="The Lucy Show" tvg-name="The Lucy Show" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/dbd51b97-8863-49a7-b6cf-f092f4676cf4-small3x1_stirr_0120_epg_TheLucyShow_1920x1080.png?1578423652951" group-title="STIRR Tv",STIRR | The Lucy Show
+#commenthttps://dai.google.com/linear/hls/event/-s-FtbzrQCaLMDSyM0ejyw/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5041" tvg-id="Bonanza" tvg-name="Bonanza" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/3385dd03-f70f-42e3-b1e6-98b8b5078a8c-small3x1_stirr_0120_epg_Bonanza_1920x1080.png?1579110328947" group-title="STIRR Tv",STIRR | Bonanza
+#commenthttps://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5042" tvg-id="The Lone Ranger" tvg-name="The Lone Ranger" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/37204910-429a-4e1a-8c8d-eeb697ae5c62-small3x1_stirr_0120_epg_TheLoneRanger_1920x1080_v3.png?1578433844690" group-title="STIRR Tv",STIRR | The Lone Ranger
+#commenthttps://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5043" tvg-id="The Adventures of Sherlock Holmes" tvg-name="The Adventures of Sherlock Holmes" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/8f0ba0f2-e3aa-45ca-bc7c-26d2e4cc79d9-small3x1_stirr_0120_epg_Sherlock_1920x1080.png?1579110243579" group-title="STIRR Tv",STIRR | The Adventures of Sherlock Holmes
+#commenthttps://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5044" tvg-id="Real People" tvg-name="Real People" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/61d8a775-ee54-406e-ab70-828eff54bad8-small3x1_stirr_0120_epg_RealPeople_1920x1080.png?1578423922550" group-title="STIRR Tv",STIRR | Real People
+#commenthttps://dai.google.com/linear/hls/event/RoiVzG-4TJiJMSVUatDd4A/master.m3u8
 #EXTINF:-1 tvg-chno="5045" tvg-id="STIRR | movies" tvg-name="STIRR | movies" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/5fd662e5-864f-4739-a6ec-67f00b2d95c7-small3x1_stirr_1219_epg_stirrmovies_1920x1080.png?1576019523553" group-title="STIRR Tv",STIRR | movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-#EXTINF:-1 tvg-chno="5046" tvg-id="STIRR Comedy " tvg-name="STIRR Comedy " tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/990dca91-04c1-4795-b958-75339be1d01e-small3x1_stirr_1219_epg_stirrcomedy_1920x1080.png?1576019348381" group-title="STIRR Tv",STIRR |  Comedy 
-https://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8
-#EXTINF:-1 tvg-chno="5047" tvg-id="STIRR Horror Movies" tvg-name="STIRR Horror Movies" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/0a9b36ef-1240-47c1-a7e6-5ed04648ad72-small3x1_stirr_1219_epg_stirrhorror_1920x1080.png?1576019461774" group-title="STIRR Tv",STIRR |  Horror Movies
-https://dai.google.com/linear/hls/event/3P6eoQ_ARgeofjgKUyVI6w/master.m3u8
+
+#EXTINF:-1 group-title="STIRR Tv",STIRR | Star Movies (720p)
+https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
+
+#comment#EXTINF:-1 tvg-chno="5046" tvg-id="STIRR Comedy " tvg-name="STIRR Comedy " tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/990dca91-04c1-4795-b958-75339be1d01e-small3x1_stirr_1219_epg_stirrcomedy_1920x1080.png?1576019348381" group-title="STIRR Tv",STIRR |  Comedy 
+#commenthttps://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8
+#EXTINF:-1 tvg-chno="5047" tvg-id="STIRR Cine House" tvg-name="STIRR Cine House" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/0a9b36ef-1240-47c1-a7e6-5ed04648ad72-small3x1_stirr_1219_epg_stirrhorror_1920x1080.png?1576019461774" group-title="STIRR Tv",STIRR |  CineHouse
+#commenthttps://dai.google.com/linear/hls/event/3P6eoQ_ARgeofjgKUyVI6w/master.m3u8
+https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
 #EXTINF:-1 tvg-chno="5048" tvg-id="STIRR Westerns" tvg-name="STIRR Westerns" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/51ae9480-f6ae-4c26-9518-b32bd8aa99e5-small3x1_stirr_1219_epg_stirrwesterns_1920x1080.png?1576020337739" group-title="STIRR Tv",STIRR |  Westerns
 https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
-#EXTINF:-1 tvg-chno="5049" tvg-id="STIRR Black Cinema" tvg-name="STIRR Black Cinema" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/9625f6a4-43d3-46c2-a87a-8592261c0996-small3x1_stirr_1219_epg_stirrblackcinema_1920x1080.png?1576019266683" group-title="STIRR Tv",STIRR | Black Cinema
-https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5049" tvg-id="STIRR Black Cinema" tvg-name="STIRR Black Cinema" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/9625f6a4-43d3-46c2-a87a-8592261c0996-small3x1_stirr_1219_epg_stirrblackcinema_1920x1080.png?1576019266683" group-title="STIRR Tv",STIRR | Black Cinema
+#commenthttps://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8
 #EXTINF:-1 tvg-chno="5050" tvg-id="Film Detective" tvg-name="Film Detective" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/8b882761-8e2a-41f5-b715-9dce3741aa49-small3x1_stirr_0120_epg_TheFilmDetective_1920x1080.png?1578423407605" group-title="STIRR Tv",STIRR | Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 tvg-chno="5051" tvg-id="The Asylum" tvg-name="The Asylum" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/928ad78f-cfec-4334-bd53-0aa8da0c2041-small3x1_stirr_1219_epg_theasylum_1920x1080.png?1576020379335" group-title="STIRR Tv",STIRR | The Asylum
@@ -779,24 +809,24 @@ https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 #EXTINF:-1 tvg-chno="5055" tvg-id="Movie Mix" tvg-name="Movie Mix" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/7dfc8d97-0c37-40f0-b251-5eacf509d891-small3x1_stirr_1219_epg_moviemix_1920x1080.png?1576017989167" group-title="STIRR Tv",STIRR | Movie Mix
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:-1 tvg-chno="5056" tvg-id="STIRR Biographies" tvg-name="STIRR Biographies" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/c4e67151-bef0-42f2-8305-02f242ea1543-small3x1_stirr_0120_epg_STIRRBiographies_1920x1080.png?1578423358252" group-title="STIRR Tv",STIRR | Biographies
-https://dai.google.com/linear/hls/event/OzhtmoTQQjSNOimI6ikGCQ/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5056" tvg-id="STIRR Biographies" tvg-name="STIRR Biographies" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/c4e67151-bef0-42f2-8305-02f242ea1543-small3x1_stirr_0120_epg_STIRRBiographies_1920x1080.png?1578423358252" group-title="STIRR Tv",STIRR | Biographies
+#commenthttps://dai.google.com/linear/hls/event/OzhtmoTQQjSNOimI6ikGCQ/master.m3u8
 #EXTINF:-1 tvg-chno="5057" tvg-id="Docurama" tvg-name="Docurama" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/64e1e4f2-5aa5-49d8-bd74-a692313d0473-small3x1_stirr_0120_epg_Docurama_1920x1080.png?1578423444816" group-title="STIRR Tv",STIRR | Docurama
 https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
 #EXTINF:-1 tvg-chno="5058" tvg-id="MagellanTV" tvg-name="MagellanTV" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/8719b6b1-9dbd-4661-8a30-c351bbf91219-small3x1_stirr_0120_epg_MagellanTV_1920x1080.png?1578681205301" group-title="STIRR Tv",MagellanTV
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
-#EXTINF:-1 tvg-chno="5059" tvg-id="InWonder" tvg-name="InWonder" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/e67f56ca-97c0-4830-9e28-57c559d94dfd-small3x1_STIRR_Logo_0320_INWonder_1920x1080_EPG.png?1584560577155" group-title="STIRR Tv",STIRR | InWonder
-https://dai.google.com/linear/hls/event/QiQc47LCQDep-t9pkaGIVg/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5059" tvg-id="InWonder" tvg-name="InWonder" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/e67f56ca-97c0-4830-9e28-57c559d94dfd-small3x1_STIRR_Logo_0320_INWonder_1920x1080_EPG.png?1584560577155" group-title="STIRR Tv",STIRR | InWonder
+#commenthttps://dai.google.com/linear/hls/event/QiQc47LCQDep-t9pkaGIVg/master.m3u8
 #EXTINF:-1 tvg-chno="5060" tvg-id="Big Life " tvg-name="Big Life " tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/d461a675-af3d-41c9-8c78-aecec5fe80ab-small3x1_stirr_1219_epg_biglifetv_1920x1080.png?1576010373482" group-title="STIRR Tv",STIRR | Big Life 
 https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="5061" tvg-id="Glewed TV" tvg-name="Glewed TV" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/89b390bb-1351-4f08-82dd-a8b9dca9c33a-small3x1_stirr_1219_epg_glewedtv_1920x1080.png?1576017136005" group-title="STIRR Tv",STIRR | Glewed TV
 https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
-#EXTINF:-1 tvg-chno="5062" tvg-id="STIRR Fit" tvg-name="STIRR Fit" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/1514a022-e768-4276-a25e-1646d37a6f12-small3x1_stirr_0120_epg_stirr_fit_1920x1080.png?1583440072558" group-title="STIRR Tv",STIRR | Fit
-https://dai.google.com/linear/hls/event/ZidoyK28TXyMRTZU7rFuEQ/master.m3u8
-#EXTINF:-1 tvg-chno="5063" tvg-id="STIRR Travel" tvg-name="STIRR Travel" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/2adc9fb0-a8dd-4fc4-ac6e-9287f54c37e9-small3x1_STIRR_Logo_0320_STIRRTravel_1920x1080_EPG.png?1584561994673" group-title="STIRR Tv",STIRR | Travel
-https://dai.google.com/linear/hls/event/0ZXyCbn9TYmrrAzcDfoU1w/master.m3u8
-#EXTINF:-1 tvg-chno="5064" tvg-id="STIRR Cooks" tvg-name="STIRR Cooks" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/d2379062-d570-4ce6-ad7d-a31417eb5b27-small3x1_STIRR_Logo_0320_STIRRCooks_1920x1080_EPG.png?1584561963680" group-title="STIRR Tv",STIRR | Cooks
-https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5062" tvg-id="STIRR Fit" tvg-name="STIRR Fit" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/1514a022-e768-4276-a25e-1646d37a6f12-small3x1_stirr_0120_epg_stirr_fit_1920x1080.png?1583440072558" group-title="STIRR Tv",STIRR | Fit
+#commenthttps://dai.google.com/linear/hls/event/ZidoyK28TXyMRTZU7rFuEQ/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5063" tvg-id="STIRR Travel" tvg-name="STIRR Travel" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/2adc9fb0-a8dd-4fc4-ac6e-9287f54c37e9-small3x1_STIRR_Logo_0320_STIRRTravel_1920x1080_EPG.png?1584561994673" group-title="STIRR Tv",STIRR | Travel
+#commenthttps://dai.google.com/linear/hls/event/0ZXyCbn9TYmrrAzcDfoU1w/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5064" tvg-id="STIRR Cooks" tvg-name="STIRR Cooks" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/d2379062-d570-4ce6-ad7d-a31417eb5b27-small3x1_STIRR_Logo_0320_STIRRCooks_1920x1080_EPG.png?1584561963680" group-title="STIRR Tv",STIRR | Cooks
+#commenthttps://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
 #EXTINF:-1 tvg-chno="5065" tvg-id="Gusto" tvg-name="Gusto" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/2be3bd47-2b8b-4bb4-83d2-924f59a261e3-small3x1_STIRR_Logo_0320_GustoTV_1920x1080_EPG.png?1584560371730" group-title="STIRR Tv",STIRR | Gusto
 https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8
 #EXTINF:-1 tvg-chno="5066" tvg-id="Truly" tvg-name="Truly" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/ed531a2a-04cd-4845-a419-cc46ed05333b-small3x1_STIRR_Logo_0320_Truly_1920x1080_EPG.png?1584562091344" group-title="STIRR Tv",STIRR | Truly
@@ -811,8 +841,8 @@ https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
 https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
 #EXTINF:-1 tvg-chno="5071" tvg-id="FailArmy" tvg-name="FailArmy" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/3d50d31f-5b81-4560-b7a7-16bcf6a6fb5a-small3x1_stirr_1219_epg_failarmy_1920x1080.png?1576016422969" group-title="STIRR Tv",STIRR | FailArmy
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF:-1 tvg-chno="5072" tvg-id="STIRR | sports" tvg-name="STIRR | sports" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/a43594d1-364b-4e0c-8647-0d117973a641-small3x1_stirr_1219_epg_stirrsports_1920x1080.png?1576019645577" group-title="STIRR Tv",STIRR | sports
-https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5072" tvg-id="STIRR | sports" tvg-name="STIRR | sports" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/a43594d1-364b-4e0c-8647-0d117973a641-small3x1_stirr_1219_epg_stirrsports_1920x1080.png?1576019645577" group-title="STIRR Tv",STIRR | sports
+#commenthttps://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
 #EXTINF:-1 tvg-chno="5073" tvg-id="Stadium " tvg-name="Stadium " tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/b4e26296-be68-4e3d-beda-04e81f4d34ee-small3x1_stirr_1219_epg_stadium_1920x1080.png?1576018965230" group-title="STIRR Tv",STIRR | Stadium 
 https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
 #EXTINF:-1 tvg-chno="5074" tvg-id="The T" tvg-name="The T" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/887ab420-6923-4600-b1ed-3cba74db10fd-small3x1_STIRR_Logo_0320_TheT_1920x1080_EPG.png?1584562044540" group-title="STIRR Tv",STIRR | The T
@@ -821,8 +851,8 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 #EXTINF:-1 tvg-chno="5076" tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/8b115727-b06f-4259-8a9f-1163d81b955d-small3x1_STIRR_Logo_0320_WorldPokerTour_1920x1080_EPG.png?1584652964461" group-title="STIRR Tv",STIRR | World Poker Tour
 https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
-#EXTINF:-1 tvg-chno="5077" tvg-id="Combat Go" tvg-name="Combat Go" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/849f3b26-39dd-4f9d-b902-96006dfd5517-small3x1_stirr_1219_epg_combatgo_1920x1080.png?1576010585863" group-title="STIRR Tv",STIRR | Combat Go
-https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5077" tvg-id="Combat Go" tvg-name="Combat Go" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/849f3b26-39dd-4f9d-b902-96006dfd5517-small3x1_stirr_1219_epg_combatgo_1920x1080.png?1576010585863" group-title="STIRR Tv",STIRR | Combat Go
+#commenthttps://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
 #EXTINF:-1 tvg-chno="5078" tvg-id="Whistle TV" tvg-name="Whistle TV" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/2cbf9983-6f7c-49f0-8343-416f93d9e8ed-small3x1_STIRR_Logo_0320_WhistleTV_1920x1080_EPG.png?1584562166124" group-title="STIRR Tv",Whistle TV
 https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
 #EXTINF:-1 tvg-chno="5079" tvg-id="Choppertown" tvg-name="Choppertown" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/7b1c655c-1037-4372-884f-97b8921ac8d2-small3x1_STIRR_Logo_0320_Choppertown_1920x1080_EPG.png?1584566957241" group-title="STIRR Tv",STIRR | Choppertown
@@ -833,18 +863,18 @@ https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
 https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
 #EXTINF:-1 tvg-chno="5082" tvg-id="EDGESport" tvg-name="EDGESport" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/9661e155-c5b8-43f3-9e1c-0e87cb75ae94-small3x1_STIRR_Logo_0320_EdgeSport_1920x1080_EPG.png?1584560029899" group-title="STIRR Tv",STIRR | EDGESport
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
-#EXTINF:-1 tvg-chno="5083" tvg-id="InTrouble" tvg-name="InTrouble" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/e5b6171b-31bd-4ae7-98c0-10bbf9589f70-small3x1_STIRR_Logo_0320_INTrouble_1920x1080_EPG.png?1584560535302" group-title="STIRR Tv",STIRR | InTrouble
-https://dai.google.com/linear/hls/event/_af28lUaQjuoPhfAU_BYQA/master.m3u8
-#EXTINF:-1 tvg-chno="5084" tvg-id="ESRevolution" tvg-name="ESRevolution" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/3e896322-56cd-4017-81aa-84d8962455fb-small3x1_STIRR_Logo_0320_ESR24x7eSportsChannel_1920x1080_EPG.png?1584560246873" group-title="STIRR Tv",STIRR | ESRevolution
-https://dai.google.com/linear/hls/event/7-91LhuBQNONHzAbrFQr-Q/master.m3u8
-#EXTINF:-1 tvg-chno="5085" tvg-id="Mobcrush" tvg-name="Mobcrush" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/ee4d67e0-234a-4e68-a174-a2f40654482a-small3x1_STIRR_Logo_0320_Mobcrush_1920x1080_EPG.png?1584561255597" group-title="STIRR Tv",STIRR | Mobcrush
-https://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
-#EXTINF:-1 tvg-chno="5086" tvg-id="STIRR Music" tvg-name="STIRR Music" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/4401089e-ca2f-440c-918b-0628369b6b18-small3x1_stirr_1219_epg_stirrmusic_1920x1080.png?1576019574472" group-title="STIRR Tv",STIRR | Music
-https://dai.google.com/linear/hls/event/_e1csFnJR6W6y056PyiG6A/master.m3u8
-#EXTINF:-1 tvg-chno="5087" tvg-id="Baeble Music" tvg-name="Baeble Music" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/21481f0f-1ca5-46f5-9488-9f28d0bb7153-small3x1_STIRR_Logo_0320_BAEBLEMusic_1920x1080_EPG.png?1584559703482" group-title="STIRR Tv",STIRR | Baeble Music
-https://dai.google.com/linear/hls/event/HuoWULBBQFKJalbtsd7qPw/master.m3u8
-#EXTINF:-1 tvg-chno="5088" tvg-id="Hallypop" tvg-name="Hallypop" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/5ff731ca-b389-4f24-84ca-c5a722a28308-small3x1_STIRR_Logo_0320_Hallypop_1920x1080_EPG.png?1584560424812" group-title="STIRR Tv",STIRR | Hallypop
-https://dai.google.com/linear/hls/event/ctGD-E18Q0-3WScFd_tK5w/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5083" tvg-id="InTrouble" tvg-name="InTrouble" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/e5b6171b-31bd-4ae7-98c0-10bbf9589f70-small3x1_STIRR_Logo_0320_INTrouble_1920x1080_EPG.png?1584560535302" group-title="STIRR Tv",STIRR | InTrouble
+#commenthttps://dai.google.com/linear/hls/event/_af28lUaQjuoPhfAU_BYQA/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5084" tvg-id="ESRevolution" tvg-name="ESRevolution" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/3e896322-56cd-4017-81aa-84d8962455fb-small3x1_STIRR_Logo_0320_ESR24x7eSportsChannel_1920x1080_EPG.png?1584560246873" group-title="STIRR Tv",STIRR | ESRevolution
+#commenthttps://dai.google.com/linear/hls/event/7-91LhuBQNONHzAbrFQr-Q/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5085" tvg-id="Mobcrush" tvg-name="Mobcrush" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/ee4d67e0-234a-4e68-a174-a2f40654482a-small3x1_STIRR_Logo_0320_Mobcrush_1920x1080_EPG.png?1584561255597" group-title="STIRR Tv",STIRR | Mobcrush
+#commenthttps://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5086" tvg-id="STIRR Music" tvg-name="STIRR Music" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/4401089e-ca2f-440c-918b-0628369b6b18-small3x1_stirr_1219_epg_stirrmusic_1920x1080.png?1576019574472" group-title="STIRR Tv",STIRR | Music
+#commenthttps://dai.google.com/linear/hls/event/_e1csFnJR6W6y056PyiG6A/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5087" tvg-id="Baeble Music" tvg-name="Baeble Music" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/21481f0f-1ca5-46f5-9488-9f28d0bb7153-small3x1_STIRR_Logo_0320_BAEBLEMusic_1920x1080_EPG.png?1584559703482" group-title="STIRR Tv",STIRR | Baeble Music
+#commenthttps://dai.google.com/linear/hls/event/HuoWULBBQFKJalbtsd7qPw/master.m3u8
+#comment#EXTINF:-1 tvg-chno="5088" tvg-id="Hallypop" tvg-name="Hallypop" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/5ff731ca-b389-4f24-84ca-c5a722a28308-small3x1_STIRR_Logo_0320_Hallypop_1920x1080_EPG.png?1584560424812" group-title="STIRR Tv",STIRR | Hallypop
+#commenthttps://dai.google.com/linear/hls/event/ctGD-E18Q0-3WScFd_tK5w/master.m3u8
 #EXTINF:-1 tvg-chno="5089" tvg-id="Stingray Holiday Hits" tvg-name="Stingray Holiday Hits" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/518a9541-fade-45ec-9d64-5b0a65806270-small3x1_stirr_1219_epg_stingraygreatesthits_1920x1080.png?1577988417815" group-title="STIRR Tv",Stingray Holiday Hits
 https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
 #EXTINF:-1 tvg-chno="5090" tvg-id="Stingray Hit List" tvg-name="Stingray Hit List" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/d35ab388-cc91-4070-876d-b5c48d989a60-small3x1_stirr_1219_epg_singrayhitlist_1920x1080.png?1576018854758" group-title="STIRR Tv",STIRR | Stingray Hit List
