@@ -117,6 +117,7 @@ http://tv.romanatv42.com/hls/live.m3u8
 #commenthttp://stmv.panel.grupolimalive.com/cineperu/cineperu/playlist.m3u8
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="127494" tvg-name="Boomerang" tvg-logo="https://lh3.googleusercontent.com/-GVKVCBZ1ryg/YBsb5fRaNOI/AAAAAAAA_qk/6puCkYZaRUkrhUHzzMnHGL2CUMO94ij2ACK8BGAsYHg/s0/2021-02-03.png" group-title="MOVIES", Boomerang
 http://8.9.4.128:8080/hls/boomerangtv.m3u8
 
@@ -1315,6 +1316,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumotastemade/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Made in Hollywood
 https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 group-title="The Roku Channel", Paramont Plus
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/600728952b1776000776526d/subtitle/es/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=0daadc6c-ea75-43cc-8150-c40c78584f35&deviceVersion=92.0.4515&appVersion=5.104.2-5c728f3f07737b51626ef8b59bb44e9c9949171f&deviceType=web&deviceMake=chrome&sid=904b1dd9-338b-11ec-8799-0242ac110003&advertisingId=&deviceLat=20.0403&deviceLon=-102.3092&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImMyYjU1MGVlLWQ2M2MtNDlkZC04NWU2LTYyOTVhNWI4N2VhZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI5MDRiMWRkOS0zMzhiLTExZWMtODc5OS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE4OS4xMzUuMTAwLjU4IiwiY2l0eSI6IlphbW9yYSIsInBvc3RhbENvZGUiOiI1OTY0MCIsImNvdW50cnkiOiJNWCIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOjIwLjA0MDMsImRldmljZUxvbiI6LTEwMi4zMDkyLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5Mi4wLjQ1MTUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjUuMTA0LjItNWM3MjhmM2YwNzczN2I1MTYyNmVmOGI1OWJiNDRlOWM5OTQ5MTcxZiIsImNsaWVudElEIjoiMGRhYWRjNmMtZWE3NS00M2NjLTgxNTAtYzQwYzc4NTg0ZjM1IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvTWV4aWNvX0NpdHkiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnt9LCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjM0OTcyMzA1LCJqdGkiOiJmNWU5YzBkZi05YWVkLTQ1MTMtYjM2Mi04YTBlZTgwYTEzNjEiLCJpYXQiOjE2MzQ5NDM1MDUsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpNR1JoWVdSak5tTXRaV0UzTlMwME0yTmpMVGd4TlRBdFl6UXdZemM0TlRnMFpqTTEifQ._RPtTAz26TZE9WbqXTvur3KLLA3xglbV8IVpRMFkUdo
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="The Roku Channel",Nuestra Vision USA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
@@ -1361,6 +1365,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.
 
 #comment#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 4
 #commenthttps://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626914503/ei/Z2r4YKC-FtbEhwbNtrKIDQ/ip/2806%3A103e%3A6%3A5630%3A659d%3Aa80f%3A4a41%3A15ea/id/QlMUZM5sWkg.1/source/yt_live_broadcast/requiressl/yes/tx/24011362/txs/24011361%2C24011362%2C24011363/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAO3Gt3wheGP-Eb6SPtA0VdwgSmFq51BXp2JuH9btzQ4SAiEAihnNyhtz1Yvlc_i_o2YKC1z9XVSFCkcbDF-Lg6OuFSM%3D/file/index.m3u8
+
+
 
 
 
