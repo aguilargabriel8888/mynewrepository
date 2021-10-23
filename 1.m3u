@@ -1926,6 +1926,25 @@ https://linear-203.frequency.stream/dist/localnow/203/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Movies Plus",Movies of the '30s & '40s
 https://linear-204.frequency.stream/dist/localnow/204/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="Movies Plus",23 ABC Bakersfield CA (KERO) (720p)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 group-title="Movies Plus",ABC 2 Atlanta GA (WSB-TV) (720p)
+https://d2rwx6gwduugne.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10010_183ec1c7-4183-4661-803b-3ed282ffb625_LE/in/cmg-wsbtvnow-hls-v3/live.m3u8
+#EXTINF:-1 group-title="Movies Plus",ABC 4 Seattle WA (KOMO-TV) (720p)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 group-title="Movies Plus",ABC 5 Cleveland OH (WEWS-TV) (1080p)
+https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
+#EXTINF:-1 group-title="Movies Plus",Akaku 53 (Hawaii) (720p)
+https://akaku.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 group-title="Movies Plus",Akaku 54 (Hawaii) (720p)
+https://akaku.vod.castus.tv/live/ch2.m3u8
+#EXTINF:-1 group-title="Movies Plus",Akaku 55 (Hawaii) (720p)
+https://akaku.vod.castus.tv/live/ch3.m3u8
+#EXTINF:-1 group-title="Movies Plus",Antenna TV West (KMSG-LD5) (432p)
+https://cdn87.theus6tv.tk/locals/Fresno/kmsg-43.5.m3u8
+#EXTINF:-1 group-title="Movies Plus",CBS 6 Albany NY (WRGB) (720p)
+https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjg4NDg5NDNf/Hallmark-More_760x760.png" group-title="Movies Plus",Hallmark Movies & More | HD
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8?p=roku
