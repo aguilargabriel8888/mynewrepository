@@ -1945,6 +1945,23 @@ https://cdn87.theus6tv.tk/locals/Fresno/kmsg-43.5.m3u8
 #EXTINF:-1 group-title="Movies Plus",CBS 6 Albany NY (WRGB) (720p)
 https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
 
+#EXTINF:-1 group-title="Movies Plus",ABC Kids (720p) [Not 24/7]
+https://c.mjh.nz/101002210222
+#EXTINF:-1 group-title="Movies Plus",ABC TV (720p)
+https://c.mjh.nz/3201026102E1
+#EXTINF:-1 group-title="Movies Plus",ABC TV (720p)
+https://c.mjh.nz/101002210221
+#EXTINF:-1 group-title="Movies Plus",ABC TV (720p)
+https://c.mjh.nz/101002310231
+#EXTINF:-1 group-title="Movies Plus",ABC TV (720p)
+https://c.mjh.nz/101002510251
+#EXTINF:-1 group-title="Movies Plus",ABC TV (720p)
+https://c.mjh.nz/101002710271
+#EXTINF:-1 group-title="Movies Plus",ABC TV (720p)
+https://c.mjh.nz/101002810281
+#EXTINF:-1 group-title="Movies Plus",ABC TV Plus (720p)
+https://c.mjh.nz/abc2
+
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjg4NDg5NDNf/Hallmark-More_760x760.png" group-title="Movies Plus",Hallmark Movies & More | HD
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8?p=roku
