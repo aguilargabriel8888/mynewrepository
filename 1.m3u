@@ -17,6 +17,11 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 #EXTINF:-1 tvg-id="" group-title="THE_BEST_KIDS_TV",PBS Kids San Diego (KPBS-DT4) (432p)
 https://cdn87.theus6tv.tk/locals/SanDiego/kpbs-dt4.m3u8
 
+#EXTINF:-1 group-title="THE_BEST_KIDS_TV",ABC Kids (720p) [Not 24/7]
+https://c.mjh.nz/101002210222
+#EXTINF:-1 group-title="THE_BEST_KIDS_TV",ABC ME (720p)
+https://c.mjh.nz/101002210224
+
 
 #comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",CBBC
 #commenthttps://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/index.m3u8
@@ -1945,10 +1950,6 @@ https://cdn87.theus6tv.tk/locals/Fresno/kmsg-43.5.m3u8
 #EXTINF:-1 group-title="Movies Plus",CBS 6 Albany NY (WRGB) (720p)
 https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
 
-#EXTINF:-1 group-title="Movies Plus",ABC Kids (720p) [Not 24/7]
-https://c.mjh.nz/101002210222
-#EXTINF:-1 group-title="Movies Plus",ABC ME (720p)
-https://c.mjh.nz/101002210224
 #EXTINF:-1 group-title="Movies Plus",ABC TV (720p)
 https://c.mjh.nz/3201026102E1
 #EXTINF:-1 group-title="Movies Plus",ABC TV (720p)
@@ -2215,6 +2216,9 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuweatherspy/CDN
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Made in Hollywood
 https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",Roku | DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-id="c6ea97" tvg-name="Crackle" tvg-chno="220" tvg-logo="https://i.imgur.com/9EgtUok.png" group-title="The Roku Channel",Crackle 
 https://crackle-plex.amagi.tv/playlist.m3u8
