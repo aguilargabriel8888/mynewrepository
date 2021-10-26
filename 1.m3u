@@ -2217,26 +2217,26 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuweatherspy/CDN
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Made in Hollywood
 https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",Roku | tbs
-http://live.tv247.club/live/tbs.m3u8
+#comment#EXTINF:-1 group-title="The Roku Channel",Roku | tbs
+#commenthttp://live.tv247.club/live/tbs.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",Roku | cbs
-http://live.tv247.club/live/cbs.m3u8
+#comment#EXTINF:-1 group-title="The Roku Channel",Roku | cbs
+#commenthttp://live.tv247.club/live/cbs.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",Roku | FX
-http://live.tv247.club/live/fxx.m3u8
+#comment#EXTINF:-1 group-title="The Roku Channel",Roku | FX
+#commenthttp://live.tv247.club/live/fxx.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",Roku | MLB
-http://live.tv247.club/live/mlb.m3u8
+#comment#EXTINF:-1 group-title="The Roku Channel",Roku | MLB
+#commenthttp://live.tv247.club/live/mlb.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",Roku | FOX
-http://cdn.tv247.us/channel2/fox.m3u8
+#comment#EXTINF:-1 group-title="The Roku Channel",Roku | FOX
+#commenthttp://cdn.tv247.us/channel2/fox.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",Roku | Cinemax
-http://live.tv247.club/live/cinemax.m3u8
+#comment#EXTINF:-1 group-title="The Roku Channel",Roku | Cinemax
+#commenthttp://live.tv247.club/live/cinemax.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",Roku | CW
-http://live.tv247.club/live/cw.m3u8
+#comment#EXTINF:-1 group-title="The Roku Channel",Roku | CW
+#commenthttp://live.tv247.club/live/cw.m3u8
 
 #EXTINF:-1 group-title="The Roku Channel",Roku | ABC
 http://cdn.tv247.us/channel2/abc.m3u8
