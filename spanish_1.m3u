@@ -1317,7 +1317,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumotastemade/CDN/master.m3u8
 https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="The Roku Channel", Paramont Plus
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/600728952b1776000776526d/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=b18d0ded-daa4-4f00-a42a-21bdf9506cdb&deviceVersion=88.0.0&appVersion=5.104.2-5c728f3f07737b51626ef8b59bb44e9c9949171f&deviceType=web&deviceMake=firefox&sid=14ad83b1-3393-11ec-b550-0242ac110003&advertisingId=&deviceLat=20.0403&deviceLon=-102.3092&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImMyYjU1MGVlLWQ2M2MtNDlkZC04NWU2LTYyOTVhNWI4N2VhZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxNGFkODNiMS0zMzkzLTExZWMtYjU1MC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE4OS4xMzUuMTAwLjU4IiwiY2l0eSI6IlphbW9yYSIsInBvc3RhbENvZGUiOiI1OTY0MCIsImNvdW50cnkiOiJNWCIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOjIwLjA0MDMsImRldmljZUxvbiI6LTEwMi4zMDkyLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI4OC4wLjAiLCJkZXZpY2VNYWtlIjoiZmlyZWZveCIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNC4yLTVjNzI4ZjNmMDc3MzdiNTE2MjZlZjhiNTliYjQ0ZTljOTk0OTE3MWYiLCJjbGllbnRJRCI6ImIxOGQwZGVkLWRhYTQtNGYwMC1hNDJhLTIxYmRmOTUwNmNkYiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL01leGljb19DaXR5Iiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTYzNDk3NTUzNCwianRpIjoiMjlhZWExMmYtNGIxYS00MDM1LWIyODQtZmE5YmM0OWI2NDRiIiwiaWF0IjoxNjM0OTQ2NzM0LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6WWpFNFpEQmtaV1F0WkdGaE5DMDBaakF3TFdFME1tRXRNakZpWkdZNU5UQTJZMlJpIn0.KktNFUvtjoGzeQisosW5yqndQC3ejGenqKXIzbf2_q4
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/600728952b1776000776526d/3063648/playlist.m3u8?deviceId=b18d0ded-daa4-4f00-a42a-21bdf9506cdb&deviceVersion=88.0.0&appVersion=5.104.2-5c728f3f07737b51626ef8b59bb44e9c9949171f&deviceType=web&deviceMake=firefox&sid=14ad83b1-3393-11ec-b550-0242ac110003&deviceDNT=0&deviceModel=web
+
+#comment-terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=b18d0ded-daa4-4f00-a42a-21bdf9506cdb&deviceVersion=88.0.0&appVersion=5.104.2-5c728f3f07737b51626ef8b59bb44e9c9949171f&deviceType=web&deviceMake=firefox&sid=14ad83b1-3393-11ec-b550-0242ac110003&advertisingId=&deviceLat=20.0403&deviceLon=-102.3092&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImMyYjU1MGVlLWQ2M2MtNDlkZC04NWU2LTYyOTVhNWI4N2VhZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxNGFkODNiMS0zMzkzLTExZWMtYjU1MC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE4OS4xMzUuMTAwLjU4IiwiY2l0eSI6IlphbW9yYSIsInBvc3RhbENvZGUiOiI1OTY0MCIsImNvdW50cnkiOiJNWCIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOjIwLjA0MDMsImRldmljZUxvbiI6LTEwMi4zMDkyLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI4OC4wLjAiLCJkZXZpY2VNYWtlIjoiZmlyZWZveCIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNC4yLTVjNzI4ZjNmMDc3MzdiNTE2MjZlZjhiNTliYjQ0ZTljOTk0OTE3MWYiLCJjbGllbnRJRCI6ImIxOGQwZGVkLWRhYTQtNGYwMC1hNDJhLTIxYmRmOTUwNmNkYiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL01leGljb19DaXR5Iiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTYzNDk3NTUzNCwianRpIjoiMjlhZWExMmYtNGIxYS00MDM1LWIyODQtZmE5YmM0OWI2NDRiIiwiaWF0IjoxNjM0OTQ2NzM0LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6WWpFNFpEQmtaV1F0WkdGaE5DMDBaakF3TFdFME1tRXRNakZpWkdZNU5UQTJZMlJpIn0.KktNFUvtjoGzeQisosW5yqndQC3ejGenqKXIzbf2_q4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="The Roku Channel",Nuestra Vision USA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
@@ -1368,8 +1370,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 #EXTINF:-1 group-title="The Roku Channel",MyTime movie network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",Televisa Ciudad Juarez (720p) [Not 24/7]
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCot4t8PVKz8TT5xVM8Eb00w/live
+#comment#EXTINF:-1 group-title="The Roku Channel",Televisa Ciudad Juarez (720p) [Not 24/7]
+#commenthttps://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCot4t8PVKz8TT5xVM8Eb00w/live
 
 #EXTINF:-1 group-title="The Roku Channel",Televisa Guadalajara (720p) [Not 24/7]
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1635306536/ei/x3d4YfzMOOyX6QKTpZ-gDg/ip/189.135.100.58/id/vZ7mS4erRDY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgUgPOjSimarqsiKQsBVfPjrQwrD1sn1G3QgikwtvzlkkCIQDbB5SCmC3ZqNu451Li9Ot8K5iYcfLz1uLbAy-F4Rt5ew%3D%3D/file/index.m3u8
@@ -1415,16 +1417,31 @@ http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
 #EXTINF:-1 group-title="The Roku Channel",TVMÁS (XHGV-TDT) (360p)
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",UDG44 TV [Not 24/7]
+#comment#EXTINF:-1 group-title="The Roku Channel",UDG44 TV [Not 24/7]
 #commenthttp://free.fullspeed.tv/query?url=https://www.dailymotion.com/embed/video/x3m1xfy?autoplay=1
-https://www.dailymotion.com/cdn/live/video/x3m1xfy.m3u8
+#commenthttps://www.dailymotion.com/cdn/live/video/x3m1xfy.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",AXN Latinoamérica (576p)
+http://209.91.213.10:8088/play/a011
+
+#EXTINF:-1 group-title="The Roku Channel",Fox Sports 2 Latin America (1080p)
+http://209.91.213.10:8088/play/a02r
+
+#EXTINF:-1 group-title="The Roku Channel",Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",Nick Jr Latinoamérica (480p)
+http://201.168.205.12:8000/play/a0ck/index.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",RT en Español (1080p) [Not 24/7]
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 group-title="The Roku Channel",Uno TV (720p) [Not 24/7]
 https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="The Roku Channel",Televisa Canal_9 Monterrey
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1635220811/ei/6yh3YayqDqWu7gKTnY2ACA/ip/189.135.100.58/id/yplQHcAx5Iw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJxCOS6z65kxVjc2M1n-Eho4rpCP-7zQpubu7_TQIQnbAiAPTjW37bKVgn-6Ql4h3GZhZLKXuV27kM5o6vcH-QWJFg%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1635318814/ei/vqd4YdbNM4OwlAParZSwBA/ip/189.135.100.58/id/NCGN51soXP0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJTOLHwatxtTF4jCrlfyDQImgVz9wgOr9lGnQe-E7icPAiEA87wwj8lEWOuuE08mJpW1BKVf4QBIzwgDut0fPZLL2Kg%3D/file/index.m3u8"
 
 #EXTINF:-1 tvg-id="" group-title="The Roku Channel",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
