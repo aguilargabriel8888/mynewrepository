@@ -1370,44 +1370,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 #EXTINF:-1 group-title="The Roku Channel",MyTime movie network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#comment#EXTINF:-1 group-title="The Roku Channel",Televisa Ciudad Juarez (720p) [Not 24/7]
-#commenthttps://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCot4t8PVKz8TT5xVM8Eb00w/live
-
-#EXTINF:-1 group-title="The Roku Channel",Televisa Guadalajara (720p) [Not 24/7]
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1635306536/ei/x3d4YfzMOOyX6QKTpZ-gDg/ip/189.135.100.58/id/vZ7mS4erRDY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgUgPOjSimarqsiKQsBVfPjrQwrD1sn1G3QgikwtvzlkkCIQDbB5SCmC3ZqNu451Li9Ot8K5iYcfLz1uLbAy-F4Rt5ew%3D%3D/file/index.m3u8
-#commenthttps://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
-
-#EXTINF:-1 group-title="The Roku Channel",Televisa Guerrero (480p) [Not 24/7]
-#commenthttps://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnxTRk2K1iNsQkgpWXxyj4w/live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1635308075/ei/yn14Ye_nOIOylu8PwIuesAo/ip/189.135.100.58/id/OPe_Cmkn9sI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgcwrjYzO3v6D1B9Wn9orL8C_SnqWFVVXi-9pE__IPTl4CIBn4gzaVCunROYS8rJYt08n7yXvG53TqKCdFrNd9lu0j/file/index.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",Televisa Laguna (720p) [Not 24/7]
-#commenthttps://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_mwCcsKDJLSWjply5s0h8w/live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1635308217/ei/WX54YYjZFvKkir4P4bS68AM/ip/189.135.100.58/id/ulbbFeTxWOs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAI9GUyh6PMXkLZlLGk3grQ6StqAfstZUC1vsl2kOr0V2AiEAm41RkaCxWmVeABFhVd2MnBMyaNV9RFaTxiw5mOyHbIo%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",Televisa Monterrey (720p) [Not 24/7]
-#commenthttps://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1635306820/ei/5Hh4YdqDII6a2_gPk62l6Ag/ip/189.135.100.58/id/NCGN51soXP0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJiNsBrhfSqFtFbNAUqa4r-LoEOx3ziV1JVNbEprI9s6AiBXfi8L3jRg-IZzJaSX2jSHkkyfTdCP61F-OZTr22sPqA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",Televisa News Mexico (720p) [Not 24/7]
-#commenthttps://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUsm-fannqOY02PNN67C0KA/live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1635307827/ei/03x4YfeIGIeniwSA14r4Dw/ip/189.135.100.58/id/ujksVlR9i8w.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJ7y9qwbeoRjHuK9Xiix4TZXNZy1DocoFuct2LXaIRTrAiBZxkqjOn8PDtsARC_0CCex08g-weFkYKxspW_pi-KldQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",Televisa Piedras Negras (720p) [Not 24/7]
-#commenthttps://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCxK8C1E8UZ5RipNXIBYEvTA/live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1635308356/ei/5H54Ye_nGZHyNojYs-gG/ip/189.135.100.58/id/bCHQxvEssu0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgbGDgbpHsHjbDxZyztL9iiHoBDME9MU9RA5pNLUMJYzYCIFV8MdBThVv6S_yXc8jcdaeRkaeaCx7xgzT4_hHLE26x/file/index.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",Televisa San Luis Potosí (720p) [Not 24/7]
-#commenthttps://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCaRuyaHshLdq462E9_pLzdA/live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1635307528/ei/qHt4Yb3rMeKKlu8P_rqhkAw/ip/189.135.100.58/id/GChZ6KoIdTE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgF4JohLGo-VZFvVkORoovLXC8vjknd5gNuaQk7b44guACICOt7_f5GuYzDIpxI1d3va5RlxOyBKBESq_V7-TLQNtx/file/index.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",Televisa Veracruz (720p) [Not 24/7]
-#commenthttps://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg/live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1635308505/ei/eH94Ydm2OZqZir4Potyt6Aw/ip/189.135.100.58/id/ljnuK8-xO5I.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgNdOIyOAMb4DU4wTEgXpyFpSoICQG74-DsxciieKS_b8CIQCvsV94iiCFKqv_11YJqpBlcJpvHYF_gHQJwwawNZfmDA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",Televisa Zacatecas (720p) [Not 24/7]
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1635308679/ei/JoB4YYv_OMLKiwTs8LmACA/ip/189.135.100.58/id/D7GOq1GNJr4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgadYrGWuGBVlcLF92bdu7nA-Gs9XY4cMQXf0hmVPh5-sCIQCo9PE75YroDZC4JM6GRpHzIUED2dyxYS0QZPnOMa9PeQ%3D%3D/file/index.m3u8
-
 #EXTINF:-1 group-title="The Roku Channel",Tlaxcala Televisión (360p) [Not 24/7]
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
 
