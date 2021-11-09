@@ -14,8 +14,11 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 
 #EXTINF:-1 tvg-id="" group-title="THE_BEST_KIDS_TV",PBS Kids Florida (1080p)
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
-#EXTINF:-1 tvg-id="" group-title="THE_BEST_KIDS_TV",PBS Kids San Diego (KPBS-DT4) (432p)
-https://cdn87.theus6tv.tk/locals/SanDiego/kpbs-dt4.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="THE_BEST_KIDS_TV",PBS Kids San Diego (KPBS-DT4) (432p)
+#commenthttps://cdn87.theus6tv.tk/locals/SanDiego/kpbs-dt4.m3u8
+
+#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Arizona (KAET-DT4) (1080p)
+https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
 
 #EXTINF:-1 group-title="THE_BEST_KIDS_TV",ABC Kids (720p) [Not 24/7]
 https://c.mjh.nz/101002210222
@@ -463,6 +466,9 @@ http://203.154.243.89:11205
 #EXTINF:-1 group-title="ENTERTAIMENT",Warner TV (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAIMENT",NBCLX (1080p)
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
 
 #EXTINF:-1 group-title="ENTERTAIMENT",English Club TV (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -2228,6 +2234,49 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuweatherspy/CDN
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Made in Hollywood
 https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",ACC Network (720p)
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",ActionMax East (360p) [Not 24/7]
+http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",AMG TV (1080p)
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",Amga TV (720p) [Not 24/7]
+https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",byu TV (720p)
+https://a.jsrdn.com/broadcast/d5b46/+0000/c.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",Camp Spoopy (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+
+#EXTINF:-1 group-title="The Roku Channel",Cinemax East (360p) [Not 24/7]
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",KBP Sports (720p) [Not 24/7]
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",MPT PBS Owings Mills MD (1080p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+
+
+#EXTINF:-1 group-title="The Roku Channel",NBCLX (1080p)
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
+
+#EXTINF:-1 tvg-id="NYXT.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/KiIzWmO.jpg" group-title="",NYXT (1080p)
+https://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
+
+#EXTINF:-1 tvg-id="TCTKids.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YUaeJiC.png" group-title="Kids",TCT Kids (1080p)
+https://iptv-all.lanesh4d0w.codes/united-states/tctkids
+
+#EXTINF:-1 tvg-id="TGJunior.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cZ4pGmk.png" group-title="",TG Junior (1080p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
+
+
+#EXTINF:-1 tvg-id="WatchItKid.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/DAhbkLv.png" group-title="Kids",Watch It Kid (720p)
+https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
 
 #comment#EXTINF:-1 group-title="The Roku Channel",Roku | tbs
 #commenthttp://live.tv247.club/live/tbs.m3u8
