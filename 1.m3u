@@ -808,6 +808,12 @@ https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
 #EXTINF:-1 tvg-chno="5045" tvg-id="STIRR | movies" tvg-name="STIRR | movies" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/5fd662e5-864f-4739-a6ec-67f00b2d95c7-small3x1_stirr_1219_epg_stirrmovies_1920x1080.png?1576019523553" group-title="STIRR Tv",STIRR | movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 
+#EXTINF:-1 group-title="STIRR Tv",STIRR TV Mix (720p)
+https://dai.google.com/linear/hls/event/ZP8ZMv95Q0Gm9EiyYOGHAA/master.m3u8
+
+#EXTINF:-1 group-title="STIRR Tv",STIRR City Los Angeles (720p)
+https://dai.google.com/linear/hls/event/n3PVAFmPTJSVYjdSVf7XZw/master.m3u8
+
 #EXTINF:-1 group-title="STIRR Tv",STIRR | Star Movies (720p)
 https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
 
@@ -2300,9 +2306,14 @@ https://spotlight-rokuus.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight-roku/CD
 #EXTINF:-1 group-title="The Roku Channel",MovieMix (720p)
 https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",Qubo (720p)
-http://ion-qubo-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",Ion Qubo (720p)
+https://ion-qubo-1.vizio.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 group-title="The Roku Channel",Fido TV
+https://fidotv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",Spotlight (1080p)
+https://spotlight-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="The Roku Channel",NBCLX (1080p)
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
