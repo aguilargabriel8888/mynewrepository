@@ -241,7 +241,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 #commenthttps://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" tvg-country="US" tvg-url="" group-title="SPORTS",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#comment#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-language="English" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-country="AU" #commenttvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="SPORTS",,Fox Sports News
+#comment#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-language="English" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-country="AU" #commenttvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="SPORTS",Fox Sports News
 #commenthttps://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" tvg-country="US" tvg-url="" group-title="SPORTS",Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
@@ -318,11 +318,11 @@ https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The Weather Channel (720p)
 https://cdn88.theus6tv.tk/united-states/cable/the-weather-channel.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Univision East (WXTV) (720p)
-https://cdn87.theus6tv.tk/locals/NewYorkCity/wxtv-dt1.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Univision East (WXTV) (720p)
+#commenthttps://cdn87.theus6tv.tk/locals/NewYorkCity/wxtv-dt1.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Univision West (KDTV) (720p)
-https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt2.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Univision West (KDTV) (720p)
+#commenthttps://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Camare Smile Tv (720)
 https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
@@ -470,9 +470,9 @@ https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ENTERTAIMENT",NBCLX (1080p)
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
 
-#EXTINF:-1 group-title="ENTERTAIMENT",English Club TV (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s37/index.m3u8
+#comment#EXTINF:-1 group-title="ENTERTAIMENT",English Club TV (480p)
+#comment#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#commenthttp://ott-cdn.ucom.am/s37/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAIMENT",MyTime movie network (1080p)
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
@@ -538,9 +538,9 @@ https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CineMAX us
 #commenthttp://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NICKELODEON AU
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NICKELODEON AU
 #commenthttp://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
-http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
+#commenthttp://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",AFV Español (720p)
@@ -599,22 +599,22 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufunnyordie/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",HA! That's Funny (720p)
 https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",HBO Family
+#commenthttps://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",HBO PREMIUM (360p)
 #commenthttps://s.vdo.ai/vhs/1.m3u8
 
-#EXTINF:-1 group-title="ENTERTAIMENT",HBO Family East (1080p)
-https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:-1 group-title="ENTERTAIMENT",HBO Hits (1080p)
-https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-#EXTINF:-1 group-title="ENTERTAIMENT",HBO Hits (1080p)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 group-title="ENTERTAIMENT",HBO Signature East (1080p)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 group-title="ENTERTAIMENT",HBO Signature East (1080p)
-https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
+#comment#EXTINF:-1 group-title="ENTERTAIMENT",HBO Family East (1080p)
+#commenthttps://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+#comment#EXTINF:-1 group-title="ENTERTAIMENT",HBO Hits (1080p)
+#commenthttps://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+#comment#EXTINF:-1 group-title="ENTERTAIMENT",HBO Hits (1080p)
+#commenthttps://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#comment#EXTINF:-1 group-title="ENTERTAIMENT",HBO Signature East (1080p)
+#commenthttps://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#comment#EXTINF:-1 group-title="ENTERTAIMENT",HBO Signature East (1080p)
+#commenthttps://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Pluto TV Garfield (720p)
