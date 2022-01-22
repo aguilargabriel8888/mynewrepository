@@ -249,8 +249,30 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC
 #commenthttps://cdn2.sports24.win/abc.m3u8
 
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CW
-#commenthttps://bozztv.com/fencoder01/teleup-wlyh/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The CW New York NY (WPIX1) (720p)
+http://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC Spokane
+http://encodercdn1.frontline.ca/kamino/output/ABC_Spokane/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC Spokane (720)
+http://encodercdn1.frontline.ca/kamino/output/ABC_Spokane_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TSN5 (720)
+http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", ZeeCinema
+http://208.115.215.42/ZEE_CInema_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", Showtime East
+http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", HDNET MOvies
+http://tvdynasty.ddns.net:25461/live/tvdynasty-trial1/tvdynasty/933.m3u8
+
 
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS
 #commenthttps://ottproxy.yuppcdn.net/live/ustvnow/60/hd/hls/live/2004009/whphdmsl1/whphdmsl1/playlist.m3u8?hdnts=st=1598227242~exp=1598248842~acl=!*/#comment*!/payload/yupptvott_5_2325782_48a4510a-4a26-985c-cecc-de2fd4d0b64d_US_18.218.24.5_ustvnow_3_channel_60_-1/#comment*~data=yupptvott_5_2325782_48a4510a-4a26-985c-cecc-#commentde2fd4d0b64d_US_18.218.24.5_ustvnow_3_channel_60_-1~hmac=e5e479b2d16a7c1e17d0dbec1bddc66c17f4a91bdf7877ece0058abebaffd710
@@ -426,13 +448,53 @@ https://circle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", XUMO TV|Preview Channel
 https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
 
-
+#comment pagina donde se obtuvo ITV channel https://yamcode.com/htb-lokalluar-1
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV
 #commenthttps://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV
+http://93.152.174.144:4000/play/itv1/index.m3u8
 
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV2
 #commenthttp://51.52.156.22:8888/http/005
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV2
+http://93.152.174.144:4000/play/itv2/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Sky Sport 1
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Sky Sport 2
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Sky Sport 3
+http://93.152.174.144:4000/play/skysports3/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Sky Sport 4
+http://93.152.174.144:4000/play/skysports4/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Sky Sport 5
+http://93.152.174.144:4000/play/skysports5/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CANAL 12
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/live
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",SET PUEBLA 26.1
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",SET PUEBLA 26.2
+http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TELESISTEMA CANAL 9
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+
+#comment checar todos los canales de televisa locales en https://shen-yu.github.io/iptv-list/?amp=1
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", TELEVISA GUADALAJARA
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", ICI Montreal
+https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FGTV
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
 
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV3
 #commenthttp://51.52.156.22:8888/http/006
