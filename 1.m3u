@@ -261,16 +261,10 @@ http://encodercdn1.frontline.ca/kamino/output/ABC_Spokane_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TSN5 (720)
 http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", ZeeCinema
-http://208.115.215.42/ZEE_CInema_HD/index.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", Showtime East
-http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", HDNET MOvies
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", HDNET Movies
 http://tvdynasty.ddns.net:25461/live/tvdynasty-trial1/tvdynasty/933.m3u8
 
 
@@ -474,27 +468,8 @@ http://93.152.174.144:4000/play/skysports4/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Sky Sport 5
 http://93.152.174.144:4000/play/skysports5/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CANAL 12
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/live
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",SET PUEBLA 26.1
-http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",SET PUEBLA 26.2
-http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TELESISTEMA CANAL 9
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
-
-#comment checar todos los canales de televisa locales en https://shen-yu.github.io/iptv-list/?amp=1
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", TELEVISA GUADALAJARA
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
-
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", ICI Montreal
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FGTV
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
 
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV3
 #commenthttp://51.52.156.22:8888/http/006
@@ -502,7 +477,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/
 
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV4
 #commenthttp://51.52.156.22:8888/http/007
-
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV
 #commenthttp://31.220.41.88:8081/live/itv1.stream/chunks.m3u8

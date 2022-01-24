@@ -555,6 +555,63 @@ http://45.55.127.106/live/unicanal_mid.m3u8
 #EXTINF:-1 group-title="MEXICO",Central FM
 https://5ca39be538307.streamlock.net:443/centralfm/videocentralfm/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="MEXICO",CANAL 12
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/live
+
+#EXTINF:-1 tvg-id="" group-title="MEXICO",SET PUEBLA 26.1
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MEXICO",SET PUEBLA 26.2
+http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MEXICO",TELESISTEMA CANAL 9
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+
+#comment checar todos los canales de televisa locales en https://shen-yu.github.io/iptv-list/?amp=1
+#EXTINF:-1 tvg-id="" group-title="MEXICO", TELEVISA GUADALAJARA
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
+
+#EXTINF:-1 tvg-id="" group-title="MEXICO", TELEVISA AGUASCALIENTES
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg/live
+
+#EXTINF:-1 tvg-id="" group-title="MEXICO", TELEVISA CHIHUAHUA
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg/live
+
+#EXTINF:-1 tvg-id="" group-title="MEXICO", TELEVISA CD. JUAREZ
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCot4t8PVKz8TT5xVM8Eb00w/live
+
+#EXTINF:-1 tvg-id="" group-title="MEXICO", TELEVISA ESTADO DE MEXICO
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9DH82HVSf4katwMeUpY80w
+
+#EXTINF:-1 tvg-id="" group-title="MEXICO", TELEVISA GUERRERO
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnxTRk2K1iNsQkgpWXxyj4w/live
+
+#EXTINF:-1 tvg-id="" group-title="MEXICO", TELEVISA LAGUNA
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_mwCcsKDJLSWjply5s0h8w/live
+
+#EXTINF:-1 tvg-id="" group-title="MEXICO", TELEVISA MEXICALI
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q/live
+
+#EXTINF:-1 tvg-id="" group-title="MEXICO", TELEVISA MONTERREY
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
+
+#EXTINF:-1 tvg-id="" group-title="MEXICO", TELEVISA NORESTE
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC752DYv5vPlTSMrvEjfZXcw/live
+
+#EXTINF:-1 tvg-id="" group-title="MEXICO", TELEVISA PIEDRAS NEGRAS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCxK8C1E8UZ5RipNXIBYEvTA/live
+#EXTINF:-1 tvg-id="" group-title="MEXICO", TELEVISA SAN LUIS POTOSI
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCaRuyaHshLdq462E9_pLzdA/live
+#EXTINF:-1 tvg-id="" group-title="MEXICO", TELEVISA SONORA
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCyzWMHGS7bs0sot6KZk5EZg/live
+#EXTINF:-1 tvg-id="" group-title="MEXICO", TELEVISA VERACRUZ
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg/live
+#EXTINF:-1 tvg-id="" group-title="MEXICO", TELEVISA ZACATECAS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q/live
+
+#EXTINF:-1 tvg-id="" group-title="MEXICO",UDG44TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3m1xfy
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J6jnsBS.png" group-title="MEXICO",Radar_TV
 https://stream.oursnetworktv.com/latin/radarTV/master.m3u8
 
