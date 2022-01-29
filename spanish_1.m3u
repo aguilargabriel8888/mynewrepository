@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="MOVIES",Digital 15 (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/8268514/player
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MOVIES",Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
@@ -155,6 +158,9 @@ http://8.9.4.128:8080/hls/boomerangtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auAB6jh.png" group-title="MOVIES",ANIME ZONE TV
 http://azxtv.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/auAB6jh.png" group-title="MOVIES",Telemicro (720p) [Not 24/7]
+https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
+
 #EXTINF:-1 group-title="MOVIES",TELESISTEMAS
 #commenthttps://ss3.domint.net:3114/t11_str/telesistema/playlist.m3u8
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
@@ -199,6 +205,9 @@ http://canaldelsol01.streamprolive.com/hls/live.m3u8
 
 #EXTINF:-1 group-title="MOVIES", Dreiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES", Telemicro (720p) [Not 24/7]
+https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
 
 #comment#EXTINF:-1 tvg-id="45166" tvg-name="Pintana TV" tvg-logo="https://lh3.googleusercontent.com/-Mthb4RQqfgU/XxyJnpes1QI/AAAAAAAA3Vo/Gmg_Wcr0Gv80KzXGNa3Z91BEea2r4ID0wCK8BGAsYHg/s0/2020-07-25.png" group-title="MOVIES", Pintana TV
 #commenthttps://tls.cdnz.cl/lapintana/live/playlist.m3u8
