@@ -260,7 +260,8 @@ https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO",Canal Once Nacional
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+#commenthttp://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+https://live2.canaloncelive.tv/livepkgr3/cepro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO",Canal Once Internacional
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
