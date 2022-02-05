@@ -12,13 +12,24 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",tvo KIDS
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="THE_BEST_KIDS_TV",PBS Kids Florida (1080p)
+#EXTINF:-1 tvg-id="" group-title="THE_BEST_KIDS_TV",PBS Kids Eastern/Central (1080p)
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+
+#EXTINF:-1 tvg-id="PBSKidsHAST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Hawaii (1080p)
+https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8
+
 #comment#EXTINF:-1 tvg-id="" group-title="THE_BEST_KIDS_TV",PBS Kids San Diego (KPBS-DT4) (432p)
 #commenthttps://cdn87.theus6tv.tk/locals/SanDiego/kpbs-dt4.m3u8
 
-#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Arizona (KAET-DT4) (1080p)
+#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Mountain (KAET-DT4) (1080p)
 https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
+
+#EXTINF:-1 group-title="THE_BEST_KIDS_TV", PBS Kids Alaska (1080p)
+https://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8
+
+#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Pacific (1080p)
+https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
+
 
 #EXTINF:-1 group-title="THE_BEST_KIDS_TV",ABC Kids (720p) [Not 24/7]
 https://c.mjh.nz/101002210222
@@ -206,35 +217,6 @@ https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
 #commenthttps://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
 https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
 
-#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",Sports bein xtra
-#commenthttps://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",fubo sport
-#commenthttps://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",FTF
-#commenthttps://dai2.xumo.com/amagi_hls_data_xumo1212A-elevensports/CDN/master.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",ACCDN
-#commenthttps://live-content.xumo.com/251/content/XM0U6I7UM45CR2/20942243/master.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",NITRO CIRCUS
-#commenthttps://live-content.xumo.com/284/content/XM0NUMEWRVF2PL/19501775/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORTS",Players
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",USGA
-#commenthttps://live-content.xumo.com/1829/content/XM0WAW7SM2QHES/21910517/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORTS",Stadium
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",Football daily
-#commenthttps://live-content.xumo.com/249/content/XM0WPNA7PAIIAR/18785950/master.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",Adventure sport network
-#commenthttps://live-content.xumo.com/214/content/XM0B1X9MHVEAX9/18411764/master.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",Fox Deporte
-#commenthttps://live-content.xumo.com/189/content/XM0R17CMSHRJOA/22230955/master.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",USA Today sports wired
-#commenthttps://live-content.xumo.com/210/content/XM0DL423YIFEUH/22220345/master.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",field and stream
-#commenthttps://live-content.xumo.com/72/content/XM0H550PUCHS6D/3201321/master.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",waypointTv
-#commenthttps://live-content.xumo.com/908/content/XM0BAKINIM77SL/21438643/master.m3u8
-
 #comment#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-country="US" tvg-url="" group-title="SPORTS",Bek Sports East
 #commenthttps://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #comment#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-country="US" tvg-url="" group-title="SPORTS",Bek Sports West
@@ -267,6 +249,111 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", HDNET Movies
 http://tvdynasty.ddns.net:25461/live/tvdynasty-trial1/tvdynasty/933.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",AXS TV Now (1080p)
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Bounce Tallahassee FL (WTXL-TV2) (480p)
+https://5e6cea03e25b6.streamlock.net/live/BOUNCE.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Channel 23 Clark Vancouver TV (CVTV) (1080p) [Not 24/7]
+https://wowzaprod3-i.akamaihd.net/hls/live/252233/15b8d438/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Seattle WA (KIRO-TV1) (720p)
+http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Seattle WA (KIRO-TV1) (480p)
+http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CCX Media North Brooklyn Park MN (1080p)
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Buffalo NY (WIVB-TV1) (720p)
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_CBSHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Detroit MI (WWJ-TV1) (720p)
+http://encodercdn1.frontline.ca/encoder183/output/CBS_Detroit_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Detroit MI (WWJ-TV1) (480p)
+http://encodercdn1.frontline.ca/encoder183/output/CBS_Detroit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Fox Boston MA (WFXT1) (480p)
+http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Fox Boston MA (WFXT1) (720p) [Not 24/7]
+http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Fox Buffalo NY (WUTV1) (720p)
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_FOXHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX Rochester NY (WUHF-DT1) (720p)
+http://encodercdn1.frontline.ca/encoder184/output/FOX_Rochester_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Fox Seattle WA (KCPQ1) (720p)
+http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Fox Seattle WA (KCPQ1) (480p)
+http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX Spokane WA (KAYU-TV1) (720p)
+http://encodercdn1.frontline.ca/encoder182/output/FOX_Spokane_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX Spokane WA (KAYU-TV1) (480p)
+http://encodercdn1.frontline.ca/encoder182/output/FOX_Spokane/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Fox Tallahassee FL (WTWC-TV2) (720p)
+https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Miami City TV (360p) [Not 24/7]
+https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Miami TV (720p) [Not 24/7]
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Miami TV Jenny Live (720p) [Not 24/7]
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Miami TV Latino (720p)
+https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Miami TV México (720p) [Not 24/7]
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC Boston MA (WBTS-CD1) (720p)
+http://encodercdn1.frontline.ca/encoder183/output/NBC_Boston_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC Boston MA (WBTS-CD1) (480p) [Not 24/7]
+http://encodercdn1.frontline.ca/encoder183/output/NBC_Boston/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC Buffalo NY (WGRZ1) (720p)
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_NBCHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC Seattle WA (KING-TV1) (720p)
+http://encodercdn1.frontline.ca/bespin/output/NBC_Seattle_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC Seattle WA (KING-TV1) (480p)
+http://encodercdn1.frontline.ca/bespin/output/NBC_Seattle/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC Spokane WA (KHQ-TV1) (720p)
+http://encodercdn1.frontline.ca/encoder184/output/NBC_Spokane_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC Spokane WA (KHQ-TV1) (480p)
+http://encodercdn1.frontline.ca/encoder184/output/NBC_Spokane/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC Tallahassee FL (WTWC-TV1) (720p)
+https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS 39 Extra Philadelphia PA (WPPT) (480p)
+https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS Buffalo NY (WNED-TV) (720p)
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_PBSHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS Seattle WA (KCTS-TV1) (720p)
+http://encodercdn1.frontline.ca/bespin/output/PBS_Seattle_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS Seattle WA (KCTS-TV1) (480p)
+http://encodercdn1.frontline.ca/bespin/output/PBS_Seattle/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS Spokane WA (KSPS-TV1) (720p)
+http://encodercdn1.frontline.ca/encoder183/output/PBS_Spokane_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS Spokane WA (KSPS-TV1) (480p)
+http://encodercdn1.frontline.ca/encoder183/output/PBS_Spokane/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS Tallahassee FL (WFSU-TV1) (720p)
+https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS World Channel (480p)
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The CW Tallahassee FL (WTLF1) (720p) [Not 24/7]
+https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TVS Television Network (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TVS Today Home Entertainment Network (484p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-TVSTodayHomeEntertainment/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",UCTV University of California (720p) [Not 24/7]
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS
 #commenthttps://ottproxy.yuppcdn.net/live/ustvnow/60/hd/hls/live/2004009/whphdmsl1/whphdmsl1/playlist.m3u8?hdnts=st=1598227242~exp=1598248842~acl=!*/#comment*!/payload/yupptvott_5_2325782_48a4510a-4a26-985c-cecc-de2fd4d0b64d_US_18.218.24.5_ustvnow_3_channel_60_-1/#comment*~data=yupptvott_5_2325782_48a4510a-4a26-985c-cecc-#commentde2fd4d0b64d_US_18.218.24.5_ustvnow_3_channel_60_-1~hmac=e5e479b2d16a7c1e17d0dbec1bddc66c17f4a91bdf7877ece0058abebaffd710
