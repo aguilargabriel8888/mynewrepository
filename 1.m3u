@@ -12,10 +12,10 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",tvo KIDS
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="THE_BEST_KIDS_TV",PBS Kids Eastern/Central (1080p)
+#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Eastern/Central (1080p)
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 
-#EXTINF:-1 tvg-id="PBSKidsHAST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Hawaii (1080p)
+#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Hawaii (1080p)
 https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8
 
 #comment#EXTINF:-1 tvg-id="" group-title="THE_BEST_KIDS_TV",PBS Kids San Diego (KPBS-DT4) (432p)
@@ -126,21 +126,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-pocket-watch/CDN/master.m3u8
 #commenthttps://ul.cdn946.net:8443/hls/yu3w26c9imgo814.m3u8?s=mVVEmNJjMYsILlbnbSZaCQ&e=1597289314
 #comment#EXTINF:-1 tvg-id="" group-title="SPORTS",beIN Sports USFuboTv
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS",MLB
-https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",MLB
+#commenthttps://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #commenthttps://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/#commentMLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20200811_1597157620144/3000K/3000_slide.m3u8
 #commenthttps://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/#commentMLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20200814_1597418609355/500K/500_slide.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",FUBO TV
-#commenthttps://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",FOX SPORT 2
-#commenthttps://ul.cdn946.net:8443/hls/wemwrqrpx3m.m3u8?s=FYo5SC70IuXFo0iIa1Y4OQ&e=1597301692
-
-#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",ESPN
-#commenthttps://cdn2.sports24.win/espn.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",ESPN2
-#commenthttps://cdn2.sports24.win/espn2.m3u8?s=mVVEmNJjMYsILlbnbSZaCQ&e=1597289314
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS",FOX Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
@@ -381,11 +370,11 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CW
 #commenthttps://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Dallas (KTVT) (720p)
-https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Dallas (KTVT) (720p)
+#commenthttps://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Dallas (KTVT) (180p)
-https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master_6.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Dallas (KTVT) (180p)
+#commenthttps://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master_6.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -404,11 +393,11 @@ https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX 7 Florida (WSVN) (720p)
 #commenthttps://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 New York NY (WABC-TV) (720p)
-https://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 New York NY (WABC-TV) (720p)
+#commenthttps://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 San Francisco CA (KGO-TV) (720p)
-https://cdn87.theus6tv.tk/locals/BayArea/kgo-dt1.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 San Francisco CA (KGO-TV) (720p)
+#commenthttps://cdn87.theus6tv.tk/locals/BayArea/kgo-dt1.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 Sarasota FL (WWSB) (720p)
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
@@ -418,8 +407,8 @@ https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The CW Philadelphia (HEVC) (720p)
 #commenthttps://cdn007.the6tv.duckdns.org:2443/the6tv-ota/hevc/philadelphia/WPSG-DT1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The Weather Channel (720p)
-https://cdn88.theus6tv.tk/united-states/cable/the-weather-channel.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The Weather Channel (720p)
+#commenthttps://cdn88.theus6tv.tk/united-states/cable/the-weather-channel.m3u8
 
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Univision East (WXTV) (720p)
 #commenthttps://cdn87.theus6tv.tk/locals/NewYorkCity/wxtv-dt1.m3u8
@@ -441,8 +430,8 @@ https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX 15 West Texas Abilene TX (KXVA) (1080p)
 https://livevideo01.myfoxzone.com/hls/live/2017381/newscasts/live.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC 7 San Diego CA (KNSD-DT1) (1080p)
-https://cdn87.theus6tv.tk/locals/SanDiego/knsd-dt1.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC 7 San Diego CA (KNSD-DT1) (1080p)
+#commenthttps://cdn87.theus6tv.tk/locals/SanDiego/knsd-dt1.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX 23 Tulsa
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
@@ -459,26 +448,6 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC 15 Madison WI (WMTVNBC) (720p)
 https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
 
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", Pb TV
-#commenthttp://187.188.147.165:8000/play/a00l/index.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", AXN
-#commenthttp://136.243.177.164/AXN/playlist.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", Distro TV | CINELIFE 
-#commenthttps://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/6a34840e-b248-4e47-92c9-94c141b900c1/5.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", XUMO TV | GOT TALENT GLOBAL
-#commenthttps://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", CARTOONNETWORK
-#commenthttp://136.243.177.164/CARTOONNETWORK/playlist.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", Warner TV
-#commenthttp://203.154.243.89:11205/
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", NBC
-#commenthttp://203.154.243.89:11208/
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Qello Concerts (1080p)
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
@@ -2375,8 +2344,8 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 group-title="The Roku Channel",Amga TV (720p) [Not 24/7]
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",byu TV (720p)
-https://a.jsrdn.com/broadcast/d5b46/+0000/c.m3u8
+#comment#EXTINF:-1 group-title="The Roku Channel",byu TV (720p)
+#commenthttps://a.jsrdn.com/broadcast/d5b46/+0000/c.m3u8
 
 #EXTINF:-1 group-title="The Roku Channel",Camp Spoopy (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
@@ -2497,8 +2466,8 @@ https://studio1091-samsungus.amagi.tv/popcornflix-xumo/playlist.m3u8
 #EXTINF:-1 tvg-id="bb3805" tvg-name="The_Design_Network" tvg-chno="274" tvg-logo="https://i.imgur.com/LoUGscj.png" group-title="The Roku Channel",The Design Network 
 https://thedesignnetwork-tdn-5.plex.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",Telemundo 40 Arizona (1080p)
-https://cdn87.theus6tv.tk/locals/Pheonix/ktaz-dt1.m3u8
+#comment#EXTINF:-1 group-title="The Roku Channel",Telemundo 40 Arizona (1080p)
+#commenthttps://cdn87.theus6tv.tk/locals/Pheonix/ktaz-dt1.m3u8
 
 #EXTINF:-1 tvg-id="8b1169" tvg-name="KidsFlix" tvg-chno="722" tvg-logo="https://i.imgur.com/ZbAVzad.png" group-title="The Roku Channel",KidsFlix 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop
