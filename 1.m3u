@@ -217,6 +217,9 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" tvg-country="US" tvg-url="" group-title="SPORTS",Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
+#EXTINF:-1 group-title="SPORTS",fubo Sports Network (720p)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC
 #commenthttps://cdn2.sports24.win/abc.m3u8
 
@@ -246,6 +249,9 @@ https://5e6cea03e25b6.streamlock.net/live/BOUNCE.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Channel 23 Clark Vancouver TV (CVTV) (1080p) [Not 24/7]
 https://wowzaprod3-i.akamaihd.net/hls/live/252233/15b8d438/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC One Scotland (480p)
+http://www.filmon.com/vr-streams/3166.high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Seattle WA (KIRO-TV1) (720p)
 http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle_720p/playlist.m3u8
@@ -2468,6 +2474,64 @@ https://thedesignnetwork-tdn-5.plex.wurl.com/manifest/playlist.m3u8
 
 #comment#EXTINF:-1 group-title="The Roku Channel",Telemundo 40 Arizona (1080p)
 #commenthttps://cdn87.theus6tv.tk/locals/Pheonix/ktaz-dt1.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",WXTV-DT1 (Univision 41) (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",WPVI-DT1 (ABC 6) (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-pi.theus6tv.tk/hls/6.1/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",WNYW-DT1 (FOX 5) (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-ny.theus6tv.tk/hls/5.1/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",WNBC-DT1 (NBC 4) (1080p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",WCBS-DT1 (CBS 2) (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",WACP-DT6 (The Family Channel) (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-pi.theus6tv.tk/hls/4.6/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",WCAU-DT1 (NBC 10) (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-pi.theus6tv.tk/hls/10.1/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",KYW-DT1 (CBS 3) (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-pi.theus6tv.tk/hls/3.1/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",WABC-DT1 (ABC 7) (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",WMBQ-LD (FNX) (432p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-ny.theus6tv.tk/hls/46.1/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",Pluto TV CBS Sports HQ (1080p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="The Roku Channel",Pluto TV CBSN (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a6b92f6e22a617379789618&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=204&terminate=false&userId=
+
+#EXTINF:-1 group-title="The Roku Channel",Pluto TV CBSN Baltimore MD (720p) [Not 24/7]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f75919718aed0007250d7a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+
+#EXTINF:-1 group-title="The Roku Channel",WKOB-LD2 (Daystar) (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-ny.theus6tv.tk/hls/42.2/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",WHYY-DT3 (Y Kids) (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-pi.theus6tv.tk/hls/12.3/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",WKOB-LD1 (Azteca America 42) (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-ny.theus6tv.tk/hls/42.1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="8b1169" tvg-name="KidsFlix" tvg-chno="722" tvg-logo="https://i.imgur.com/ZbAVzad.png" group-title="The Roku Channel",KidsFlix 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop
